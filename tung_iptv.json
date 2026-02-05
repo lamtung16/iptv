@@ -1,0 +1,2867 @@
+{
+  "id": "tung-iptv",
+  "name": "Tung IPTV",
+  "description": "Converted from M3U",
+  "url": "",
+  "color": "#1E90FF",
+  "image": null,
+  "grid_number": 2,
+  "groups": [
+    {
+      "id": "football",
+      "name": "Football",
+      "display": "vertical",
+      "image": null,
+      "grid_number": 3,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "sky-sports-football-hd",
+          "name": "Sky Sports Football HD",
+          "label": null,
+          "image": {
+            "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sports-football-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sports-football-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-football/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sports-main-event-hd",
+          "name": "Sky Sports Main Event HD",
+          "label": null,
+          "image": {
+            "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sports-main-event-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sports-main-event-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sports-premier-league-hd",
+          "name": "Sky Sports Premier League HD",
+          "label": null,
+          "image": {
+            "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sports-premier-league-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sports-premier-league-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-premier-league/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-8-premier-league-nz",
+          "name": "Sky Sport 8 - Premier League NZ",
+          "label": null,
+          "image": {
+            "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-8-premier-league-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-8-premier-league-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "astro-premier-league",
+          "name": "Astro Premier League",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "astro-premier-league-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "astro-premier-league-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "astro-premier-league-2",
+          "name": "Astro Premier League 2",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "astro-premier-league-2-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "astro-premier-league-2-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league-2/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "astro-football",
+          "name": "Astro Football",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "astro-football-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "astro-football-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sports-football-fhd",
+          "name": "Sky Sports Football FHD",
+          "label": null,
+          "image": {
+            "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sports-football-fhd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sports-football-fhd-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/2000003",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sports-main-event-fhd",
+          "name": "Sky Sports Main Event FHD",
+          "label": null,
+          "image": {
+            "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sports-main-event-fhd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sports-main-event-fhd-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/2000001",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sports-premier-league-fhd",
+          "name": "Sky Sports Premier League FHD",
+          "label": null,
+          "image": {
+            "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sports-premier-league-fhd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sports-premier-league-fhd-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/2000002",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "peacock-premier-league-tv",
+          "name": "Peacock Premier League TV",
+          "label": null,
+          "image": {
+            "url": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "peacock-premier-league-tv-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "peacock-premier-league-tv-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/1100021",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-8-premier-league-nz",
+          "name": "Sky Sport 8 - Premier League NZ",
+          "label": null,
+          "image": {
+            "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-8-premier-league-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-8-premier-league-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/700008",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "now-sports-pl-1-fhd",
+          "name": "Now Sports PL 1 FHD",
+          "label": null,
+          "image": {
+            "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "now-sports-pl-1-fhd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "now-sports-pl-1-fhd-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/1100001",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "now-sports-pl-2-fhd",
+          "name": "Now Sports PL 2 FHD",
+          "label": null,
+          "image": {
+            "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "now-sports-pl-2-fhd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "now-sports-pl-2-fhd-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/1100002",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tennis",
+      "name": "Tennis",
+      "display": "vertical",
+      "image": null,
+      "grid_number": 3,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "tennis-channel-hd",
+          "name": "Tennis Channel HD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tennis-channel-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tennis-channel-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/us-tennis-channel/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tennis-channel-sd",
+          "name": "Tennis Channel SD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tennis-channel-sd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tennis-channel-sd-link-1",
+                          "name": "Server 1",
+                          "url": "https://tvpass.org/live/TennisChannel/sd",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tennis-channel-hd",
+          "name": "Tennis Channel HD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tennis-channel-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tennis-channel-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tennis-channel-fhd",
+          "name": "Tennis Channel FHD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tennis-channel-fhd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tennis-channel-fhd-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/40000040",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sports-tennis",
+          "name": "Sky Sports Tennis",
+          "label": null,
+          "image": {
+            "url": "https://i.imgur.com/ZNUDU1r.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sports-tennis-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sports-tennis-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-tennis/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sports-tennis",
+          "name": "Sky Sports Tennis",
+          "label": null,
+          "image": {
+            "url": "https://i.imgur.com/ZNUDU1r.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sports-tennis-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sports-tennis-link-1",
+                          "name": "Server 1",
+                          "url": "https://a1xs.vip/2000013",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn1",
+          "name": "TSN1",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn1-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn1-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn1-sd",
+          "name": "TSN1 SD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn1-sd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn1-sd-link-1",
+                          "name": "Server 1",
+                          "url": "https://tvpass.org/live/tsn1/sd",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn1-hd",
+          "name": "TSN1 HD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn1-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn1-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://fl1.moveonjoy.com/TSN_1/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn2",
+          "name": "TSN2",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn2-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn2-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn2-sd",
+          "name": "TSN2 SD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn2-sd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn2-sd-link-1",
+                          "name": "Server 1",
+                          "url": "https://tvpass.org/live/tsn2/sd",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn2-hd",
+          "name": "TSN2 HD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn2-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn2-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://fl1.moveonjoy.com/TSN_2/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn3",
+          "name": "TSN3",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn3-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn3-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn3-sd",
+          "name": "TSN3 SD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn3-sd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn3-sd-link-1",
+                          "name": "Server 1",
+                          "url": "https://tvpass.org/live/tsn3/sd",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn3-hd",
+          "name": "TSN3 HD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn3-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn3-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://fl1.moveonjoy.com/TSN_3/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn4",
+          "name": "TSN4",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn4-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn4-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-4/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn4-sd",
+          "name": "TSN4 SD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn4-sd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn4-sd-link-1",
+                          "name": "Server 1",
+                          "url": "https://tvpass.org/live/tsn4/sd",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn4-hd",
+          "name": "TSN4 HD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn4-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn4-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://fl1.moveonjoy.com/TSN_4/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn5",
+          "name": "TSN5",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn5-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn5-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-5/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn5-sd",
+          "name": "TSN5 SD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn5-sd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn5-sd-link-1",
+                          "name": "Server 1",
+                          "url": "https://tvpass.org/live/tsn5/sd",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tsn5-hd",
+          "name": "TSN5 HD",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tsn5-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tsn5-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://fl1.moveonjoy.com/TSN_5/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "display": "vertical",
+      "image": null,
+      "grid_number": 3,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "astro-grandstand",
+          "name": "Astro Grandstand",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "astro-grandstand-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "astro-grandstand-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-grandstand/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tnt-sports-1",
+          "name": "TNT Sports 1",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tnt-sports-1-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tnt-sports-1-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tnt-sports-2",
+          "name": "TNT Sports 2",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tnt-sports-2-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tnt-sports-2-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tnt-sports-3",
+          "name": "TNT Sports 3",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tnt-sports-3-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tnt-sports-3-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-3/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tnt-sports-4",
+          "name": "TNT Sports 4",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tnt-sports-4-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tnt-sports-4-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-4/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tnt-sports-5",
+          "name": "TNT Sports 5",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tnt-sports-5-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tnt-sports-5-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-5/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "usa-network",
+          "name": "USA Network",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "usa-network-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "usa-network-link-1",
+                          "name": "Server 1",
+                          "url": "https://tvpass.org/live/USANetworkEast/sd",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "usa-network-hd",
+          "name": "USA Network HD",
+          "label": null,
+          "image": {
+            "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "usa-network-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "usa-network-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "usa-network-hd",
+          "name": "USA Network HD",
+          "label": null,
+          "image": {
+            "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "usa-network-hd-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "usa-network-hd-link-1",
+                          "name": "Server 1",
+                          "url": "https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "espn",
+          "name": "ESPN",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "espn-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "espn-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "espn-2",
+          "name": "ESPN 2",
+          "label": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "espn-2-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "espn-2-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-1-nz",
+          "name": "Sky Sport 1 NZ",
+          "label": null,
+          "image": null,
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-1-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-1-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-2-nz",
+          "name": "Sky Sport 2 NZ",
+          "label": null,
+          "image": null,
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-2-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-2-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-3-nz",
+          "name": "Sky Sport 3 NZ",
+          "label": null,
+          "image": null,
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-3-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-3-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-3/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-4-nz",
+          "name": "Sky Sport 4 NZ",
+          "label": null,
+          "image": null,
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-4-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-4-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-4/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-5-nz",
+          "name": "Sky Sport 5 NZ",
+          "label": null,
+          "image": null,
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-5-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-5-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-6-nz",
+          "name": "Sky Sport 6 NZ",
+          "label": null,
+          "image": null,
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-6-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-6-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sky-sport-7-nz",
+          "name": "Sky Sport 7 NZ",
+          "label": null,
+          "image": null,
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "sky-sport-7-nz-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "sky-sport-7-nz-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/index.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "backup",
+      "name": "Backup",
+      "display": "vertical",
+      "image": null,
+      "grid_number": 3,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "cbs-sports-network-usa",
+          "name": "CBS Sports Network USA",
+          "label": null,
+          "image": null,
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "cbs-sports-network-usa-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "cbs-sports-network-usa-link-1",
+                          "name": "Server 1",
+                          "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "tennis-channel",
+          "name": "Tennis Channel",
+          "label": null,
+          "image": {
+            "url": "https://i.imgur.com/tsljAnY.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "tennis-channel-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "tennis-channel-link-1",
+                          "name": "Server 1",
+                          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "fubo-sports-network",
+          "name": "Fubo Sports Network",
+          "label": null,
+          "image": {
+            "url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png",
+            "type": "contain",
+            "width": 410,
+            "height": 410
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Main",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Live",
+                  "image": null,
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "fubo-sports-network-stream",
+                      "name": "Live",
+                      "image": null,
+                      "stream_links": [
+                        {
+                          "id": "fubo-sports-network-link-1",
+                          "name": "Server 1",
+                          "url": "https://jmp2.uk/stvp-USAJ2200023Z0",
+                          "type": "direct",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
