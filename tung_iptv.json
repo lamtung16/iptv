@@ -1,7 +1,7 @@
 {
   "id": "tung-iptv",
   "name": "Tung IPTV",
-  "description": "Converted from M3U",
+  "description": "Sports",
   "url": "",
   "color": "#1E90FF",
   "image": null,
@@ -22,8 +22,8 @@
           "image": {
             "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -73,8 +73,8 @@
           "image": {
             "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -124,8 +124,8 @@
           "image": {
             "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -175,8 +175,8 @@
           "image": {
             "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -226,8 +226,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -277,8 +277,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -328,8 +328,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -379,8 +379,8 @@
           "image": {
             "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -430,8 +430,8 @@
           "image": {
             "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -481,8 +481,8 @@
           "image": {
             "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -532,8 +532,8 @@
           "image": {
             "url": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -583,8 +583,8 @@
           "image": {
             "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -634,8 +634,8 @@
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -685,8 +685,8 @@
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -746,8 +746,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -797,8 +797,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -848,8 +848,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -899,8 +899,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -950,8 +950,8 @@
           "image": {
             "url": "https://i.imgur.com/ZNUDU1r.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1001,8 +1001,8 @@
           "image": {
             "url": "https://i.imgur.com/ZNUDU1r.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1052,8 +1052,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1103,8 +1103,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1154,8 +1154,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1205,8 +1205,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1256,8 +1256,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1307,8 +1307,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1358,8 +1358,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1409,8 +1409,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1460,8 +1460,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1511,8 +1511,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1562,8 +1562,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1613,8 +1613,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1664,8 +1664,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1715,8 +1715,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1766,8 +1766,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1827,8 +1827,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1878,8 +1878,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1929,8 +1929,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -1980,8 +1980,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2031,8 +2031,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2082,8 +2082,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2133,8 +2133,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2184,8 +2184,8 @@
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2235,8 +2235,8 @@
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2286,8 +2286,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2337,8 +2337,8 @@
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2766,8 +2766,8 @@
           "image": {
             "url": "https://i.imgur.com/tsljAnY.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
@@ -2817,8 +2817,8 @@
           "image": {
             "url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png",
             "type": "contain",
-            "width": 410,
-            "height": 410
+            "width": 64,
+            "height": 64
           },
           "display": "default",
           "type": "single",
