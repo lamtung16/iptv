@@ -1,5 +1,5 @@
 {
-  "id": "bf94a4bb-4988-4d72-b5ab-f98f8ae5d9fc",
+  "id": "05946b35-67d3-4e0f-8ed1-7831854969c6",
   "name": "Tung IPTV",
   "description": "A curated list of channels from Tung IPTV",
   "url": "tung_iptv.json",
@@ -13,12 +13,12 @@
   "grid_number": 2,
   "groups": [
     {
-      "id": "group-2392ae89-1d97-466c-bbb8-592108d79238",
+      "id": "group-d4a3c602-86ff-491e-8f05-687a2d9015b3",
       "name": "Football",
       "display": "vertical",
       "image": {
         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-        "type": "cover",
+        "type": "contain",
         "width": 64,
         "height": 64
       },
@@ -32,7 +32,7 @@
           "label": "Full",
           "image": {
             "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -41,12 +41,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "0b6e4815-5f33-4cac-868e-f14383c2164f",
+              "id": "ea06dba3-f75e-48d6-98ab-16ee9b228435",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "69d6751e-ec52-4f67-a294-2c6aa7cc0839",
+                  "id": "e135d739-220c-4102-b228-17980537e398",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -56,7 +56,7 @@
                       "name": "Sky Sports Football HD",
                       "image": {
                         "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -89,7 +89,7 @@
           "label": "Full",
           "image": {
             "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -98,12 +98,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "f074aa05-ed59-4708-ad51-e95f1cf8954b",
+              "id": "015a7a3f-3727-44a6-b86f-d5be540e0e1d",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "c7b12ecb-647d-4d89-b53b-65bb4be9be38",
+                  "id": "ef731219-d468-415f-9f7c-2d78e015a3e0",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -113,7 +113,7 @@
                       "name": "Sky Sports Main Event HD",
                       "image": {
                         "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -146,7 +146,7 @@
           "label": "Full",
           "image": {
             "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -155,12 +155,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "1372574b-0245-4ba2-a2a3-6e2f712e0389",
+              "id": "42c09719-6267-42ad-974b-01856383f6a6",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "e13e0f23-1ca0-482a-b388-20ae76058332",
+                  "id": "c960fa42-ca26-4438-a667-f69bb53bca94",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -170,7 +170,7 @@
                       "name": "Sky Sports Premier League HD",
                       "image": {
                         "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -203,7 +203,7 @@
           "label": "Full",
           "image": {
             "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -212,12 +212,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "65837504-8f9a-415f-a2ec-62336e10fed8",
+              "id": "85187029-57ad-4a74-9744-c386da10c056",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "91cdde4f-45f9-46fe-9674-0c62572267bb",
+                  "id": "ca65206c-e190-4f4c-84d4-c279b0444f4a",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -227,7 +227,7 @@
                       "name": "Sky Sport 8 - Premier League NZ",
                       "image": {
                         "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -260,7 +260,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -269,12 +269,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "e513757f-6ceb-4708-bfa1-aa38e645b786",
+              "id": "998ea91c-7147-46d2-9adc-21fa3e8b95be",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "9d1fd1b4-6cf6-4fde-97d1-e0c5a2671168",
+                  "id": "e885f5cf-64bb-4397-a6be-591f6b0d352d",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -284,7 +284,7 @@
                       "name": "Astro Premier League",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -317,7 +317,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -326,12 +326,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "4873a76e-4bff-4bf0-992f-107e0ce847cb",
+              "id": "4ddd3b9b-bc0a-49c9-9316-58b2fd12a1be",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "0c729bac-4038-4473-bf1f-7bfdcf945f42",
+                  "id": "4cf374bc-4b99-49b8-9201-700a8d71aeba",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -341,7 +341,7 @@
                       "name": "Astro Premier League 2",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -374,7 +374,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -383,12 +383,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "a480b66d-f5e6-45d4-ad58-007e8fa0c54a",
+              "id": "509403a1-73c0-4b86-a5aa-19dce662280a",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "d4fd3231-0efb-4f47-95bc-905afaec1429",
+                  "id": "351f7f27-da10-4f42-a52f-cd4b58b135cc",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -398,7 +398,7 @@
                       "name": "Astro Football",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -431,7 +431,7 @@
           "label": "Full",
           "image": {
             "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -440,12 +440,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "3cd49208-2b72-4a48-96e2-70197f2cd133",
+              "id": "9edf924c-d1e0-4aa9-8a89-2c147c3086c3",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "c79db241-49ab-4cb0-bb1e-f2fb3cf58018",
+                  "id": "b713cdc5-4941-4e92-9d03-c11bdaa14168",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -455,7 +455,7 @@
                       "name": "Sky Sports Football FHD",
                       "image": {
                         "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -488,7 +488,7 @@
           "label": "Full",
           "image": {
             "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -497,12 +497,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "5cc21455-d7d9-4702-9f74-3f78a50ea104",
+              "id": "56435e9d-39c6-4f24-bb5c-3bc79760c3cb",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "cd9cf7dd-b417-4f8f-af0d-72abd23b8c7a",
+                  "id": "2b622526-2440-4123-b0c4-bf66ffb35f91",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -512,7 +512,7 @@
                       "name": "Sky Sports Main Event FHD",
                       "image": {
                         "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -545,7 +545,7 @@
           "label": "Full",
           "image": {
             "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -554,12 +554,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "1d6e9e3b-eb2c-4996-a952-660396dc9540",
+              "id": "850bb80d-5271-4b8b-be12-f37392ad8844",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "02a943c8-0144-4e5b-9a54-351a25a50eb1",
+                  "id": "3e2f2fb0-1114-428d-8c34-6d1c4e0d978a",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -569,7 +569,7 @@
                       "name": "Sky Sports Premier League FHD",
                       "image": {
                         "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -602,7 +602,7 @@
           "label": "Full",
           "image": {
             "url": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -611,12 +611,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "61630492-db64-474e-9f8a-3e3018a5acad",
+              "id": "21f8cf46-f373-4bbe-ba6a-836f9d75ee93",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "a9a5f6e0-3475-478c-b641-258889afaa4d",
+                  "id": "1680fb0a-f354-4205-b858-dcd85705b535",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -626,7 +626,7 @@
                       "name": "Peacock Premier League TV",
                       "image": {
                         "url": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -659,7 +659,7 @@
           "label": "Full",
           "image": {
             "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -668,12 +668,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "a3a1d54b-2caa-4e45-ba13-e25677300d15",
+              "id": "3a52d2db-1db8-42d3-b42f-8862f3b163c7",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "4270ba43-99d1-453e-9542-d78f1d2ef2c6",
+                  "id": "d7eb94c1-6164-418a-b5da-17ea127fd74c",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -683,7 +683,7 @@
                       "name": "Sky Sport 8 - Premier League NZ",
                       "image": {
                         "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -716,7 +716,7 @@
           "label": "Full",
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -725,12 +725,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "0af036b8-02c8-43dd-8e83-b89553c0519a",
+              "id": "3e256ceb-192d-482f-aa2c-80010a176448",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "aa7dae41-e8df-4174-862a-ed401cb4aaee",
+                  "id": "9c23cb56-a724-4dec-b8ec-7445913312f3",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -740,7 +740,7 @@
                       "name": "Now Sports PL 1 FHD",
                       "image": {
                         "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -773,7 +773,7 @@
           "label": "Full",
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -782,12 +782,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "62609afd-41bd-46a3-b143-44430aeb7806",
+              "id": "ec715acb-46e2-4a32-8488-df7bbfa82bbe",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "5b47d9d5-c3c7-4ca9-99cf-df7074551a79",
+                  "id": "3ff3a723-329c-4a60-a5d8-9cb34cf842a7",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -797,7 +797,7 @@
                       "name": "Now Sports PL 2 FHD",
                       "image": {
                         "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -826,12 +826,12 @@
       ]
     },
     {
-      "id": "group-f022b206-f356-4a4a-92fe-bc460f087046",
+      "id": "group-e460b2b0-09b1-4dc6-a551-fe7609bd11da",
       "name": "Tennis",
       "display": "vertical",
       "image": {
         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-        "type": "cover",
+        "type": "contain",
         "width": 64,
         "height": 64
       },
@@ -845,7 +845,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -854,12 +854,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "2749584f-617a-4d54-8db3-60840e7063f6",
+              "id": "953a8a7e-b8ac-425a-a3c1-883707e2ac16",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "829f3546-78ea-4246-8dc9-d7ebb15d777f",
+                  "id": "9f620c24-abaf-4ceb-bd31-f3550923a81c",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -869,7 +869,7 @@
                       "name": "Tennis Channel HD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -902,7 +902,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -911,12 +911,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "56319bfb-0134-4c7f-a854-a27ee3b76518",
+              "id": "7b235f2a-53c5-49ed-bb52-6b47c51272fd",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "faa0aa82-d9d8-4bb0-8e82-3bea7dbfc75f",
+                  "id": "a2527c44-4ba1-4dbd-9576-7854abb9123d",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -926,7 +926,7 @@
                       "name": "Tennis Channel SD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -959,7 +959,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -968,12 +968,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "feeeeeac-2d94-4b0e-a3b8-33ec685799a8",
+              "id": "aab17d05-b02c-4e8a-861c-075ff32be428",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "3a0a7880-0c74-43e7-a109-40674f76ca03",
+                  "id": "74347a60-29bb-41cc-ae82-6ad59ab80770",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -983,7 +983,7 @@
                       "name": "Tennis Channel HD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1016,7 +1016,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1025,12 +1025,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "cd7fce95-599a-4532-9ce0-f61ff95f1643",
+              "id": "d29d5af4-d879-4120-88fa-6dda2fd2fc08",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "1454b0b6-1e02-4a2c-af39-90db9e88a82e",
+                  "id": "4133d7d1-c379-4e9a-8556-0054aa158202",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1040,7 +1040,7 @@
                       "name": "Tennis Channel FHD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1073,7 +1073,7 @@
           "label": "Full",
           "image": {
             "url": "https://i.imgur.com/ZNUDU1r.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1082,12 +1082,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "8bb4999c-569e-4910-bc7b-fd23572eb089",
+              "id": "6824595f-823b-4e63-ba72-f9cda2d8f282",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "da6e7d28-479d-49c5-8186-6a3e8d275906",
+                  "id": "18579c4b-ee0f-4dc7-b900-a79d31a9e63a",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1097,7 +1097,7 @@
                       "name": "Sky Sports Tennis",
                       "image": {
                         "url": "https://i.imgur.com/ZNUDU1r.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1130,7 +1130,7 @@
           "label": "Full",
           "image": {
             "url": "https://i.imgur.com/ZNUDU1r.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1139,12 +1139,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "1f8d323f-6882-4ed5-8f30-7b25218708f5",
+              "id": "de1bc719-2926-4e5c-aeb8-e1c015d84396",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "19fabc36-5cee-49d4-a041-5312623cb5a7",
+                  "id": "91e97cca-caf5-4e16-9e23-8504f25cc730",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1154,7 +1154,7 @@
                       "name": "Sky Sports Tennis",
                       "image": {
                         "url": "https://i.imgur.com/ZNUDU1r.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1187,7 +1187,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1196,12 +1196,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "a470c12d-e09a-4b62-af19-d0b7ef26f988",
+              "id": "0ddf86a4-8507-46cb-823b-b33c64d3c985",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "8ec1df22-37c5-40a4-9548-8c8b001be315",
+                  "id": "022ed8ba-e5f3-480c-8df5-32ba15c5179d",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1211,7 +1211,7 @@
                       "name": "TSN1",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1244,7 +1244,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1253,12 +1253,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "55f2cc43-b43e-4965-8368-1de3c7d657bb",
+              "id": "b85498fa-fe22-4d07-b9e0-ed41bc7affe5",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "792a7434-f1b6-4ef8-96a2-5a151723616c",
+                  "id": "308cac12-3b3e-49d2-8299-954c4feaa66a",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1268,7 +1268,7 @@
                       "name": "TSN1 SD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1301,7 +1301,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1310,12 +1310,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "7f1000cd-a0b0-4935-a668-64c289ec62ce",
+              "id": "a969476c-ea06-4caa-b265-ca2af7fc2238",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "8df7abe4-f835-4e67-bf80-d61af1ae2515",
+                  "id": "36cd353c-99ba-44dd-9428-5a481307ab48",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1325,7 +1325,7 @@
                       "name": "TSN1 HD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1358,7 +1358,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1367,12 +1367,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "60d73e52-94bb-4429-b41e-259e4d19755b",
+              "id": "f00cbca9-a392-4460-9835-5f2f1bee1059",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "f74c6f63-1ab4-4345-86a8-517eb8047b41",
+                  "id": "4d1d82ca-0995-417f-aeb8-8d290d1be19f",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1382,7 +1382,7 @@
                       "name": "TSN2",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1415,7 +1415,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1424,12 +1424,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "fdd36921-4706-4264-b34d-4976e442d065",
+              "id": "fa3af697-bcd4-4937-8417-b20d86879539",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "327ac4ae-85c5-4584-9157-7d3773cc50c1",
+                  "id": "cbc449bf-3a0c-45e0-ba85-4457341176e5",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1439,7 +1439,7 @@
                       "name": "TSN2 SD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1472,7 +1472,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1481,12 +1481,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "a86c21f4-805d-46f5-88e1-1928b0262048",
+              "id": "d5af23ed-d063-4517-a734-2e257a1f1069",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "25ccad6a-9c63-46ef-b6b8-61fa5cd14ca0",
+                  "id": "9e6ffb03-aa4b-4bca-ba9a-9ae0bb3ad815",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1496,7 +1496,7 @@
                       "name": "TSN2 HD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1529,7 +1529,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1538,12 +1538,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "15452d00-9830-461b-8c03-d03f1063e70a",
+              "id": "044f5eac-70dd-4776-89e5-6105f52d412b",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "9822dd69-73fe-443c-b4c8-276da20e335a",
+                  "id": "5c6ad049-5158-42bf-8eb8-31d85e0263e3",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1553,7 +1553,7 @@
                       "name": "TSN3",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1586,7 +1586,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1595,12 +1595,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "bbf1218d-ff23-48ad-840c-2a142c0ab866",
+              "id": "463eda72-5566-4016-a50d-10e0032a72ee",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "81ca3720-1538-4b2e-b59f-61d8c646e335",
+                  "id": "fe0830d3-2c50-4c1d-98fe-6813d08b01e4",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1610,7 +1610,7 @@
                       "name": "TSN3 SD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1643,7 +1643,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1652,12 +1652,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "13f7504c-60bf-4d0c-ae54-1788333c1ddc",
+              "id": "1196ac0d-d3ad-4585-803d-b8b0db3ac937",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "662c8877-fd02-456a-b049-5917785330d4",
+                  "id": "f0893f59-c874-493f-9df1-709ccdc4897a",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1667,7 +1667,7 @@
                       "name": "TSN3 HD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1700,7 +1700,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1709,12 +1709,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "6e6eb99e-9df7-4752-9ada-2331a153b566",
+              "id": "0e610df7-9276-433e-9942-9f3c73df122c",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "d8c9ce92-9306-43ae-9d64-db300739e308",
+                  "id": "0cabc380-b925-4059-b49a-dfc8fb34a593",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1724,7 +1724,7 @@
                       "name": "TSN4",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1757,7 +1757,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1766,12 +1766,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "ef66c464-69a9-4700-8fb5-14229e5ef82f",
+              "id": "ce68e84b-74e8-4f83-a95b-97e98f033f7a",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "e578d5e1-7eb6-435f-897c-dfa727bc0f33",
+                  "id": "3aec1499-299c-4d19-b239-d2f44741a620",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1781,7 +1781,7 @@
                       "name": "TSN4 SD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1814,7 +1814,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1823,12 +1823,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "707eb1f9-2d4e-43f3-9771-52dc296fdb3a",
+              "id": "4ceee6c6-2bd4-486b-9ca8-12b472b2eeb1",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "4ecb263d-2ee9-41f6-8e95-60716e6e784b",
+                  "id": "48654fc1-0e97-4934-bdbe-9733abd85718",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1838,7 +1838,7 @@
                       "name": "TSN4 HD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1871,7 +1871,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1880,12 +1880,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "789af28a-a1ac-4c20-a390-0e6f6ed629c1",
+              "id": "f7cda8da-b73e-4b6e-96f0-0bc3da5891fd",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "f2a759e2-a24b-4085-a90b-fe4c056571c7",
+                  "id": "125aad30-5503-4a97-aa7b-58322471add8",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1895,7 +1895,7 @@
                       "name": "TSN5",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1928,7 +1928,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1937,12 +1937,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "2e4eeabf-5087-4d96-9f75-52351f82d037",
+              "id": "2a69e44f-1018-4fe3-a47a-29acdce5b332",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "c7258aeb-4bc9-47c8-8d69-2e54cdb9c5d4",
+                  "id": "635b423c-c722-4d9f-a639-8aca992f067d",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -1952,7 +1952,7 @@
                       "name": "TSN5 SD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -1985,7 +1985,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -1994,12 +1994,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "ab368dc6-38c2-4ed5-911a-a597ec3b386c",
+              "id": "38661588-df46-4ff9-a7fd-078da17e4863",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "7c8d61a1-46cc-4340-a151-318543bc0f93",
+                  "id": "6bbefba9-66f8-4bc1-8f03-ae17f9f6b7d8",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2009,7 +2009,7 @@
                       "name": "TSN5 HD",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2038,12 +2038,12 @@
       ]
     },
     {
-      "id": "group-ef45f5cc-2acd-4dae-8600-f1cce0f72a21",
+      "id": "group-cac6415c-9627-4900-92b1-5d1d6d57d72c",
       "name": "Others",
       "display": "vertical",
       "image": {
         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-        "type": "cover",
+        "type": "contain",
         "width": 64,
         "height": 64
       },
@@ -2057,7 +2057,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2066,12 +2066,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "b86d9b3d-4c00-45e5-a34f-c03d2285a226",
+              "id": "34a20c9c-07b3-4725-99ed-92c559ed4c05",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "93114811-115a-4fbf-abb7-0d5c9fa62b7e",
+                  "id": "9a06a154-19ae-46d3-a2e6-14720d2eb493",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2081,7 +2081,7 @@
                       "name": "Astro Grandstand",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2114,7 +2114,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2123,12 +2123,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "785fbfc5-a51a-4b64-b9ae-b8feeaabf440",
+              "id": "4dc267c3-31fb-4e1c-9593-87dfefc2a84d",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "199a836d-6de1-4419-ab27-3b5b35488478",
+                  "id": "514f216b-ca9a-4c25-ada4-2ec0c03541d2",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2138,7 +2138,7 @@
                       "name": "TNT Sports 1",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2171,7 +2171,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2180,12 +2180,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "4e852041-dfcf-4df9-b771-5b219c8bd80e",
+              "id": "ffd05454-cb8a-4c99-9ed5-1ca248ecb346",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "945180a4-82e9-4535-bd94-18064e6c2e01",
+                  "id": "31a7604f-eaa4-4e81-b762-1ce953c70ec4",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2195,7 +2195,7 @@
                       "name": "TNT Sports 2",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2228,7 +2228,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2237,12 +2237,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "306ac652-4705-454d-83ae-2ba56dd5ee5e",
+              "id": "8a2f7397-d890-4943-b28f-b57f944a446f",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "451a7a7d-59d9-4cae-9395-d8a8387d1472",
+                  "id": "164bea89-53da-4e16-b5f5-e322d60b4c9e",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2252,7 +2252,7 @@
                       "name": "TNT Sports 3",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2285,7 +2285,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2294,12 +2294,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "b97d6cd5-479b-4e63-bf5a-ef89439d7bd7",
+              "id": "415216f3-084f-41b1-9648-dd1f66f95339",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "cf9fc194-5087-4eb7-a225-56f1c61106b5",
+                  "id": "cad368d7-4bc9-4c8e-8ca6-cbc4e08545c5",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2309,7 +2309,7 @@
                       "name": "TNT Sports 4",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2342,7 +2342,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2351,12 +2351,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "0838f498-54c9-48a2-a38f-d5603eef355e",
+              "id": "c4161737-8309-4064-a115-897a8ea9f95d",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "82a47999-0852-46b7-9d2a-bb173346d2aa",
+                  "id": "9ac50ca0-d0cf-4e51-8ff2-16bc45f6cd41",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2366,7 +2366,7 @@
                       "name": "TNT Sports 5",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2399,7 +2399,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2408,12 +2408,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "47e91b3a-c907-425b-ba5d-b387c44b2178",
+              "id": "12623548-9d93-4371-8872-c367ce0fe2f4",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "9788fb0c-17fc-40d7-9e38-5d4aeaec4929",
+                  "id": "ccfba6a3-97c9-41b0-bf6c-d266dc02c576",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2423,7 +2423,7 @@
                       "name": "USA Network",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2456,7 +2456,7 @@
           "label": "Full",
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2465,12 +2465,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "6569adcc-00d1-44c6-ae03-b12504e2d5e1",
+              "id": "7eca5977-2f8f-40ff-8c42-7f436d4fbc64",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "ad949c12-c4e1-4427-bc54-6b537c518167",
+                  "id": "dae88fad-601a-4839-941f-7cdeb68be3b7",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2480,7 +2480,7 @@
                       "name": "USA Network HD",
                       "image": {
                         "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2513,7 +2513,7 @@
           "label": "Full",
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2522,12 +2522,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "2eca0832-182c-455b-b5a2-3df5b8768934",
+              "id": "26000a1f-bc63-41c8-b16e-3f835498b029",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "07e56b02-c7e3-496f-9514-243c66856100",
+                  "id": "b0850637-009f-41a6-947d-db5e614b82eb",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2537,7 +2537,7 @@
                       "name": "USA Network HD",
                       "image": {
                         "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2570,7 +2570,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2579,12 +2579,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "41828386-f225-45ca-a5a9-89166d985159",
+              "id": "15333fab-5353-4b8d-bc30-86ffa8892ae9",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "dd4a1eb5-8e7a-4580-bfd7-2488f24269a9",
+                  "id": "995b87ac-d24c-4548-a3d8-a016af1e7c01",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2594,7 +2594,7 @@
                       "name": "ESPN",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2627,7 +2627,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2636,12 +2636,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "0f393209-08be-4717-b6f6-e7da76f87e58",
+              "id": "b16fe1ec-0967-4f6d-90ca-e1aee1b3b37b",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "4ab46757-930a-4a51-911f-de24d261c91e",
+                  "id": "32c8abd1-38dc-44a9-a0da-f09b8aff34b5",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2651,7 +2651,7 @@
                       "name": "ESPN 2",
                       "image": {
                         "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2684,7 +2684,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2693,12 +2693,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "ef988608-0e44-4725-85ea-5e54514d544b",
+              "id": "3b3bc6a9-fd88-41c7-94f6-bc9105007829",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "1fe57378-e494-4be3-b265-a4d884730faf",
+                  "id": "3c5390bb-bb87-42fd-98ad-452c577eb393",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2708,7 +2708,7 @@
                       "name": "Sky Sport 1 NZ",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2741,7 +2741,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2750,12 +2750,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "339ca3ab-69f5-4825-82b8-1cd097a6ce72",
+              "id": "331ca3e1-a8dd-4f58-be35-90aded5e57bd",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "ebbec1fd-f107-4023-945d-4eaca6b15811",
+                  "id": "c311283e-6142-4ef5-9f12-5d9fc7507d0f",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2765,7 +2765,7 @@
                       "name": "Sky Sport 2 NZ",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2798,7 +2798,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2807,12 +2807,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "44ab64f8-4c9e-4259-a7a2-18bb8d2f3abf",
+              "id": "14b63b6a-c7f9-4def-82e6-44bc210e7286",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "a01cd396-b9d4-4f82-8eef-5df4a20c983d",
+                  "id": "5a4a46cd-5e1a-4656-976d-04f63e870b33",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2822,7 +2822,7 @@
                       "name": "Sky Sport 3 NZ",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2855,7 +2855,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2864,12 +2864,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "790fd4d5-01d9-420e-bd5b-f2c7db01b7bd",
+              "id": "1704787f-ca9f-47c5-8d9c-090ca7852a34",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "0100800a-9791-497b-a78f-c888d29cf3b0",
+                  "id": "d1dd5422-1795-43b8-8914-3ef1d2f4e680",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2879,7 +2879,7 @@
                       "name": "Sky Sport 4 NZ",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2912,7 +2912,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2921,12 +2921,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "9832da6b-fd68-4cb5-9471-5f0df3639a37",
+              "id": "71f1416e-c3ec-4a36-a17f-dbfce7af708c",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "cd760a1e-f312-4613-ad03-205d49c0ed0c",
+                  "id": "01a31468-07ed-4622-b56e-ad0fb611b037",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2936,7 +2936,7 @@
                       "name": "Sky Sport 5 NZ",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -2969,7 +2969,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -2978,12 +2978,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "2455e69d-f9e9-4583-bd20-c474ed1a085c",
+              "id": "0f002977-4537-44d1-913d-51996958d77f",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "1bbe827f-2913-4a28-a464-fa4bf4786b33",
+                  "id": "81afe245-785f-452f-bbdb-55c7411162d5",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -2993,7 +2993,7 @@
                       "name": "Sky Sport 6 NZ",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -3026,7 +3026,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -3035,12 +3035,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "e960a041-f364-4037-9ff6-e64b3ead12e9",
+              "id": "1bec03d9-cdaf-4b6e-9b2c-cbe473828ee1",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "ee9928e0-6bb9-401a-85f1-12a813a7d09b",
+                  "id": "fb61d6d4-bd39-4393-a549-b301b1b1d3e6",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -3050,7 +3050,7 @@
                       "name": "Sky Sport 7 NZ",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -3079,12 +3079,12 @@
       ]
     },
     {
-      "id": "group-9666c58a-d2f1-4fb7-98bd-f1b060541882",
+      "id": "group-d07ebcf7-feb1-446c-9513-e7b00fae141d",
       "name": "Backup",
       "display": "vertical",
       "image": {
         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-        "type": "cover",
+        "type": "contain",
         "width": 64,
         "height": 64
       },
@@ -3098,7 +3098,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -3107,12 +3107,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "d70a75e9-66ca-46b4-b74f-d65603483645",
+              "id": "39bfe4fe-4f4a-4c3d-8bff-91d214a32ee4",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "01e6ff2b-e498-48a0-9449-cb5d3bdd0cc4",
+                  "id": "dda55135-bc66-45c6-85a4-155ef6a28edd",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -3122,7 +3122,7 @@
                       "name": "CBS Sports Network USA",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -3155,7 +3155,7 @@
           "label": "Full",
           "image": {
             "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -3164,12 +3164,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "b2a39912-d3e7-42c9-a729-4aabce50b6a6",
+              "id": "2aaba6e3-9ba4-42d9-ae25-a083913383e7",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "a8ffac60-2ecb-4d9e-94c5-1f95350eeaee",
+                  "id": "a06e5fb6-b92a-4781-90a7-cc4ab26b886f",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -3179,7 +3179,7 @@
                       "name": "Tennis Channel",
                       "image": {
                         "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
@@ -3212,7 +3212,7 @@
           "label": "Full",
           "image": {
             "url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png",
-            "type": "cover",
+            "type": "contain",
             "width": 64,
             "height": 64
           },
@@ -3221,12 +3221,12 @@
           "enable_detail": true,
           "sources": [
             {
-              "id": "64ae2a2a-78c1-4c0f-9662-bb03713b6870",
+              "id": "c8aacd73-85f3-452b-924b-3396f40bc3d3",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "e67a11d2-b8c9-49a8-a063-02834817711a",
+                  "id": "695f2a1d-0f97-43a3-ad3c-27097b470cd9",
                   "name": "Content 1",
                   "image": null,
                   "grid_number": 3,
@@ -3236,7 +3236,7 @@
                       "name": "Fubo Sports Network",
                       "image": {
                         "url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png",
-                        "type": "cover",
+                        "type": "contain",
                         "width": 64,
                         "height": 64
                       },
