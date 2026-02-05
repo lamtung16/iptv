@@ -13,6 +13,9 @@ https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png", Sky Sports Premier League HD
 https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-premier-league/index.m3u8
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png", Sky Sport 8 - Premier League NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/index.m3u8
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png", Astro Premier League
 https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league/index.m3u8
 
@@ -127,6 +130,27 @@ https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png", ESPN 2
 https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8
+
+#EXTINF:-1 group-title="Others", Sky Sport 1 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/index.m3u8
+
+#EXTINF:-1 group-title="Others", Sky Sport 2 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/index.m3u8
+
+#EXTINF:-1 group-title="Others", Sky Sport 3 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-3/index.m3u8
+
+#EXTINF:-1 group-title="Others", Sky Sport 4 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-4/index.m3u8
+
+#EXTINF:-1 group-title="Others", Sky Sport 5 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/index.m3u8
+
+#EXTINF:-1 group-title="Others", Sky Sport 6 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/index.m3u8
+
+#EXTINF:-1 group-title="Others", Sky Sport 7 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/index.m3u8
 
 ##############
 ####BACKUP####
