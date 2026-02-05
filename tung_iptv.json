@@ -8,23 +8,24 @@
   "grid_number": 2,
   "image": {
     "type": "cover",
-    "url": null
+    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png"
   },
   "groups": [
     {
       "id": "football",
       "name": "Football",
-      "display": "vertical",
-      "image": null,
-      "grid_number": 3,
-      "enable_detail": false,
+      "image": {
+        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+        "type": "cover",
+        "width": 64,
+        "height": 64
+      },
       "channels": [
         {
           "id": "sky-sports-football-hd",
           "name": "Sky Sports Football HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
             "type": "contain",
@@ -37,23 +38,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sports-football-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sports-football-hd-link-1",
+                          "id": "sky-sports-football-hd-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-football/index.m3u8",
                           "type": "hls",
@@ -78,7 +94,6 @@
           "name": "Sky Sports Main Event HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
             "type": "contain",
@@ -91,23 +106,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sports-main-event-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sports-main-event-hd-link-1",
+                          "id": "sky-sports-main-event-hd-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8",
                           "type": "hls",
@@ -132,7 +162,6 @@
           "name": "Sky Sports Premier League HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
             "type": "contain",
@@ -145,23 +174,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sports-premier-league-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sports-premier-league-hd-link-1",
+                          "id": "sky-sports-premier-league-hd-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-premier-league/index.m3u8",
                           "type": "hls",
@@ -186,7 +230,6 @@
           "name": "Sky Sport 8 - Premier League NZ",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
             "type": "contain",
@@ -199,23 +242,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-8-premier-league-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-8-premier-league-nz-link-1",
+                          "id": "sky-sport-8-premier-league-nz-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/index.m3u8",
                           "type": "hls",
@@ -240,7 +298,6 @@
           "name": "Astro Premier League",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png",
             "type": "contain",
@@ -253,23 +310,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "astro-premier-league-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "astro-premier-league-link-1",
+                          "id": "astro-premier-league-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league/index.m3u8",
                           "type": "hls",
@@ -294,7 +366,6 @@
           "name": "Astro Premier League 2",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png",
             "type": "contain",
@@ -307,23 +378,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "astro-premier-league-2-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "astro-premier-league-2-link-1",
+                          "id": "astro-premier-league-2-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league-2/index.m3u8",
                           "type": "hls",
@@ -348,7 +434,6 @@
           "name": "Astro Football",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png",
             "type": "contain",
@@ -361,23 +446,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "astro-football-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "astro-football-link-1",
+                          "id": "astro-football-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8",
                           "type": "hls",
@@ -402,7 +502,6 @@
           "name": "Sky Sports Football FHD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
             "type": "contain",
@@ -415,23 +514,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sports-football-fhd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sports-football-fhd-link-1",
+                          "id": "sky-sports-football-fhd-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/2000003",
                           "type": "direct",
@@ -456,7 +570,6 @@
           "name": "Sky Sports Main Event FHD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
             "type": "contain",
@@ -469,23 +582,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sports-main-event-fhd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sports-main-event-fhd-link-1",
+                          "id": "sky-sports-main-event-fhd-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/2000001",
                           "type": "direct",
@@ -510,7 +638,6 @@
           "name": "Sky Sports Premier League FHD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
             "type": "contain",
@@ -523,23 +650,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sports-premier-league-fhd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sports-premier-league-fhd-link-1",
+                          "id": "sky-sports-premier-league-fhd-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/2000002",
                           "type": "direct",
@@ -564,7 +706,6 @@
           "name": "Peacock Premier League TV",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg",
             "type": "contain",
@@ -577,23 +718,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "peacock-premier-league-tv-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "peacock-premier-league-tv-link-1",
+                          "id": "peacock-premier-league-tv-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/1100021",
                           "type": "direct",
@@ -618,7 +774,6 @@
           "name": "Sky Sport 8 - Premier League NZ",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
             "type": "contain",
@@ -631,23 +786,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-8-premier-league-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-8-premier-league-nz-link-1",
+                          "id": "sky-sport-8-premier-league-nz-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/700008",
                           "type": "direct",
@@ -672,7 +842,6 @@
           "name": "Now Sports PL 1 FHD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true",
             "type": "contain",
@@ -685,23 +854,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "now-sports-pl-1-fhd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "now-sports-pl-1-fhd-link-1",
+                          "id": "now-sports-pl-1-fhd-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/1100001",
                           "type": "direct",
@@ -726,7 +910,6 @@
           "name": "Now Sports PL 2 FHD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true",
             "type": "contain",
@@ -739,23 +922,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "now-sports-pl-2-fhd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "now-sports-pl-2-fhd-link-1",
+                          "id": "now-sports-pl-2-fhd-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/1100002",
                           "type": "direct",
@@ -780,17 +978,18 @@
     {
       "id": "tennis",
       "name": "Tennis",
-      "display": "vertical",
-      "image": null,
-      "grid_number": 3,
-      "enable_detail": false,
+      "image": {
+        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+        "type": "cover",
+        "width": 64,
+        "height": 64
+      },
       "channels": [
         {
           "id": "tennis-channel-hd",
           "name": "Tennis Channel HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
             "type": "contain",
@@ -803,23 +1002,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tennis-channel-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tennis-channel-hd-link-1",
+                          "id": "tennis-channel-hd-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-tennis-channel/index.m3u8",
                           "type": "hls",
@@ -844,7 +1058,6 @@
           "name": "Tennis Channel SD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
             "type": "contain",
@@ -857,23 +1070,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tennis-channel-sd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tennis-channel-sd-link-1",
+                          "id": "tennis-channel-sd-link",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/TennisChannel/sd",
                           "type": "direct",
@@ -898,7 +1126,6 @@
           "name": "Tennis Channel HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
             "type": "contain",
@@ -911,23 +1138,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tennis-channel-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tennis-channel-hd-link-1",
+                          "id": "tennis-channel-hd-link",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
                           "type": "hls",
@@ -952,7 +1194,6 @@
           "name": "Tennis Channel FHD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
             "type": "contain",
@@ -965,23 +1206,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tennis-channel-fhd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tennis-channel-fhd-link-1",
+                          "id": "tennis-channel-fhd-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/40000040",
                           "type": "direct",
@@ -1006,7 +1262,6 @@
           "name": "Sky Sports Tennis",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.imgur.com/ZNUDU1r.png",
             "type": "contain",
@@ -1019,23 +1274,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sports-tennis-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sports-tennis-link-1",
+                          "id": "sky-sports-tennis-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-tennis/index.m3u8",
                           "type": "hls",
@@ -1060,7 +1330,6 @@
           "name": "Sky Sports Tennis",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.imgur.com/ZNUDU1r.png",
             "type": "contain",
@@ -1073,23 +1342,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sports-tennis-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sports-tennis-link-1",
+                          "id": "sky-sports-tennis-link",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/2000013",
                           "type": "direct",
@@ -1114,7 +1398,6 @@
           "name": "TSN1",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
             "type": "contain",
@@ -1127,23 +1410,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn1-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn1-link-1",
+                          "id": "tsn1-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/index.m3u8",
                           "type": "hls",
@@ -1168,7 +1466,6 @@
           "name": "TSN1 SD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
             "type": "contain",
@@ -1181,23 +1478,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn1-sd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn1-sd-link-1",
+                          "id": "tsn1-sd-link",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn1/sd",
                           "type": "direct",
@@ -1222,7 +1534,6 @@
           "name": "TSN1 HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
             "type": "contain",
@@ -1235,23 +1546,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn1-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn1-hd-link-1",
+                          "id": "tsn1-hd-link",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_1/index.m3u8",
                           "type": "hls",
@@ -1276,7 +1602,6 @@
           "name": "TSN2",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
             "type": "contain",
@@ -1289,23 +1614,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn2-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn2-link-1",
+                          "id": "tsn2-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/index.m3u8",
                           "type": "hls",
@@ -1330,7 +1670,6 @@
           "name": "TSN2 SD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
             "type": "contain",
@@ -1343,23 +1682,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn2-sd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn2-sd-link-1",
+                          "id": "tsn2-sd-link",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn2/sd",
                           "type": "direct",
@@ -1384,7 +1738,6 @@
           "name": "TSN2 HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
             "type": "contain",
@@ -1397,23 +1750,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn2-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn2-hd-link-1",
+                          "id": "tsn2-hd-link",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_2/index.m3u8",
                           "type": "hls",
@@ -1438,7 +1806,6 @@
           "name": "TSN3",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
             "type": "contain",
@@ -1451,23 +1818,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn3-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn3-link-1",
+                          "id": "tsn3-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/index.m3u8",
                           "type": "hls",
@@ -1492,7 +1874,6 @@
           "name": "TSN3 SD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
             "type": "contain",
@@ -1505,23 +1886,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn3-sd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn3-sd-link-1",
+                          "id": "tsn3-sd-link",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn3/sd",
                           "type": "direct",
@@ -1546,7 +1942,6 @@
           "name": "TSN3 HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
             "type": "contain",
@@ -1559,23 +1954,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn3-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn3-hd-link-1",
+                          "id": "tsn3-hd-link",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_3/index.m3u8",
                           "type": "hls",
@@ -1600,7 +2010,6 @@
           "name": "TSN4",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
             "type": "contain",
@@ -1613,23 +2022,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn4-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn4-link-1",
+                          "id": "tsn4-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-4/index.m3u8",
                           "type": "hls",
@@ -1654,7 +2078,6 @@
           "name": "TSN4 SD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
             "type": "contain",
@@ -1667,23 +2090,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn4-sd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn4-sd-link-1",
+                          "id": "tsn4-sd-link",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn4/sd",
                           "type": "direct",
@@ -1708,7 +2146,6 @@
           "name": "TSN4 HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
             "type": "contain",
@@ -1721,23 +2158,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn4-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn4-hd-link-1",
+                          "id": "tsn4-hd-link",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_4/index.m3u8",
                           "type": "hls",
@@ -1762,7 +2214,6 @@
           "name": "TSN5",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
             "type": "contain",
@@ -1775,23 +2226,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn5-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn5-link-1",
+                          "id": "tsn5-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-5/index.m3u8",
                           "type": "hls",
@@ -1816,7 +2282,6 @@
           "name": "TSN5 SD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
             "type": "contain",
@@ -1829,23 +2294,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn5-sd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn5-sd-link-1",
+                          "id": "tsn5-sd-link",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn5/sd",
                           "type": "direct",
@@ -1870,7 +2350,6 @@
           "name": "TSN5 HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
             "type": "contain",
@@ -1883,23 +2362,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tsn5-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tsn5-hd-link-1",
+                          "id": "tsn5-hd-link",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_5/index.m3u8",
                           "type": "hls",
@@ -1924,17 +2418,18 @@
     {
       "id": "others",
       "name": "Others",
-      "display": "vertical",
-      "image": null,
-      "grid_number": 3,
-      "enable_detail": false,
+      "image": {
+        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+        "type": "cover",
+        "width": 64,
+        "height": 64
+      },
       "channels": [
         {
           "id": "astro-grandstand",
           "name": "Astro Grandstand",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png",
             "type": "contain",
@@ -1947,23 +2442,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "astro-grandstand-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "astro-grandstand-link-1",
+                          "id": "astro-grandstand-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-grandstand/index.m3u8",
                           "type": "hls",
@@ -1988,7 +2498,6 @@
           "name": "TNT Sports 1",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
             "type": "contain",
@@ -2001,23 +2510,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tnt-sports-1-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tnt-sports-1-link-1",
+                          "id": "tnt-sports-1-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/index.m3u8",
                           "type": "hls",
@@ -2042,7 +2566,6 @@
           "name": "TNT Sports 2",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
             "type": "contain",
@@ -2055,23 +2578,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tnt-sports-2-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tnt-sports-2-link-1",
+                          "id": "tnt-sports-2-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/index.m3u8",
                           "type": "hls",
@@ -2096,7 +2634,6 @@
           "name": "TNT Sports 3",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
             "type": "contain",
@@ -2109,23 +2646,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tnt-sports-3-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tnt-sports-3-link-1",
+                          "id": "tnt-sports-3-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-3/index.m3u8",
                           "type": "hls",
@@ -2150,7 +2702,6 @@
           "name": "TNT Sports 4",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
             "type": "contain",
@@ -2163,23 +2714,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tnt-sports-4-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tnt-sports-4-link-1",
+                          "id": "tnt-sports-4-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-4/index.m3u8",
                           "type": "hls",
@@ -2204,7 +2770,6 @@
           "name": "TNT Sports 5",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png",
             "type": "contain",
@@ -2217,23 +2782,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tnt-sports-5-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tnt-sports-5-link-1",
+                          "id": "tnt-sports-5-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-5/index.m3u8",
                           "type": "hls",
@@ -2258,7 +2838,6 @@
           "name": "USA Network",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",
             "type": "contain",
@@ -2271,23 +2850,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "usa-network-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "usa-network-link-1",
+                          "id": "usa-network-link",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/USANetworkEast/sd",
                           "type": "direct",
@@ -2312,7 +2906,6 @@
           "name": "USA Network HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
             "type": "contain",
@@ -2325,23 +2918,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "usa-network-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "usa-network-hd-link-1",
+                          "id": "usa-network-hd-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8",
                           "type": "hls",
@@ -2366,7 +2974,6 @@
           "name": "USA Network HD",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
             "type": "contain",
@@ -2379,23 +2986,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "usa-network-hd-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "usa-network-hd-link-1",
+                          "id": "usa-network-hd-link",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8",
                           "type": "hls",
@@ -2420,7 +3042,6 @@
           "name": "ESPN",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",
             "type": "contain",
@@ -2433,23 +3054,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "espn-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "espn-link-1",
+                          "id": "espn-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8",
                           "type": "hls",
@@ -2474,7 +3110,6 @@
           "name": "ESPN 2",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",
             "type": "contain",
@@ -2487,23 +3122,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "espn-2-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "espn-2-link-1",
+                          "id": "espn-2-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8",
                           "type": "hls",
@@ -2528,31 +3178,50 @@
           "name": "Sky Sport 1 NZ",
           "type": "single",
           "display": "default",
-          "label": null,
-          "image": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+            "type": "contain",
+            "width": 64,
+            "height": 64
+          },
           "enable_detail": false,
           "labels": [],
           "share": null,
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-1-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-1-nz-link-1",
+                          "id": "sky-sport-1-nz-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/index.m3u8",
                           "type": "hls",
@@ -2577,31 +3246,50 @@
           "name": "Sky Sport 2 NZ",
           "type": "single",
           "display": "default",
-          "label": null,
-          "image": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+            "type": "contain",
+            "width": 64,
+            "height": 64
+          },
           "enable_detail": false,
           "labels": [],
           "share": null,
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-2-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-2-nz-link-1",
+                          "id": "sky-sport-2-nz-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/index.m3u8",
                           "type": "hls",
@@ -2626,31 +3314,50 @@
           "name": "Sky Sport 3 NZ",
           "type": "single",
           "display": "default",
-          "label": null,
-          "image": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+            "type": "contain",
+            "width": 64,
+            "height": 64
+          },
           "enable_detail": false,
           "labels": [],
           "share": null,
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-3-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-3-nz-link-1",
+                          "id": "sky-sport-3-nz-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-3/index.m3u8",
                           "type": "hls",
@@ -2675,31 +3382,50 @@
           "name": "Sky Sport 4 NZ",
           "type": "single",
           "display": "default",
-          "label": null,
-          "image": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+            "type": "contain",
+            "width": 64,
+            "height": 64
+          },
           "enable_detail": false,
           "labels": [],
           "share": null,
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-4-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-4-nz-link-1",
+                          "id": "sky-sport-4-nz-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-4/index.m3u8",
                           "type": "hls",
@@ -2724,31 +3450,50 @@
           "name": "Sky Sport 5 NZ",
           "type": "single",
           "display": "default",
-          "label": null,
-          "image": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+            "type": "contain",
+            "width": 64,
+            "height": 64
+          },
           "enable_detail": false,
           "labels": [],
           "share": null,
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-5-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-5-nz-link-1",
+                          "id": "sky-sport-5-nz-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/index.m3u8",
                           "type": "hls",
@@ -2773,31 +3518,50 @@
           "name": "Sky Sport 6 NZ",
           "type": "single",
           "display": "default",
-          "label": null,
-          "image": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+            "type": "contain",
+            "width": 64,
+            "height": 64
+          },
           "enable_detail": false,
           "labels": [],
           "share": null,
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-6-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-6-nz-link-1",
+                          "id": "sky-sport-6-nz-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/index.m3u8",
                           "type": "hls",
@@ -2822,31 +3586,50 @@
           "name": "Sky Sport 7 NZ",
           "type": "single",
           "display": "default",
-          "label": null,
-          "image": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+            "type": "contain",
+            "width": 64,
+            "height": 64
+          },
           "enable_detail": false,
           "labels": [],
           "share": null,
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "sky-sport-7-nz-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "sky-sport-7-nz-link-1",
+                          "id": "sky-sport-7-nz-link",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/index.m3u8",
                           "type": "hls",
@@ -2871,41 +3654,62 @@
     {
       "id": "backup",
       "name": "Backup",
-      "display": "vertical",
-      "image": null,
-      "grid_number": 3,
-      "enable_detail": false,
+      "image": {
+        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+        "type": "cover",
+        "width": 64,
+        "height": 64
+      },
       "channels": [
         {
           "id": "cbs-sports-network-usa",
           "name": "CBS Sports Network USA",
           "type": "single",
           "display": "default",
-          "label": null,
-          "image": null,
+          "image": {
+            "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+            "type": "contain",
+            "width": 64,
+            "height": 64
+          },
           "enable_detail": false,
           "labels": [],
           "share": null,
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "cbs-sports-network-usa-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "cbs-sports-network-usa-link-1",
+                          "id": "cbs-sports-network-usa-link",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd",
                           "type": "direct",
@@ -2930,7 +3734,6 @@
           "name": "Tennis Channel",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://i.imgur.com/tsljAnY.png",
             "type": "contain",
@@ -2943,23 +3746,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "tennis-channel-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "tennis-channel-link-1",
+                          "id": "tennis-channel-link",
                           "name": "Server 1",
                           "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
                           "type": "hls",
@@ -2984,7 +3802,6 @@
           "name": "Fubo Sports Network",
           "type": "single",
           "display": "default",
-          "label": null,
           "image": {
             "url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png",
             "type": "contain",
@@ -2997,23 +3814,38 @@
           "remote_data": null,
           "sources": [
             {
-              "id": "source-1",
+              "id": "main",
               "name": "Main",
-              "image": null,
+              "image": {
+                "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                "type": "contain",
+                "width": 64,
+                "height": 64
+              },
               "contents": [
                 {
-                  "id": "content-1",
+                  "id": "live",
                   "name": "Live",
-                  "image": null,
+                  "image": {
+                    "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                    "type": "contain",
+                    "width": 64,
+                    "height": 64
+                  },
                   "grid_number": 1,
                   "streams": [
                     {
                       "id": "fubo-sports-network-stream",
                       "name": "Live",
-                      "image": null,
+                      "image": {
+                        "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
+                        "type": "contain",
+                        "width": 64,
+                        "height": 64
+                      },
                       "stream_links": [
                         {
-                          "id": "fubo-sports-network-link-1",
+                          "id": "fubo-sports-network-link",
                           "name": "Server 1",
                           "url": "https://jmp2.uk/stvp-USAJ2200023Z0",
                           "type": "direct",
