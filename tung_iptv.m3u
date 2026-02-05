@@ -63,6 +63,9 @@ https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 https://a1xs.vip/40000040
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png", Sky Sports Tennis
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-tennis/index.m3u8
+
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png", Sky Sports Tennis
 https://a1xs.vip/2000013
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png", TSN1 SD
