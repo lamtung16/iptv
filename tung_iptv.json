@@ -2,10 +2,14 @@
   "id": "tung-iptv",
   "name": "Tung IPTV",
   "description": "Sports",
-  "url": "",
+  "url": null,
   "color": "#1E90FF",
-  "image": null,
+  "disable_ads": true,
   "grid_number": 2,
+  "image": {
+    "type": "cover",
+    "url": null
+  },
   "groups": [
     {
       "id": "football",
@@ -18,6 +22,8 @@
         {
           "id": "sky-sports-football-hd",
           "name": "Sky Sports Football HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
@@ -25,9 +31,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -69,6 +76,8 @@
         {
           "id": "sky-sports-main-event-hd",
           "name": "Sky Sports Main Event HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
@@ -76,9 +85,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -120,6 +130,8 @@
         {
           "id": "sky-sports-premier-league-hd",
           "name": "Sky Sports Premier League HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
@@ -127,9 +139,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -171,6 +184,8 @@
         {
           "id": "sky-sport-8-premier-league-nz",
           "name": "Sky Sport 8 - Premier League NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
@@ -178,9 +193,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -222,6 +238,8 @@
         {
           "id": "astro-premier-league",
           "name": "Astro Premier League",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png",
@@ -229,9 +247,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -273,6 +292,8 @@
         {
           "id": "astro-premier-league-2",
           "name": "Astro Premier League 2",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png",
@@ -280,9 +301,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -324,6 +346,8 @@
         {
           "id": "astro-football",
           "name": "Astro Football",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png",
@@ -331,9 +355,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -375,6 +400,8 @@
         {
           "id": "sky-sports-football-fhd",
           "name": "Sky Sports Football FHD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.ibb.co/WcCrBqx/sky-football.png",
@@ -382,9 +409,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -426,6 +454,8 @@
         {
           "id": "sky-sports-main-event-fhd",
           "name": "Sky Sports Main Event FHD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
@@ -433,9 +463,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -477,6 +508,8 @@
         {
           "id": "sky-sports-premier-league-fhd",
           "name": "Sky Sports Premier League FHD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
@@ -484,9 +517,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -528,6 +562,8 @@
         {
           "id": "peacock-premier-league-tv",
           "name": "Peacock Premier League TV",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg",
@@ -535,9 +571,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -579,6 +616,8 @@
         {
           "id": "sky-sport-8-premier-league-nz",
           "name": "Sky Sport 8 - Premier League NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
@@ -586,9 +625,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -630,6 +670,8 @@
         {
           "id": "now-sports-pl-1-fhd",
           "name": "Now Sports PL 1 FHD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true",
@@ -637,9 +679,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -681,6 +724,8 @@
         {
           "id": "now-sports-pl-2-fhd",
           "name": "Now Sports PL 2 FHD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true",
@@ -688,9 +733,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -742,6 +788,8 @@
         {
           "id": "tennis-channel-hd",
           "name": "Tennis Channel HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
@@ -749,9 +797,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -793,6 +842,8 @@
         {
           "id": "tennis-channel-sd",
           "name": "Tennis Channel SD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
@@ -800,9 +851,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -844,6 +896,8 @@
         {
           "id": "tennis-channel-hd",
           "name": "Tennis Channel HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
@@ -851,9 +905,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -895,6 +950,8 @@
         {
           "id": "tennis-channel-fhd",
           "name": "Tennis Channel FHD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
@@ -902,9 +959,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -946,6 +1004,8 @@
         {
           "id": "sky-sports-tennis",
           "name": "Sky Sports Tennis",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.imgur.com/ZNUDU1r.png",
@@ -953,9 +1013,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -997,6 +1058,8 @@
         {
           "id": "sky-sports-tennis",
           "name": "Sky Sports Tennis",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.imgur.com/ZNUDU1r.png",
@@ -1004,9 +1067,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1048,6 +1112,8 @@
         {
           "id": "tsn1",
           "name": "TSN1",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
@@ -1055,9 +1121,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1099,6 +1166,8 @@
         {
           "id": "tsn1-sd",
           "name": "TSN1 SD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
@@ -1106,9 +1175,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1150,6 +1220,8 @@
         {
           "id": "tsn1-hd",
           "name": "TSN1 HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
@@ -1157,9 +1229,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1201,6 +1274,8 @@
         {
           "id": "tsn2",
           "name": "TSN2",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
@@ -1208,9 +1283,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1252,6 +1328,8 @@
         {
           "id": "tsn2-sd",
           "name": "TSN2 SD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
@@ -1259,9 +1337,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1303,6 +1382,8 @@
         {
           "id": "tsn2-hd",
           "name": "TSN2 HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
@@ -1310,9 +1391,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1354,6 +1436,8 @@
         {
           "id": "tsn3",
           "name": "TSN3",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
@@ -1361,9 +1445,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1405,6 +1490,8 @@
         {
           "id": "tsn3-sd",
           "name": "TSN3 SD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
@@ -1412,9 +1499,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1456,6 +1544,8 @@
         {
           "id": "tsn3-hd",
           "name": "TSN3 HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
@@ -1463,9 +1553,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1507,6 +1598,8 @@
         {
           "id": "tsn4",
           "name": "TSN4",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
@@ -1514,9 +1607,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1558,6 +1652,8 @@
         {
           "id": "tsn4-sd",
           "name": "TSN4 SD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
@@ -1565,9 +1661,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1609,6 +1706,8 @@
         {
           "id": "tsn4-hd",
           "name": "TSN4 HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
@@ -1616,9 +1715,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1660,6 +1760,8 @@
         {
           "id": "tsn5",
           "name": "TSN5",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
@@ -1667,9 +1769,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1711,6 +1814,8 @@
         {
           "id": "tsn5-sd",
           "name": "TSN5 SD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
@@ -1718,9 +1823,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1762,6 +1868,8 @@
         {
           "id": "tsn5-hd",
           "name": "TSN5 HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
@@ -1769,9 +1877,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1823,6 +1932,8 @@
         {
           "id": "astro-grandstand",
           "name": "Astro Grandstand",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png",
@@ -1830,9 +1941,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1874,6 +1986,8 @@
         {
           "id": "tnt-sports-1",
           "name": "TNT Sports 1",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
@@ -1881,9 +1995,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1925,6 +2040,8 @@
         {
           "id": "tnt-sports-2",
           "name": "TNT Sports 2",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
@@ -1932,9 +2049,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -1976,6 +2094,8 @@
         {
           "id": "tnt-sports-3",
           "name": "TNT Sports 3",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
@@ -1983,9 +2103,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2027,6 +2148,8 @@
         {
           "id": "tnt-sports-4",
           "name": "TNT Sports 4",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
@@ -2034,9 +2157,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2078,6 +2202,8 @@
         {
           "id": "tnt-sports-5",
           "name": "TNT Sports 5",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png",
@@ -2085,9 +2211,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2129,6 +2256,8 @@
         {
           "id": "usa-network",
           "name": "USA Network",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",
@@ -2136,9 +2265,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2180,6 +2310,8 @@
         {
           "id": "usa-network-hd",
           "name": "USA Network HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
@@ -2187,9 +2319,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2231,6 +2364,8 @@
         {
           "id": "usa-network-hd",
           "name": "USA Network HD",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
@@ -2238,9 +2373,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2282,6 +2418,8 @@
         {
           "id": "espn",
           "name": "ESPN",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",
@@ -2289,9 +2427,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2333,6 +2472,8 @@
         {
           "id": "espn-2",
           "name": "ESPN 2",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",
@@ -2340,9 +2481,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2384,11 +2526,14 @@
         {
           "id": "sky-sport-1-nz",
           "name": "Sky Sport 1 NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": null,
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2430,11 +2575,14 @@
         {
           "id": "sky-sport-2-nz",
           "name": "Sky Sport 2 NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": null,
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2476,11 +2624,14 @@
         {
           "id": "sky-sport-3-nz",
           "name": "Sky Sport 3 NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": null,
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2522,11 +2673,14 @@
         {
           "id": "sky-sport-4-nz",
           "name": "Sky Sport 4 NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": null,
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2568,11 +2722,14 @@
         {
           "id": "sky-sport-5-nz",
           "name": "Sky Sport 5 NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": null,
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2614,11 +2771,14 @@
         {
           "id": "sky-sport-6-nz",
           "name": "Sky Sport 6 NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": null,
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2660,11 +2820,14 @@
         {
           "id": "sky-sport-7-nz",
           "name": "Sky Sport 7 NZ",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": null,
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2716,11 +2879,14 @@
         {
           "id": "cbs-sports-network-usa",
           "name": "CBS Sports Network USA",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": null,
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2762,6 +2928,8 @@
         {
           "id": "tennis-channel",
           "name": "Tennis Channel",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://i.imgur.com/tsljAnY.png",
@@ -2769,9 +2937,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
@@ -2813,6 +2982,8 @@
         {
           "id": "fubo-sports-network",
           "name": "Fubo Sports Network",
+          "type": "single",
+          "display": "default",
           "label": null,
           "image": {
             "url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png",
@@ -2820,9 +2991,10 @@
             "width": 64,
             "height": 64
           },
-          "display": "default",
-          "type": "single",
           "enable_detail": false,
+          "labels": [],
+          "share": null,
+          "remote_data": null,
           "sources": [
             {
               "id": "source-1",
