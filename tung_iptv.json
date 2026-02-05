@@ -1,72 +1,73 @@
 {
-  "id": "provider-5a2bb9a5-6a7a-4de2-8374-2f230b208257",
+  "id": "1fcc2898-6d90-4eb1-9cf6-b7257d3b6679",
   "name": "Tung IPTV",
-  "description": "A list of channels from Tung IPTV",
-  "url": "https://example.com/m3u.json",
-  "color": "#181818",
+  "description": "A curated list of channels from Tung IPTV",
+  "url": "tung_iptv.json",
+  "color": "#66CDAA",
   "image": {
     "url": "https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png",
     "type": "contain",
-    "height": 187,
-    "width": 28
+    "height": 1000,
+    "width": 1000
   },
   "grid_number": 2,
   "groups": [
     {
-      "id": "group-df501fb7-750f-4805-947e-1bd4624f5878",
+      "id": "group-f28a2b6a-a759-44df-a3ca-d7272f07dd76",
       "name": "Football\" tvg-logo=\"https://i.ibb.co/WcCrBqx/sky-football.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "a0fedb32-eacf-4115-a97d-0ecc576455d1",
+          "id": "-sky-sports-football-hd",
           "name": " Sky Sports Football HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "bae27318-cb04-4b85-91be-472e095d3929",
+              "id": "07f9473b-00aa-4d17-97ea-118f479909e8",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "a7e071ba-cd6a-4d20-9504-ed9792502073",
+                  "id": "bf32459d-8229-407e-aeed-9d0eedd9a4e9",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "4b2e3581-7f7a-4469-afb8-7c722fe0c173",
-                      "name": "Full",
+                      "id": "-sky-sports-football-hd-full",
+                      "name": " Sky Sports Football HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "9164efee-e657-4e46-8c75-6ebda39b4c7d",
+                          "id": "-sky-sports-football-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-football/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -82,47 +83,48 @@
           ]
         },
         {
-          "id": "f1aa8230-b183-4a63-9698-f59db37de078",
+          "id": "-sky-sports-football-fhd",
           "name": " Sky Sports Football FHD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "d37e3384-10ca-420f-ace1-c7d0343c449d",
+              "id": "ab3e4172-df14-4298-acde-e43a96ff4eed",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "ceee2e43-4ef1-4ec3-b8a2-93946d63148f",
+                  "id": "059b0662-dc66-45a5-816c-d1b07852919f",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "cf0285e0-0cb8-4599-8a90-1051f7600ccb",
-                      "name": "Full",
+                      "id": "-sky-sports-football-fhd-full",
+                      "name": " Sky Sports Football FHD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "da3c62fb-4f90-41dd-915e-5a629a532d68",
+                          "id": "-sky-sports-football-fhd-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/2000003",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -140,60 +142,61 @@
       ]
     },
     {
-      "id": "group-7e37aafe-7e51-4b61-b4c2-c76a4f2fb1ed",
+      "id": "group-75e5a8d7-e307-487e-835e-530de8dd47cc",
       "name": "Football\" tvg-logo=\"https://i.ibb.co/CwMZcpP/sky-main-event.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "f8dcc6f0-bb6c-47dc-adab-20e677561feb",
+          "id": "-sky-sports-main-event-hd",
           "name": " Sky Sports Main Event HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "f1963572-efda-49cf-99b9-101a499b2c30",
+              "id": "6273a804-6abe-430a-99a5-4d721a4e61c0",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "13644b3c-2588-4ff7-9a08-705561d16b67",
+                  "id": "93e2478c-2cc7-4891-9bab-cb9a69b8a8bb",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "67e30aa6-f668-47ce-bd9f-3a2fad8f3268",
-                      "name": "Full",
+                      "id": "-sky-sports-main-event-hd-full",
+                      "name": " Sky Sports Main Event HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "cd88a4a6-7392-4297-86f5-0b119f6aecd0",
+                          "id": "-sky-sports-main-event-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -209,47 +212,48 @@
           ]
         },
         {
-          "id": "4fd44faa-81f3-467d-9635-f6dcf1e525e3",
+          "id": "-sky-sports-main-event-fhd",
           "name": " Sky Sports Main Event FHD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "c3d0cb1f-8ca2-4fcc-b701-c002e3613088",
+              "id": "b039d435-9f0e-4c85-a8b0-4452565e144d",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "bbfeba61-3352-49e0-bdfc-81d787f9bfd9",
+                  "id": "8409095d-1832-4fb7-9e8d-80433720d775",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "3722769f-6617-49cb-8e61-33d4d5af656e",
-                      "name": "Full",
+                      "id": "-sky-sports-main-event-fhd-full",
+                      "name": " Sky Sports Main Event FHD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "645177a2-3eee-4803-8789-30a5c35a4f44",
+                          "id": "-sky-sports-main-event-fhd-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/2000001",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -267,60 +271,61 @@
       ]
     },
     {
-      "id": "group-53802132-50b8-401a-9e74-fd78601d930c",
+      "id": "group-a7781c7b-a1a7-4d89-8226-e79715864be6",
       "name": "Football\" tvg-logo=\"https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "edd70f05-5d1d-4374-9de4-406334832e6d",
+          "id": "-sky-sports-premier-league-hd",
           "name": " Sky Sports Premier League HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "59b7f86a-c7a1-49a2-88c8-d45fa658e692",
+              "id": "3601d278-9f34-46b9-94d9-c2da9ba79892",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "ab59ca32-e8f7-4769-8470-d75a93409109",
+                  "id": "4d59789a-ac48-4f1b-b6c4-c061aa548b04",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "a5c51a24-8ab8-4608-8cec-c9fc38f69de4",
-                      "name": "Full",
+                      "id": "-sky-sports-premier-league-hd-full",
+                      "name": " Sky Sports Premier League HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "f58cee0f-6181-48d6-ae89-51c7fdb5206f",
+                          "id": "-sky-sports-premier-league-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-premier-league/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -336,47 +341,48 @@
           ]
         },
         {
-          "id": "8a507411-52e9-4d57-b880-dcf568d9a2f2",
+          "id": "-sky-sports-premier-league-fhd",
           "name": " Sky Sports Premier League FHD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "8c2d90e1-ca11-4a06-ba35-8c92120ea4e3",
+              "id": "c1825c37-70ef-4fc9-bd0a-a632bcdca477",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "9435a211-795b-44c6-a910-399b52d05965",
+                  "id": "3deca945-aac4-4538-806f-bda7d6b3b89f",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "65417752-5c38-4e17-b733-b29fefd2ffa1",
-                      "name": "Full",
+                      "id": "-sky-sports-premier-league-fhd-full",
+                      "name": " Sky Sports Premier League FHD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "84f8f927-dfc9-4f0b-8b97-ca2d9ab12f33",
+                          "id": "-sky-sports-premier-league-fhd-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/2000002",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -394,60 +400,61 @@
       ]
     },
     {
-      "id": "group-03a4f825-d91d-4ca1-a0e5-eef52f33dca7",
+      "id": "group-1386ba09-a392-4362-9bd5-36da159869a3",
       "name": "Football\" tvg-logo=\"https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "d7ccb9fa-5682-405b-ae7f-7154470bf57c",
+          "id": "-sky-sport-8---premier-league-nz",
           "name": " Sky Sport 8 - Premier League NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "64e5cfaf-d7b6-44ef-811e-64fb40a9a4fb",
+              "id": "e4866455-bc21-4ec8-8f86-0d106b1b505e",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "cd3ac015-79c7-4434-bcf0-bbdd77f43f1d",
+                  "id": "02e8b8b5-8597-427b-8c97-261b98c6085c",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "87ba5ecc-571e-4795-afa3-54035b8f81e5",
-                      "name": "Full",
+                      "id": "-sky-sport-8---premier-league-nz-full",
+                      "name": " Sky Sport 8 - Premier League NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "e9fef2bb-bfc9-482f-80fd-29aee05bee47",
+                          "id": "-sky-sport-8---premier-league-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -463,47 +470,48 @@
           ]
         },
         {
-          "id": "2e0ee678-ab0a-43f1-b79f-94aacec1c508",
+          "id": "-sky-sport-8---premier-league-nz",
           "name": " Sky Sport 8 - Premier League NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "4cb46cf5-c7a8-428a-baeb-7342191d88ad",
+              "id": "7deaef65-e8dd-487b-bf32-3d9908d75998",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "b15ed18d-0145-40b4-be4d-49d66264a266",
+                  "id": "1da0df44-c6fa-4a9d-aae2-7ca3ea379818",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "0811e9de-81ba-4c85-a7d8-930073ac03c1",
-                      "name": "Full",
+                      "id": "-sky-sport-8---premier-league-nz-full",
+                      "name": " Sky Sport 8 - Premier League NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "01adb64c-53b5-46ba-b1cd-33c3f10d131c",
+                          "id": "-sky-sport-8---premier-league-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/700008",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -521,60 +529,61 @@
       ]
     },
     {
-      "id": "group-f7604681-792b-4f0c-a4f2-653d5066a1c9",
+      "id": "group-407062cd-7c1c-4f44-9ffc-101ed68457fa",
       "name": "Football\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "65fb08f8-acc0-4140-82aa-0009add76746",
+          "id": "-astro-premier-league",
           "name": " Astro Premier League",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "47a3f19d-3e61-49b4-9c75-c2e5688d66a7",
+              "id": "92a3bd35-332c-4545-87f9-89193bfa5145",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "4bb32454-d714-49f7-b9e6-32e99dbc565f",
+                  "id": "ebedde3a-eb89-4c42-b65e-a1785a339ef1",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "ce0d29f5-fe96-4b35-bcde-01061942746e",
-                      "name": "Full",
+                      "id": "-astro-premier-league-full",
+                      "name": " Astro Premier League",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "89bf24b0-6142-41cf-bb73-1d980134f26c",
+                          "id": "-astro-premier-league-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -592,60 +601,61 @@
       ]
     },
     {
-      "id": "group-35a4ff4a-d6d2-4c46-b963-5f871707e755",
+      "id": "group-eb11a68a-f58c-4e02-af70-6ebcf6fab513",
       "name": "Football\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "10877601-c023-46ad-b4b9-8fe58e402a74",
+          "id": "-astro-premier-league-2",
           "name": " Astro Premier League 2",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "4ea273b7-74c6-454f-bad4-a211479daf25",
+              "id": "764ce56f-ea6e-4231-aae9-a5d5e915fa93",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "2f4ea970-d370-4d89-be2b-16b096960714",
+                  "id": "7cc926c3-1077-4490-92e4-74e3dfe5a8f1",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "01a8136e-77c7-4403-80fb-ec6faff20682",
-                      "name": "Full",
+                      "id": "-astro-premier-league-2-full",
+                      "name": " Astro Premier League 2",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "184b41b7-c676-4265-b251-14e0a70415dc",
+                          "id": "-astro-premier-league-2-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league-2/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -663,60 +673,61 @@
       ]
     },
     {
-      "id": "group-b8ba6594-4180-4d41-bfd2-e5407768f3d2",
+      "id": "group-d643b63b-744e-449a-a8a4-7591e8b351ac",
       "name": "Football\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ffebebf7-aa5e-4838-93e4-994ebcd17839",
+          "id": "-astro-football",
           "name": " Astro Football",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "f1059c67-7dcc-429f-8616-155b7af6b688",
+              "id": "7ead97b2-1c69-410e-9205-4855fc531b53",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "a9b56ae8-05db-4e8a-b443-2fd51f1870df",
+                  "id": "c98c1d98-9889-42cd-9a4c-bd9f5b69ad3a",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "e632e0e1-a7d1-4061-a382-e7864b872131",
-                      "name": "Full",
+                      "id": "-astro-football-full",
+                      "name": " Astro Football",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "4293770a-d011-4b16-bdd6-abc3f87b8b63",
+                          "id": "-astro-football-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -734,60 +745,61 @@
       ]
     },
     {
-      "id": "group-5b13860d-0615-4023-9594-9ae69e405e5b",
+      "id": "group-bfdd9632-7c44-4dc0-8cd3-e7a35420eeee",
       "name": "Football\" tvg-logo=\"https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "35229169-eceb-4994-af68-ce4b3d701778",
+          "id": "-peacock-premier-league-tv",
           "name": " Peacock Premier League TV",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "bb35de36-dc40-4f9b-a2ec-c81fa7553f69",
+              "id": "e6802377-0587-4ae5-b5c3-37eeb4a55bab",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "fc3873f0-5970-42ac-9e9d-7d5b95e470ed",
+                  "id": "e7ea6f24-d90b-4d08-b879-509a11c2f3f3",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "901581bf-8d1e-48b7-acbd-5cd3174abec7",
-                      "name": "Full",
+                      "id": "-peacock-premier-league-tv-full",
+                      "name": " Peacock Premier League TV",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "90333fba-6617-4406-a1b0-e66bedc3138b",
+                          "id": "-peacock-premier-league-tv-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/1100021",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -805,60 +817,61 @@
       ]
     },
     {
-      "id": "group-39fce703-52df-4279-88d6-4cec218b342e",
+      "id": "group-3cd0e1b7-67c6-422a-9dd2-da8abd2c0969",
       "name": "Football\" tvg-logo=\"https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "a86a1d5b-aae8-4938-b718-cf55bf4b4966",
+          "id": "-now-sports-pl-1-fhd",
           "name": " Now Sports PL 1 FHD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "710f39ce-60a0-4c5e-8c56-977fb62c4fea",
+              "id": "6f7e28e4-3753-4626-afe9-37e3e6cb3045",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "1fc12c51-00e2-482e-bda1-258e5fe11d9d",
+                  "id": "89ff79b2-f660-4a3d-804a-f2846400b9df",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "60919a52-fe1e-4cb1-93e3-c7aef065a4f1",
-                      "name": "Full",
+                      "id": "-now-sports-pl-1-fhd-full",
+                      "name": " Now Sports PL 1 FHD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "f25a970d-523c-4f33-a0a3-85d719360803",
+                          "id": "-now-sports-pl-1-fhd-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/1100001",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -876,60 +889,61 @@
       ]
     },
     {
-      "id": "group-1d635da5-66c8-48d2-bf1a-173d71106758",
+      "id": "group-10777c96-e44d-45d6-b511-51b706fd5f7f",
       "name": "Football\" tvg-logo=\"https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "61edb28a-f635-4933-a529-41fd30542e92",
+          "id": "-now-sports-pl-2-fhd",
           "name": " Now Sports PL 2 FHD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "63d0554d-8d4d-4a39-93b2-8a2e075de81c",
+              "id": "88e6af21-420b-4b5d-8768-0253f08324e7",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "d975a928-d242-43b7-9a16-279017e26153",
+                  "id": "e362b8c6-7e68-47ac-b945-f4589a1f4265",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "76430c42-2f17-4426-9ee5-603ec9b56862",
-                      "name": "Full",
+                      "id": "-now-sports-pl-2-fhd-full",
+                      "name": " Now Sports PL 2 FHD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "ac4d4cf3-2f81-4a8b-8743-591415a0a408",
+                          "id": "-now-sports-pl-2-fhd-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/1100002",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -947,60 +961,61 @@
       ]
     },
     {
-      "id": "group-dc1a49c5-6d7e-4e9a-b454-9cb1092cff50",
+      "id": "group-adcdfd6a-39f3-49b5-ac7c-54b4148e3690",
       "name": "Tennis\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "b20f172c-871d-4e41-acea-9f71c7c7c360",
+          "id": "-tennis-channel-hd",
           "name": " Tennis Channel HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "ba62f001-dce9-4a81-b92e-2326bb7212b9",
+              "id": "e5638be4-bd05-4d7b-807a-5ac3dc34359e",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "75562688-f206-4507-b4da-db84599fefbb",
+                  "id": "83d43ba9-7867-42f4-926a-4deb691d5aa1",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "62353014-a22c-41fa-bd13-d0d4336439c1",
-                      "name": "Full",
+                      "id": "-tennis-channel-hd-full",
+                      "name": " Tennis Channel HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "87c7bb12-b65d-428f-995b-327ad98bef7b",
+                          "id": "-tennis-channel-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-tennis-channel/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1016,47 +1031,48 @@
           ]
         },
         {
-          "id": "1e07b6b9-a294-424a-aa8c-ebbdee42293f",
+          "id": "-tennis-channel-sd",
           "name": " Tennis Channel SD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "1babb51a-5ee5-490b-be49-d4d806aaf17e",
+              "id": "2117992e-65e9-466e-9296-493e45108501",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "e183d7bf-ba1d-4158-a59b-adee66fa2922",
+                  "id": "9bf7595d-be37-4af8-9dac-61841f62c69b",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "7857285a-b5f2-4ad3-bdad-1b8806700c4d",
-                      "name": "Full",
+                      "id": "-tennis-channel-sd-full",
+                      "name": " Tennis Channel SD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "a0b259fc-2d4f-48c8-902d-93fa6f5fae73",
+                          "id": "-tennis-channel-sd-1-s1",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/TennisChannel/sd",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1072,47 +1088,48 @@
           ]
         },
         {
-          "id": "6b41172b-3305-4a7c-ba8d-3d6f915efdcb",
+          "id": "-tennis-channel-hd",
           "name": " Tennis Channel HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "62cc52c9-6e99-4034-81a1-40906275c4cb",
+              "id": "5b543dbc-c33c-46fd-8c06-9a301bc90bc7",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "0ccbb379-500f-465b-b3a1-491b7b26c723",
+                  "id": "468ff876-f94f-418a-9118-00160785bdf3",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "5ef42ed1-3bfb-4da3-98bc-e672281ba8f8",
-                      "name": "Full",
+                      "id": "-tennis-channel-hd-full",
+                      "name": " Tennis Channel HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "a0164042-9090-47fc-84dc-774d86b511ac",
+                          "id": "-tennis-channel-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1128,47 +1145,48 @@
           ]
         },
         {
-          "id": "610d7df5-95b6-4bee-86a6-985cb062f571",
+          "id": "-tennis-channel-fhd",
           "name": " Tennis Channel FHD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "08f51081-2a43-4d1d-b4d7-e914e81880fb",
+              "id": "c9e15120-b9a6-41ac-bc11-d7256a49fff3",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "76230e5c-66ee-4409-970a-146ea919be54",
+                  "id": "e83810f7-d6b9-4a1c-a20e-74983d723bb0",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "175bdd0b-9428-4836-9351-c92931536a55",
-                      "name": "Full",
+                      "id": "-tennis-channel-fhd-full",
+                      "name": " Tennis Channel FHD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "a0557df1-2024-4a07-88d4-7c6c17290d94",
+                          "id": "-tennis-channel-fhd-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/40000040",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1186,60 +1204,61 @@
       ]
     },
     {
-      "id": "group-7756fb04-6c8d-4fe0-b00f-3ba5789089bf",
+      "id": "group-341f991f-fc48-4475-856a-910ce05a6d3b",
       "name": "Tennis\" tvg-logo=\"https://i.imgur.com/ZNUDU1r.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "98aa01d5-6bd2-4a0c-aaad-00a33b0e114c",
+          "id": "-sky-sports-tennis",
           "name": " Sky Sports Tennis",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "9184feb1-7de6-4631-a100-ae0fdb64785d",
+              "id": "0254a7bf-ded1-4f0f-8a0e-0465c2c81c70",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "334e54e7-31b5-4fec-96e1-85463601e5db",
+                  "id": "1b49042b-0b4b-4450-9258-78fee6aa2a96",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "6206548e-2601-4e06-aead-6ae3b74e76a8",
-                      "name": "Full",
+                      "id": "-sky-sports-tennis-full",
+                      "name": " Sky Sports Tennis",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "aa6e00a6-65ba-483d-ae49-6c5651d59752",
+                          "id": "-sky-sports-tennis-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-tennis/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1255,47 +1274,48 @@
           ]
         },
         {
-          "id": "462ac5b2-34df-42f1-a563-5bf098527964",
+          "id": "-sky-sports-tennis",
           "name": " Sky Sports Tennis",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "a9b557a1-f753-4782-9bdb-0d8fc63605a4",
+              "id": "9121eb75-f835-49a5-be3d-03559e2c33dd",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "2e214f77-645d-49af-892f-1c2878678654",
+                  "id": "c8eb5974-1dd9-41e0-b079-cfe9eed35faa",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "5ecdb5f1-6faf-4dd4-9915-240c634ae28a",
-                      "name": "Full",
+                      "id": "-sky-sports-tennis-full",
+                      "name": " Sky Sports Tennis",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "631153e7-b335-42d0-83fd-b4190428cedb",
+                          "id": "-sky-sports-tennis-1-s1",
                           "name": "Server 1",
                           "url": "https://a1xs.vip/2000013",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1313,60 +1333,61 @@
       ]
     },
     {
-      "id": "group-2342c4fc-31ac-436e-8f32-5bfb565afd41",
+      "id": "group-0794693e-eab8-49e8-b3ce-62c7c30dd569",
       "name": "Tennis\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "cfba96f1-450f-4a23-bd40-134998f3c882",
+          "id": "-tsn1",
           "name": " TSN1",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "20898070-b32f-4f41-ad15-623d9b5610e0",
+              "id": "d4db779e-4edd-4681-b958-441341ad361f",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "f84d36b2-1d1c-4336-92cf-3cb5283c4f97",
+                  "id": "038684a7-9cc3-4548-b1cb-e0570722c6e6",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "4113f5d0-cc1f-4733-b8d8-bfeece1a37bd",
-                      "name": "Full",
+                      "id": "-tsn1-full",
+                      "name": " TSN1",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "b9a57bc4-dc46-4e90-9d11-e7b31a6f9e78",
+                          "id": "-tsn1-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1382,47 +1403,48 @@
           ]
         },
         {
-          "id": "f18b931d-fd22-47e0-aca0-b40b4407564a",
+          "id": "-tsn1-sd",
           "name": " TSN1 SD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "bbcf8fc3-54e3-4208-9afe-aa660c092877",
+              "id": "992852c9-1f4e-41ba-9682-44ad9fdcdbea",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "4698e9b0-ea38-42f1-9d1d-db98c5755c43",
+                  "id": "79ff2fa1-03f5-4036-a9f9-537e019274e7",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "aeea5f5f-6b04-4a38-a0bb-f863344f72d6",
-                      "name": "Full",
+                      "id": "-tsn1-sd-full",
+                      "name": " TSN1 SD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "9cd08dd6-aae4-4ac0-9ebb-2b6d348308c2",
+                          "id": "-tsn1-sd-1-s1",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn1/sd",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1438,47 +1460,48 @@
           ]
         },
         {
-          "id": "69994d1f-a1a3-48f2-82fc-60ed5e676970",
+          "id": "-tsn1-hd",
           "name": " TSN1 HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "a05c5229-d28b-4d2a-a763-e99ca9609d2a",
+              "id": "a7b1caa8-d2bd-43f9-91e6-9070cf46d3fe",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "3b9c5824-14f2-4e14-addb-a0c7e70e2052",
+                  "id": "74b49d54-e6b6-4dbf-9ecd-0acd3a2043c2",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "f2e16982-0792-4e8e-8ac2-0d51f61d4668",
-                      "name": "Full",
+                      "id": "-tsn1-hd-full",
+                      "name": " TSN1 HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "1df86766-37ab-47c5-9832-a0681a813214",
+                          "id": "-tsn1-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_1/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1496,60 +1519,61 @@
       ]
     },
     {
-      "id": "group-a5baff44-abe1-4067-8b9f-47c4e4631601",
+      "id": "group-d1e57176-47f2-4bb4-b130-1eecbbf6fdbe",
       "name": "Tennis\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "571d2c32-33bd-48e6-bfa9-1c5bbd747d62",
+          "id": "-tsn2",
           "name": " TSN2",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "0d0f1034-6463-4e0c-98d2-53155f58d9f4",
+              "id": "dfdca287-6885-41d0-950a-4aa0e44891bf",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "333253e2-8412-49ed-b53e-795654c38a42",
+                  "id": "ca577c10-3100-48b5-b9e8-229fd4aec793",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "20f5402b-f8fc-4ae8-bc64-1e958d61027c",
-                      "name": "Full",
+                      "id": "-tsn2-full",
+                      "name": " TSN2",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "d4a91773-4afb-47fb-b88c-010d60ef34b2",
+                          "id": "-tsn2-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1565,47 +1589,48 @@
           ]
         },
         {
-          "id": "4fd6987c-79bd-4604-a046-0cb8dd2525a4",
+          "id": "-tsn2-sd",
           "name": " TSN2 SD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "ecd3e160-a6bc-4513-b7a0-40f0b13562cc",
+              "id": "4df77623-adba-4496-9287-11eb3352df78",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "4ae803f1-9958-44d3-b387-58dc935f518c",
+                  "id": "01f13090-c44b-4299-875c-28b770ffd6f2",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "06ccecac-ed2e-46a3-ad4e-8a26fafcd904",
-                      "name": "Full",
+                      "id": "-tsn2-sd-full",
+                      "name": " TSN2 SD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "7c7900d6-0757-442b-bd1e-c3c611911217",
+                          "id": "-tsn2-sd-1-s1",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn2/sd",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1621,47 +1646,48 @@
           ]
         },
         {
-          "id": "a13f45c0-48d4-4938-9dee-5a018debe407",
+          "id": "-tsn2-hd",
           "name": " TSN2 HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "9f5236d9-b64d-4f65-a7a7-329d81367847",
+              "id": "9b181621-4097-4990-9de5-e31bdc0b8a1a",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "fe6c0118-9d70-4032-98ea-c0260c82e5dd",
+                  "id": "91e69cea-126f-44d9-9ad4-3cea4ab73c65",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "c85674e5-9c5b-49e9-bf68-b8afca049b6e",
-                      "name": "Full",
+                      "id": "-tsn2-hd-full",
+                      "name": " TSN2 HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "50a98de5-6547-4b63-b757-aeb0e7f0a9e6",
+                          "id": "-tsn2-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_2/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1679,60 +1705,61 @@
       ]
     },
     {
-      "id": "group-d6e098a0-b869-499a-9051-0e1460ac4db7",
+      "id": "group-7a5af859-e80c-4fec-8512-279a3ce544cb",
       "name": "Tennis\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "8a5c684e-7908-4f3d-aaa3-b826eec0ce4e",
+          "id": "-tsn3",
           "name": " TSN3",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "b2bcb081-4d67-40ee-ba46-5c47a36ca735",
+              "id": "b215c0fa-fffd-4d6d-ac14-2b71d4001545",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "c9b53c14-bdc0-4673-af82-ff38dda5834d",
+                  "id": "b2d334a4-6853-4a8c-96ae-ba360fb42d4b",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "d17b34c2-9e36-45d0-8406-8cfe932308de",
-                      "name": "Full",
+                      "id": "-tsn3-full",
+                      "name": " TSN3",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "1d05fc62-63e0-4eeb-a787-dd9c482eb661",
+                          "id": "-tsn3-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1748,47 +1775,48 @@
           ]
         },
         {
-          "id": "4d945682-766a-4027-bd2a-d01db33df2bf",
+          "id": "-tsn3-sd",
           "name": " TSN3 SD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "8c4c6bf8-e5e2-423d-97fd-3d8245b077ac",
+              "id": "36ec609e-24fb-4483-bd56-d660e628b071",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "d3d8fd19-ef40-4312-8014-ca161794c340",
+                  "id": "20ee69ef-e9b8-444f-9e74-0780179e4ad0",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "5a64abb9-6035-4f31-bc0e-ab1355324a87",
-                      "name": "Full",
+                      "id": "-tsn3-sd-full",
+                      "name": " TSN3 SD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "9d4f6b9b-9e6d-4cff-bab9-92fc672ae996",
+                          "id": "-tsn3-sd-1-s1",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn3/sd",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1804,47 +1832,48 @@
           ]
         },
         {
-          "id": "c42fd28a-885b-42bb-9e99-c64c06354609",
+          "id": "-tsn3-hd",
           "name": " TSN3 HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "b5f9b4a5-ffb5-46bd-bf67-ac227968b318",
+              "id": "98fbfaa4-e4ab-426b-ad76-db08eb4ed503",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "44113cb5-f5fa-4698-ab18-3048ebb4a859",
+                  "id": "ec19b584-1f43-4064-94bc-90c5eb685383",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "b6c13f4a-930b-4292-a051-83a9bd4df03b",
-                      "name": "Full",
+                      "id": "-tsn3-hd-full",
+                      "name": " TSN3 HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "f3936096-60f9-48d2-8c8d-e5ea2221caa6",
+                          "id": "-tsn3-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_3/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1862,60 +1891,61 @@
       ]
     },
     {
-      "id": "group-94b86484-4f6f-471c-b5af-4a85ca5da736",
+      "id": "group-ef0a2ee9-1448-4999-8750-322aefd31486",
       "name": "Tennis\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "468c7f08-6491-4374-87fd-d8f44b9ab629",
+          "id": "-tsn4",
           "name": " TSN4",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "0e2c955e-c4dc-4338-ba15-d579c272ee5f",
+              "id": "9d964a07-6261-4397-b2ac-b1746fb19ac7",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "a4819635-1005-4608-8ecd-92145d0cbf7c",
+                  "id": "9d7b42f9-7a26-4169-958f-743f4a873f3f",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "61c7aa89-3000-4444-b4eb-269bd8fbdb7c",
-                      "name": "Full",
+                      "id": "-tsn4-full",
+                      "name": " TSN4",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "3eb73151-035d-4f6d-bd1c-97e671a61029",
+                          "id": "-tsn4-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-4/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1931,47 +1961,48 @@
           ]
         },
         {
-          "id": "7817b9cf-ec4a-4212-b3b9-ac29ac98ac5e",
+          "id": "-tsn4-sd",
           "name": " TSN4 SD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "15dfff36-ca4a-4895-9cb6-45491c535e9d",
+              "id": "6089dfb7-1207-422a-b5c7-ba8ec4d6017a",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "dbb122b4-6140-4ec7-8bb6-445cf9157581",
+                  "id": "f95e61f7-8620-47ed-9db7-4e87f86047d2",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "eda38688-61f2-4d92-9425-e1be501035c2",
-                      "name": "Full",
+                      "id": "-tsn4-sd-full",
+                      "name": " TSN4 SD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "3ebdb435-0a93-4c1a-85b5-ac8e7e036da3",
+                          "id": "-tsn4-sd-1-s1",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn4/sd",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -1987,47 +2018,48 @@
           ]
         },
         {
-          "id": "c539461e-8167-4393-af61-8179614d951d",
+          "id": "-tsn4-hd",
           "name": " TSN4 HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "7955cecd-fd08-470f-a739-fec2c320782d",
+              "id": "9eebf277-01c7-4b88-85fd-ddb265e5ae8a",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "3967d995-4085-41d6-8537-5621cb1a41d1",
+                  "id": "8d8f9bad-2125-4de6-beca-1a937b35c7a3",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "94a5b69a-abd7-4047-8e6c-3824d772ee2c",
-                      "name": "Full",
+                      "id": "-tsn4-hd-full",
+                      "name": " TSN4 HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "a3ad67b1-a1f5-4eb2-8814-a0f8e4dcbcda",
+                          "id": "-tsn4-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_4/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2045,60 +2077,61 @@
       ]
     },
     {
-      "id": "group-8c7425f3-f2ab-4973-9da8-2714573ce2b9",
+      "id": "group-a6a36b70-46cf-46e4-9139-1d4494b0b639",
       "name": "Tennis\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "9e4c27e6-7ca1-4399-bdf5-d95ae6137b24",
+          "id": "-tsn5",
           "name": " TSN5",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "ff452547-69d3-4c7f-a003-8990e67d669a",
+              "id": "69acba08-6852-448d-a838-d106e866f458",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "a1311ad0-4579-425b-b2cc-2dce22d30b86",
+                  "id": "30e398c7-d32e-4125-8de0-2e4634d81297",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "a1271cd8-3010-46af-9e34-1d88bcf7ddb0",
-                      "name": "Full",
+                      "id": "-tsn5-full",
+                      "name": " TSN5",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "217645d9-353c-4327-b7b3-a5f24b58978c",
+                          "id": "-tsn5-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/ca-tsn-5/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2114,47 +2147,48 @@
           ]
         },
         {
-          "id": "b64ea8ce-8b38-4863-b19f-c9470eba4eb8",
+          "id": "-tsn5-sd",
           "name": " TSN5 SD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "14e3c7bd-2496-4dd5-a93f-def7477bc835",
+              "id": "ed58a589-3d5b-4f93-9d32-aa8777f7a1ff",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "99f61256-c4fd-4e14-99a9-b9cb5ba89433",
+                  "id": "9f76c8db-9714-4e63-be5c-21781a3ba104",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "cfecddef-03a5-459c-8b6f-99049158e041",
-                      "name": "Full",
+                      "id": "-tsn5-sd-full",
+                      "name": " TSN5 SD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "7124fe7b-307e-4410-847e-b40a5acebb97",
+                          "id": "-tsn5-sd-1-s1",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/tsn5/sd",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2170,47 +2204,48 @@
           ]
         },
         {
-          "id": "5868d80f-1bb9-4b5c-b88c-7dd7ca83b016",
+          "id": "-tsn5-hd",
           "name": " TSN5 HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "27bf43d2-1037-4493-a23d-d7c1b7738158",
+              "id": "7802c709-3862-4359-b8d3-be709b67cf75",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "7a2ed97d-dc77-435c-91d3-2ef484d3b9c4",
+                  "id": "c7861507-72a4-4ab4-abcc-a1b8e4307983",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "70f5a331-aca2-4c26-9c6d-31e6fb6ce792",
-                      "name": "Full",
+                      "id": "-tsn5-hd-full",
+                      "name": " TSN5 HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "fe411075-ece1-4815-8854-9e669a8225af",
+                          "id": "-tsn5-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/TSN_5/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2228,60 +2263,61 @@
       ]
     },
     {
-      "id": "group-33884102-357b-4bde-ad39-f999ab34eb25",
+      "id": "group-4d621d5a-ff89-4983-bfae-8674cb1493fa",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "0b6836a9-6523-4166-984e-1df0c5a7a84d",
+          "id": "-astro-grandstand",
           "name": " Astro Grandstand",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "ea4adfab-5121-46cf-8b83-6534e442981d",
+              "id": "c5c00e40-1eb2-4807-b2b8-b27f6a5751b8",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "2e6dbcaa-333a-48f2-96b7-74f5323a269a",
+                  "id": "89ed42fd-aee2-48d9-bfb5-beb9c683328f",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "d55a93b9-9803-48fb-8381-372437212581",
-                      "name": "Full",
+                      "id": "-astro-grandstand-full",
+                      "name": " Astro Grandstand",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "efa0496a-276c-4656-8225-d981b01c4ed0",
+                          "id": "-astro-grandstand-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-astro-grandstand/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2299,60 +2335,61 @@
       ]
     },
     {
-      "id": "group-2803ede0-98bd-4a94-a61f-0e617ada60d4",
+      "id": "group-a9dd90d4-03b8-4dc6-ace9-a3a1916a5053",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "86fc6cf1-ed63-4831-be4a-138ad85fb6e8",
+          "id": "-tnt-sports-1",
           "name": " TNT Sports 1",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "ffbd303f-b4fd-49cb-9a20-b1f513a52d33",
+              "id": "60faf00a-5571-4478-a2af-ec90b0cbb508",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "d23d8964-2f6f-4401-a459-36f44586a483",
+                  "id": "7b8e7f96-f322-4793-8b88-1f52057af987",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "3f68baca-2525-46fb-9b2d-fabb8e0ac751",
-                      "name": "Full",
+                      "id": "-tnt-sports-1-full",
+                      "name": " TNT Sports 1",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "0990cde6-6167-44c6-8779-c20a0f5fd93e",
+                          "id": "-tnt-sports-1-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2370,60 +2407,61 @@
       ]
     },
     {
-      "id": "group-182ed742-b415-4f1e-9119-bdd84dfe4c52",
+      "id": "group-47babefb-6612-4a16-b85f-bd2edb5c715e",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "bd5f6cc8-6283-4116-8366-5fba25841c28",
+          "id": "-tnt-sports-2",
           "name": " TNT Sports 2",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "bb291c36-ab9e-42dc-976f-5358b1b53001",
+              "id": "a1ec36c7-a5a7-4dd8-a6a5-7ddb4c3e033f",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "25b3d582-e741-4183-a02a-112725f8a536",
+                  "id": "2da1db7b-4f1e-4771-86de-f82f48998cd7",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "e581be9f-6be2-4973-9d04-ef75d9eeaea8",
-                      "name": "Full",
+                      "id": "-tnt-sports-2-full",
+                      "name": " TNT Sports 2",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "facedaf2-f439-40ce-9ee1-bf108d92f945",
+                          "id": "-tnt-sports-2-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2441,60 +2479,61 @@
       ]
     },
     {
-      "id": "group-8bef71cf-eac2-434c-aee0-af6a109d1fe2",
+      "id": "group-9b061067-66fc-4c3c-821d-99775a2d3695",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "07031f34-720b-4260-a561-6940f607f6c7",
+          "id": "-tnt-sports-3",
           "name": " TNT Sports 3",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "f2bbeb39-55c2-404d-b280-ea983a5a348e",
+              "id": "19783a18-88d6-4bb6-a791-906b274bb56b",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "c2a53dca-e954-4dc9-b724-c154f8319de3",
+                  "id": "452c8d1b-a99d-483f-9fcc-a1fca80fbadf",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "e9e43c88-ff7a-4986-a636-a5ffe53ec667",
-                      "name": "Full",
+                      "id": "-tnt-sports-3-full",
+                      "name": " TNT Sports 3",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "0e01b153-e74c-44c6-ac00-da4bccbdef86",
+                          "id": "-tnt-sports-3-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-3/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2512,60 +2551,61 @@
       ]
     },
     {
-      "id": "group-4f277f83-f122-42d4-8a32-497d5c1536f8",
+      "id": "group-78452af9-dd18-4ab7-bdbe-8f737f0763f6",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "20c6ae03-4fd2-46b7-af52-38c90c08a50c",
+          "id": "-tnt-sports-4",
           "name": " TNT Sports 4",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "cf99fbc8-f69a-4556-932a-99483778cae3",
+              "id": "78300c03-8647-4c67-b4b7-b8d08a32dc28",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "2529a88a-cdb5-4eb3-b2c7-8343b799942e",
+                  "id": "254f97be-afd0-4975-a1ff-2f558a45b9fb",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "39b5879e-c055-4c6d-a1c3-c4df32649957",
-                      "name": "Full",
+                      "id": "-tnt-sports-4-full",
+                      "name": " TNT Sports 4",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "fdaee3d7-32dc-413a-b41d-ed6dcc34b76f",
+                          "id": "-tnt-sports-4-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-4/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2583,60 +2623,61 @@
       ]
     },
     {
-      "id": "group-2cdd215e-855c-470f-8a21-bbc09ff15f43",
+      "id": "group-00d3071d-cd79-42fd-b40d-e1b86caf22c9",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "6e86f7b0-3271-4a39-b52f-d242c0ad2416",
+          "id": "-tnt-sports-5",
           "name": " TNT Sports 5",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "a540b1ea-ed32-4c05-ad6c-7ab60b29f130",
+              "id": "f4a34835-5440-4db1-872c-b8499efe1a2f",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "0dbaf2cb-a965-409f-8402-bb7ea2e993b5",
+                  "id": "aa599d20-471c-4d6e-8e65-ee38e1602b99",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "f972009e-7a96-47d7-a13d-7a4753aeb824",
-                      "name": "Full",
+                      "id": "-tnt-sports-5-full",
+                      "name": " TNT Sports 5",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "411bbb88-debe-4f6c-b4c8-8e57cedb9a98",
+                          "id": "-tnt-sports-5-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-5/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2654,60 +2695,61 @@
       ]
     },
     {
-      "id": "group-258c534a-1cbb-45f9-9b87-d99f14e02a7b",
+      "id": "group-b97d74e8-84a3-43ab-b2cd-2564af3243c2",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "73eb5cdb-95f5-42fc-9d3f-5f43a1b95683",
+          "id": "-usa-network",
           "name": " USA Network",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "f6ead072-9e5b-452e-b39d-11f1089254ad",
+              "id": "ee888cdc-07cc-4251-b2ae-25449e61598a",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "b0a61831-dafa-44c1-a137-51f7d0fc1a35",
+                  "id": "e637339e-5372-4c35-86aa-2544fef83d2b",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "94011618-67ce-45ca-8a89-c5a1887750f6",
-                      "name": "Full",
+                      "id": "-usa-network-full",
+                      "name": " USA Network",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "96dabbd7-3c90-44b0-85e8-c72c4a2e64b0",
+                          "id": "-usa-network-1-s1",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/USANetworkEast/sd",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2725,60 +2767,61 @@
       ]
     },
     {
-      "id": "group-68edf5f2-5cba-4ccc-b6e3-c9f20ded8c15",
+      "id": "group-3ef6f2ae-a23a-4689-9463-dc912fc7c342",
       "name": "Others\" tvg-logo=\"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "c0b8c008-6030-486b-b51f-0fd9f213de41",
+          "id": "-usa-network-hd",
           "name": " USA Network HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "2d45b122-21aa-402a-b1e0-c81b86f5ff35",
+              "id": "518c97a4-39e4-4708-9890-645e3029d654",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "1b984dd5-253c-414d-87ec-25791eaa85c7",
+                  "id": "90e3381d-2c1c-47a7-8ec7-b0349f208245",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "38a1ce16-1b0c-4bc3-a4d3-444a46489261",
-                      "name": "Full",
+                      "id": "-usa-network-hd-full",
+                      "name": " USA Network HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "3d8310ef-fde2-4f54-bb1f-1f8b7f5d1604",
+                          "id": "-usa-network-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2794,47 +2837,48 @@
           ]
         },
         {
-          "id": "fa37185b-9a2b-416b-a61c-90ec4d1e5409",
+          "id": "-usa-network-hd",
           "name": " USA Network HD",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "b24aea97-f325-4ac7-be6c-75bf4445de28",
+              "id": "125e9a3d-6635-417f-bb9e-4cf4f7d4f53e",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "8d9cc5a6-660a-4299-b76a-e1c3ca9719cb",
+                  "id": "e3df3ef2-9546-4e6e-8691-1ef96c9c730a",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "b0696812-8219-4e0f-baac-d88395970da0",
-                      "name": "Full",
+                      "id": "-usa-network-hd-full",
+                      "name": " USA Network HD",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "092c7ec5-7f13-4f2d-8f5a-0e60d0b74e2b",
+                          "id": "-usa-network-hd-1-s1",
                           "name": "Server 1",
                           "url": "https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2852,60 +2896,61 @@
       ]
     },
     {
-      "id": "group-51449160-da4b-4a62-9dbd-50643e26c902",
+      "id": "group-54d48ea6-d4fc-4480-8ef6-ae2a45fd9be1",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "948b2467-e1be-4392-b05c-9d6adf8b60db",
+          "id": "-espn",
           "name": " ESPN",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "0500e9e3-5109-485c-93e0-e9403e9898ec",
+              "id": "046d6372-e8e6-4e57-a7ca-a16451cd085e",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "b576fa3b-4c6f-4800-a430-8fb3e53c7d64",
+                  "id": "55fd01ea-aa00-4abd-b035-f6a47d5a52ba",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "d684c71c-11c7-456b-b194-ab0c5a91f869",
-                      "name": "Full",
+                      "id": "-espn-full",
+                      "name": " ESPN",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "2d41ad8f-a5ef-43e8-9dc0-9adc9041855a",
+                          "id": "-espn-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2923,60 +2968,61 @@
       ]
     },
     {
-      "id": "group-ee7220ba-bbc1-4c6b-b75d-5c91efbb57fd",
+      "id": "group-60996539-8d07-46b8-ac5f-a748d29352e8",
       "name": "Others\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "86e66069-fa1e-4dbf-8c70-2f6b89dbd48f",
+          "id": "-espn-2",
           "name": " ESPN 2",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "a404fbac-416d-4873-b390-3c5ba3605a59",
+              "id": "cec0b542-e22a-49de-a58b-1ff73cc5346d",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "13e1eafa-0332-416b-8d82-cd469d385a73",
+                  "id": "9e2a5e30-23f2-46f4-a082-18422617c38a",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "777ec816-92dd-4731-ba21-effd63538505",
-                      "name": "Full",
+                      "id": "-espn-2-full",
+                      "name": " ESPN 2",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "d437c31a-c93b-447f-af41-c27725cff0aa",
+                          "id": "-espn-2-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -2994,60 +3040,61 @@
       ]
     },
     {
-      "id": "group-e81f5b64-9fa8-481b-aec7-14872440eec9",
+      "id": "group-a7277f4c-db13-4d5e-ba45-644b0905c5c9",
       "name": "Others",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "04c53f0d-9c94-4ad4-b696-3216ced278c8",
+          "id": "-sky-sport-1-nz",
           "name": " Sky Sport 1 NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "c96963a3-0aa4-4ee5-b7d3-a5789d254291",
+              "id": "2f9eda54-bdc2-4eb4-93a1-1abd196c180d",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "a0f01e6d-3098-4359-b66d-c2e3daa9fca3",
+                  "id": "6fd64ab1-9409-458d-8696-d0ff878d2b20",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "91ad8372-7f82-4218-a485-8253c1e5fb0c",
-                      "name": "Full",
+                      "id": "-sky-sport-1-nz-full",
+                      "name": " Sky Sport 1 NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "d6a79c1b-107c-4cc3-a878-a92772ed65c4",
+                          "id": "-sky-sport-1-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3063,47 +3110,48 @@
           ]
         },
         {
-          "id": "430a9f99-19ac-422c-a49d-02fa0ad16546",
+          "id": "-sky-sport-2-nz",
           "name": " Sky Sport 2 NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "09a36e27-2f08-40e4-84cf-f0cb8f70eed9",
+              "id": "7e98e8a5-b105-4b8b-8e22-985dee699b7d",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "1a7c2dc3-d639-4282-a97c-3720fd815c0f",
+                  "id": "2a84545d-892c-4585-9334-611d943f66b8",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "bfa2301b-0b86-4bae-bdcc-cc5beb881250",
-                      "name": "Full",
+                      "id": "-sky-sport-2-nz-full",
+                      "name": " Sky Sport 2 NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "8089d82c-a85b-4b0d-b46c-d42bc90e140e",
+                          "id": "-sky-sport-2-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3119,47 +3167,48 @@
           ]
         },
         {
-          "id": "79d3a5c5-51ea-4298-b689-33b785406b92",
+          "id": "-sky-sport-3-nz",
           "name": " Sky Sport 3 NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "45979727-e830-4008-8188-6785798e2a3b",
+              "id": "964cbe44-fb2b-4684-a1cf-0400764ca7ed",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "455843fe-29f6-4125-840e-8a7dea10c509",
+                  "id": "c23c03ff-88f7-4dd2-a367-1417946c96d0",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "2b50b4f3-569f-42f1-8938-4136befd4967",
-                      "name": "Full",
+                      "id": "-sky-sport-3-nz-full",
+                      "name": " Sky Sport 3 NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "24d58a99-f4cd-477b-a99b-d74ab7d0c4b9",
+                          "id": "-sky-sport-3-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-3/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3175,47 +3224,48 @@
           ]
         },
         {
-          "id": "b1606733-dd72-47e1-8714-c5ac57bec85a",
+          "id": "-sky-sport-4-nz",
           "name": " Sky Sport 4 NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "ffe63ed3-84b7-4d8a-9d4b-ca004a0d7d07",
+              "id": "a051abd2-77bd-4912-8785-cfa08763ea01",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "f97c17c3-1146-47bd-8c7f-5e32d82619b2",
+                  "id": "6b7f4929-fc98-4fc9-b58a-e89b1ce2f2e0",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "1000c01a-70e0-46c1-9069-2d712adf6d06",
-                      "name": "Full",
+                      "id": "-sky-sport-4-nz-full",
+                      "name": " Sky Sport 4 NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "36267137-0c63-4a70-b89e-9aca2193d922",
+                          "id": "-sky-sport-4-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-4/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3231,47 +3281,48 @@
           ]
         },
         {
-          "id": "e22c1408-094c-4755-b460-bb69836fbeb4",
+          "id": "-sky-sport-5-nz",
           "name": " Sky Sport 5 NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "ea191332-a11f-48b9-adc4-af8e550335b6",
+              "id": "3672c9be-a8b2-4c02-b503-8a42022c1c93",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "3a123dda-8aa1-4af6-a3f0-0d49679ebe94",
+                  "id": "cdacbc4a-6265-4615-b8a8-a1449dd599ab",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "58b36384-4a5e-4834-9ee4-0fcd390cc3e5",
-                      "name": "Full",
+                      "id": "-sky-sport-5-nz-full",
+                      "name": " Sky Sport 5 NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "4f392202-e7fc-48d8-8883-3ebdb76d6982",
+                          "id": "-sky-sport-5-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3287,47 +3338,48 @@
           ]
         },
         {
-          "id": "7908b266-fe72-4fd5-9e8b-18d31a3b1d59",
+          "id": "-sky-sport-6-nz",
           "name": " Sky Sport 6 NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "6f322c92-43eb-44de-8215-b397b27dd951",
+              "id": "81533573-0fdb-491a-8397-6e6b4e33626e",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "fc6f6e9d-17b3-4626-9644-15c6740e78bd",
+                  "id": "857e049d-e16c-4415-86be-728879f48047",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "d189bd93-02ef-41cd-a037-f798b7b30156",
-                      "name": "Full",
+                      "id": "-sky-sport-6-nz-full",
+                      "name": " Sky Sport 6 NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "281b3f02-a779-442a-8b04-ce6a652d7cb8",
+                          "id": "-sky-sport-6-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3343,47 +3395,48 @@
           ]
         },
         {
-          "id": "cce8cf7b-f412-41ee-9b73-f39437a1dd77",
+          "id": "-sky-sport-7-nz",
           "name": " Sky Sport 7 NZ",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "dc4c5bad-6584-46d9-af8c-a9917f9e9209",
+              "id": "d86e6933-a4c8-4eb0-a8a8-fda9336dd18b",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "d33c8ac5-62ef-4ed5-8bb2-5cae721284be",
+                  "id": "2ac8d585-25e0-40fb-afb4-d7b5f2a421ec",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "7813b7e3-c282-4cf3-b648-1ba09ff37021",
-                      "name": "Full",
+                      "id": "-sky-sport-7-nz-full",
+                      "name": " Sky Sport 7 NZ",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "1a116db2-c0af-4e23-b287-5ce475cb87b3",
+                          "id": "-sky-sport-7-nz-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/index.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3401,60 +3454,61 @@
       ]
     },
     {
-      "id": "group-8897e266-35bd-43a5-97c2-59a6cae7a5ef",
+      "id": "group-2e36c5a1-5f6b-45c6-b4b6-9043ff08de85",
       "name": "Backup",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "b32dd5f1-9dc5-4047-b2e9-310341830b17",
+          "id": "-cbs-sports-network-usa",
           "name": " CBS Sports Network USA",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "6da1adfd-762d-4d96-9d4a-35bae903afc4",
+              "id": "b77a7d7a-3d77-4a39-a66f-9c02486b953b",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "eee09fb0-aa98-4d63-b5ff-ecad43e4927c",
+                  "id": "6febd37e-a0f1-49db-b403-f490f54ef807",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "6f0e7dd5-5594-4673-aefe-34821dc8b5be",
-                      "name": "Full",
+                      "id": "-cbs-sports-network-usa-full",
+                      "name": " CBS Sports Network USA",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "067af42c-60b2-409f-8234-eccf8e74acb3",
+                          "id": "-cbs-sports-network-usa-1-s1",
                           "name": "Server 1",
                           "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3470,47 +3524,48 @@
           ]
         },
         {
-          "id": "255cfcb7-4cf1-4be8-8245-4daea8e3037f",
+          "id": "-tennis-channel",
           "name": " Tennis Channel",
           "description": "",
           "label": "Full",
           "image": {
             "url": "https://i.imgur.com/tsljAnY.png",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "722e8452-b79a-4ee6-9a42-953c6fcdd4a6",
+              "id": "63861f1a-5d11-47a7-a256-55b1a0ebe27c",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "4931fa91-aa3a-4b32-86a9-33cf7baab957",
+                  "id": "48f7b8f2-ad1d-4429-8864-ebca93c38df8",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "638bdf39-750f-43f4-95d9-a231f0e515e0",
-                      "name": "Full",
+                      "id": "-tennis-channel-full",
+                      "name": " Tennis Channel",
                       "image": {
                         "url": "https://i.imgur.com/tsljAnY.png",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "84f44543-ed52-4c11-9b9b-9fc750df5af4",
+                          "id": "-tennis-channel-1-s1",
                           "name": "Server 1",
                           "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
@@ -3528,60 +3583,61 @@
       ]
     },
     {
-      "id": "group-2d190c69-108b-4544-9d72-68983928acbe",
+      "id": "group-0bd15b15-2385-4ac0-bd93-e23968857cf9",
       "name": "Backup\" tvg-logo=\"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png",
       "display": "vertical",
       "image": {
         "url": "",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
+        "type": "cover",
+        "width": 410,
+        "height": 590
       },
-      "grid_number": 1,
+      "grid_number": 3,
       "enable_detail": false,
       "channels": [
         {
-          "id": "380120af-a7db-4076-8874-4f0c7f04749f",
+          "id": "-fubo-sports-network",
           "name": " Fubo Sports Network",
           "description": "",
           "label": "Full",
           "image": {
             "url": "",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
+            "type": "cover",
+            "width": 410,
+            "height": 590
           },
           "display": "default",
           "type": "single",
           "enable_detail": true,
           "sources": [
             {
-              "id": "cf985e07-d20a-4040-90f5-b89f20dfa379",
+              "id": "67b6d74a-e5b5-4da9-b474-8899a1bc0aae",
               "name": "Source 1",
               "image": null,
               "contents": [
                 {
-                  "id": "7812799e-5517-4434-8427-08d67c144183",
+                  "id": "545eae75-21ae-4f89-a16e-e5888d37fbdc",
                   "name": "Content 1",
                   "image": null,
+                  "grid_number": 3,
                   "streams": [
                     {
-                      "id": "9711a31e-52a2-4995-839f-51c925ff3ad6",
-                      "name": "Full",
+                      "id": "-fubo-sports-network-full",
+                      "name": " Fubo Sports Network",
                       "image": {
                         "url": "",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
                       },
                       "stream_links": [
                         {
-                          "id": "1d3851ae-8c04-4ec0-883f-ea3471269881",
+                          "id": "-fubo-sports-network-1-s1",
                           "name": "Server 1",
                           "url": "https://jmp2.uk/stvp-USAJ2200023Z0",
                           "type": "hls",
                           "default": true,
-                          "enableP2P": true,
+                          "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
