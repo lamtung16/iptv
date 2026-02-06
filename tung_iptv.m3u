@@ -4,181 +4,223 @@
 ###FOOTBALL###
 ##############
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png", Sky Sports Football HD
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-football/index.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png", Sky Sports Main Event HD
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png", Sky Sports Premier League HD
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-premier-league/index.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png", Sky Sport 8 - Premier League NZ
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/index.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png", Astro Premier League
-https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league/index.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png", Astro Premier League 2
-https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league-2/index.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png", Astro Football
-https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png", Sky Sports Football FHD
+#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png", Sky Sports Football (A1X)
 https://a1xs.vip/2000003
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png", Sky Sports Main Event FHD
+#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png", Sky Sports Main Event (A1X)
 https://a1xs.vip/2000001
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png", Sky Sports Premier League FHD
+#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png", Sky Sports Premier League (A1X)
 https://a1xs.vip/2000002
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg", Peacock Premier League TV
+#EXTINF:-1 group-title="Football" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg", Peacock PL (A1X)
 https://a1xs.vip/1100021
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png", Sky Sport 8 - Premier League NZ
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png", USA Network (TVPass)
+https://tvpass.org/live/USANetworkEast/sd
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ikf1r8R.png", USA Network (A1X)
+https://a1xs.vip/1100020
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png", Sky Sport 8 NZ (A1X)
 https://a1xs.vip/700008
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true", Now Sports PL 1 FHD
+#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true", Now Sports PL 1 (A1X)
 https://a1xs.vip/1100001
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true", Now Sports PL 2 FHD
+#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true", Now Sports PL 2 (A1X)
 https://a1xs.vip/1100002
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/0vxakz2.png", Astro Grandstand (A1X)
+https://a1xs.vip/1100032
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-my.png?raw=true", Astro Premier League (A1X)
+https://a1xs.vip/1100030
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-2-my.png?raw=true", Astro Premier League 2 (A1X)
+https://a1xs.vip/1100031
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true", Hub Premier 1 (A1X) 
+https://a1xs.vip/1100041
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true", Hub Premier 2 (A1X)
+https://a1xs.vip/1100042
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true", Hub Premier 3 (A1X)
+https://a1xs.vip/1100043
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true", Hub Premier 4 (A1X)
+https://a1xs.vip/1100044
 
 ##############
 ####TENNIS####
 ##############
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png", Tennis Channel HD
-https://cdn-live-tv.ru/api/v1/channels/us-tennis-channel/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png", Tennis Channel SD
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png", Tennis Channel (TVPass)
 https://tvpass.org/live/TennisChannel/sd
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png", Tennis Channel HD
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png", Tennis Channel (MoveOnJoy)
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png", Tennis Channel FHD
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png", Tennis Channel (A1X)
 https://a1xs.vip/40000040
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png", Sky Sports Tennis
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-tennis/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png", Sky Sports Tennis
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png", Sky Sports Tennis (A1X)
 https://a1xs.vip/2000013
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png", TSN1
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png", TSN1 SD
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png", TSN1 (TVPass)
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png", TSN1 HD
-https://fl1.moveonjoy.com/TSN_1/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png", TSN2
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png", TSN2 SD
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png", TSN2 (TVPass)
 https://tvpass.org/live/tsn2/sd
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png", TSN2 HD
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png", TSN3
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png", TSN3 SD
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png", TSN3 (TVPass)
 https://tvpass.org/live/tsn3/sd
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png", TSN3 HD
-https://fl1.moveonjoy.com/TSN_3/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png", TSN4
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-4/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png", TSN4 SD
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png", TSN4 (TVPass)
 https://tvpass.org/live/tsn4/sd
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png", TSN4 HD
-https://fl1.moveonjoy.com/TSN_4/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png", TSN5
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-5/index.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png", TSN5 SD
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png", TSN5 (TVPass)
 https://tvpass.org/live/tsn5/sd
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png", TSN5 HD
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/xF3cHNd.png", TSN1 (A1X)
+https://a1xs.vip/6000001
 
-##############
-####OTHERS####
-##############
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png", Astro Grandstand
-https://cdn-live-tv.ru/api/v1/channels/us-astro-grandstand/index.m3u8
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/iTSoxQW.png", TSN2 (A1X)
+https://a1xs.vip/6000002
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png", TNT Sports 1
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/index.m3u8
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/dPMY5Kc.png", TSN3 (A1X)
+https://a1xs.vip/6000003
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png", TNT Sports 2
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/index.m3u8
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/9EInDNq.png", TSN4 (A1X)
+https://a1xs.vip/6000004
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png", TNT Sports 3
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-3/index.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png", TNT Sports 4
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-4/index.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png", TNT Sports 5
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-5/index.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png", USA Network
-https://tvpass.org/live/USANetworkEast/sd
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA Network HD
-https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA Network HD
-https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png", ESPN
-https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png", ESPN 2
-https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8
-
-#EXTINF:-1 group-title="Others", Sky Sport 1 NZ
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/index.m3u8
-
-#EXTINF:-1 group-title="Others", Sky Sport 2 NZ
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/index.m3u8
-
-#EXTINF:-1 group-title="Others", Sky Sport 3 NZ
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-3/index.m3u8
-
-#EXTINF:-1 group-title="Others", Sky Sport 4 NZ
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-4/index.m3u8
-
-#EXTINF:-1 group-title="Others", Sky Sport 5 NZ
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/index.m3u8
-
-#EXTINF:-1 group-title="Others", Sky Sport 6 NZ
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/index.m3u8
-
-#EXTINF:-1 group-title="Others", Sky Sport 7 NZ
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/index.m3u8
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/houBcHX.png", TSN5 (A1X)
+https://a1xs.vip/6000005
 
 ##############
 ####BACKUP####
 ##############
 
-#EXTINF:-1 group-title="Backup", CBS Sports Network USA
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png", TSN1 (RU)
+https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png", TSN2 (RU)
+https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png", TSN3 (RU)
+https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png", TSN4 (RU)
+https://cdn-live-tv.ru/api/v1/channels/ca-tsn-4/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png", TSN5 (RU)
+https://cdn-live-tv.ru/api/v1/channels/ca-tsn-5/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png", TSN1 (MoveOnJoy)
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png", TSN2 (MoveOnJoy)
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png", TSN3 (MoveOnJoy)
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png", TSN4 (MoveOnJoy)
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png", TSN5 (MoveOnJoy)
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png", Tennis Channel (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-tennis-channel/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://i.imgur.com/ZNUDU1r.png", Sky Sports Tennis (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-tennis/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png", Sky Sports Football (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-football/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png", Sky Sports Main Event (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png", Sky Sports Premier League (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-premier-league/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png", Sky Sport 8 - Premier League NZ (RU)
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-my.png", Astro Premier League (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-premier-league-2-my.png", Astro Premier League 2 (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league-2/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png", Astro Football (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-grandstand-my.png", Astro Grandstand (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-astro-grandstand/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png", TNT Sports 1 (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png", TNT Sports 2 (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png", TNT Sports 3 (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-3/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png", TNT Sports 4 (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-4/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png", TNT Sports 5 (RU)
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-5/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA Network (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA Network (MoveOnJoy)
+https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png", ESPN (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png", ESPN 2 (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true", ESPN (A1X)
+https://a1xs.vip/40000011
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true", ESPN 2 (A1X)
+https://a1xs.vip/40000012
+
+#EXTINF:-1 group-title="Backup", Sky Sport 1 NZ (RU)
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/index.m3u8
+
+#EXTINF:-1 group-title="Backup", Sky Sport 2 NZ (RU)
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/index.m3u8
+
+#EXTINF:-1 group-title="Backup", Sky Sport 3 NZ (RU)
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-3/index.m3u8
+
+#EXTINF:-1 group-title="Backup", Sky Sport 4 NZ (RU)
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-4/index.m3u8
+
+#EXTINF:-1 group-title="Backup", Sky Sport 5 NZ (RU)
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/index.m3u8
+
+#EXTINF:-1 group-title="Backup", Sky Sport 6 NZ (RU)
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/index.m3u8
+
+#EXTINF:-1 group-title="Backup", Sky Sport 7 NZ (RU)
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/index.m3u8
+
+#EXTINF:-1 group-title="Backup", CBS Sports Network USA (TVPass)
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Backup", Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Backup" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png", Optus Sports 1 (A1X)
+https://a1xs.vip/700010
 
-#EXTINF:-1 group-title="Backup" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png", Fubo Sports Network
-https://jmp2.uk/stvp-USAJ2200023Z0
+#EXTINF:-1 group-title="Backup" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png", Optus Sports 2 (A1X)
+https://a1xs.vip/700011
