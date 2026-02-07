@@ -1,11 +1,4 @@
-#EXTM3U name="Tung IPTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png"
-
-##############
-#####TEMP#####
-##############
-
-#EXTINF:-1 group-title="Temp" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png", Sky Sport 8 NZ (A1X)
-https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8
+#EXTM3U name="Tung IPTV"
 
 ##############
 ###FOOTBALL###
