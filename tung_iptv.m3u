@@ -1,6 +1,13 @@
 #EXTM3U name="Tung IPTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/images/logo.png"
 
 ##############
+#####TEMP#####
+##############
+
+#EXTINF:-1 group-title="Temp" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZlADOPM.png", Sky Sport 8 NZ (A1X)
+https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8
+
+##############
 ###FOOTBALL###
 ##############
 
@@ -12,9 +19,6 @@ https://a1xs.vip/2000001
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png", Sky Sports Premier League (A1X)
 https://a1xs.vip/2000002
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg", Peacock PL (A1X)
-https://a1xs.vip/1100021
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ikf1r8R.png", USA Network (A1X)
 https://a1xs.vip/1100020
