@@ -132,11 +132,17 @@ https://a1xs.vip/1100041
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (LUNAR)
 http://lunar.pm:8080/Mrdon/4782314540/110288
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (LUNAR2)
+http://lunar.pm:8080/E11/9tsayeZXoB/110288
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (A1X)
 https://a1xs.vip/1100042
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (LUNAR)
 http://lunar.pm:8080/Mrdon/4782314540/110289
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (LUNAR2)
+http://lunar.pm:8080/E11/9tsayeZXoB/110289
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-3.png", Hub Premier 3 (A1X)
 https://a1xs.vip/1100043
@@ -144,9 +150,29 @@ https://a1xs.vip/1100043
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-3.png", Hub Premier 3 (LUNAR)
 http://lunar.pm:8080/Mrdon/4782314540/110290
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-3.png", Hub Premier 3 (LUNAR2)
+http://lunar.pm:8080/E11/9tsayeZXoB/110290
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (A1X)
 https://a1xs.vip/1100044
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (LUNAR)
 http://lunar.pm:8080/Mrdon/4782314540/110291
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (LUNAR2)
+http://lunar.pm:8080/E11/9tsayeZXoB/110291
+
+
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (A1X)
+https://a1xs.vip/1100020
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (RU)
+https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (MOVEONJOY)
+https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (TVPASS)
+https://tvpass.org/live/USANetworkEast/sd
 
