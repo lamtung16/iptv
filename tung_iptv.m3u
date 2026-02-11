@@ -130,37 +130,37 @@ https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league-2/index.m3u8
 https://a1xs.vip/1100041
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (LUNAR)
-http://lunar.pm:8080/Mrdon/4782314540/110288
+http://lunar.pm:8080/Mrdon/4782314540/110288|User-Agent=vlc/3.0.18
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (LUNAR2)
-http://lunar.pm:8080/E11/9tsayeZXoB/110288
+http://lunar.pm:8080/E11/9tsayeZXoB/110288|User-Agent=vlc/3.0.18
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (A1X)
 https://a1xs.vip/1100042
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (LUNAR)
-http://lunar.pm:8080/Mrdon/4782314540/110289
+http://lunar.pm:8080/Mrdon/4782314540/110289|User-Agent=vlc/3.0.18
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (LUNAR2)
-http://lunar.pm:8080/E11/9tsayeZXoB/110289
+http://lunar.pm:8080/E11/9tsayeZXoB/110289|User-Agent=vlc/3.0.18
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-3.png", Hub Premier 3 (A1X)
 https://a1xs.vip/1100043
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-3.png", Hub Premier 3 (LUNAR)
-http://lunar.pm:8080/Mrdon/4782314540/110290
+http://lunar.pm:8080/Mrdon/4782314540/110290|User-Agent=vlc/3.0.18
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-3.png", Hub Premier 3 (LUNAR2)
-http://lunar.pm:8080/E11/9tsayeZXoB/110290
+http://lunar.pm:8080/E11/9tsayeZXoB/110290|User-Agent=vlc/3.0.18
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (A1X)
 https://a1xs.vip/1100044
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (LUNAR)
-http://lunar.pm:8080/Mrdon/4782314540/110291
+http://lunar.pm:8080/Mrdon/4782314540/110291|User-Agent=vlc/3.0.18
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (LUNAR2)
-http://lunar.pm:8080/E11/9tsayeZXoB/110291
+http://lunar.pm:8080/E11/9tsayeZXoB/110291|User-Agent=vlc/3.0.18
 
 
 
