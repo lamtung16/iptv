@@ -13,6 +13,9 @@ https://fl31.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (TVPASS)
 https://tvpass.org/live/TennisChannel/sd
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (SUPERSONICTV)
+http://supersonictv.live:8080/006779/439866/40433
+
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (A1X)
 https://a1xs.vip/2000013
 
@@ -78,6 +81,12 @@ https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (TVPASS)
 https://tvpass.org/live/tsn5/sd
+
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 (SUPERSONICTV)
+http://supersonictv.live:8080/006779/439866/40451
+
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 (SUPERSONICTV)
+http://supersonictv.live:8080/006779/439866/40452
 
 
 

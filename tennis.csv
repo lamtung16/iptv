@@ -1,8 +1,10 @@
-channel,a1x,ru,moveonjoy,tvpass
-Tennis Channel,https://a1xs.vip/40000040,https://cdn-live-tv.ru/api/v1/channels/us-tennis-channel/index.m3u8,https://fl31.moveonjoy.com/TENNIS_CHANNEL/index.m3u8,https://tvpass.org/live/TennisChannel/sd
-Sky Sports Tennis,https://a1xs.vip/2000013,https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-tennis/index.m3u8,,
-TSN 1,https://a1xs.vip/6000001,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/index.m3u8,https://fl1.moveonjoy.com/TSN_1/index.m3u8,https://tvpass.org/live/tsn1/sd
-TSN 2,https://a1xs.vip/6000002,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/index.m3u8,https://fl1.moveonjoy.com/TSN_2/index.m3u8,https://tvpass.org/live/tsn2/sd
-TSN 3,https://a1xs.vip/6000003,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/index.m3u8,https://fl1.moveonjoy.com/TSN_3/index.m3u8,https://tvpass.org/live/tsn3/sd
-TSN 4,https://a1xs.vip/6000004,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-4/index.m3u8,https://fl1.moveonjoy.com/TSN_4/index.m3u8,https://tvpass.org/live/tsn4/sd
-TSN 5,https://a1xs.vip/6000005,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-5/index.m3u8,https://fl1.moveonjoy.com/TSN_5/index.m3u8,https://tvpass.org/live/tsn5/sd
+channel,a1x,ru,moveonjoy,tvpass,supersonictv
+Tennis Channel,https://a1xs.vip/40000040,https://cdn-live-tv.ru/api/v1/channels/us-tennis-channel/index.m3u8,https://fl31.moveonjoy.com/TENNIS_CHANNEL/index.m3u8,https://tvpass.org/live/TennisChannel/sd,http://supersonictv.live:8080/006779/439866/40433
+Sky Sports Tennis,https://a1xs.vip/2000013,https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-tennis/index.m3u8,,,
+TSN 1,https://a1xs.vip/6000001,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/index.m3u8,https://fl1.moveonjoy.com/TSN_1/index.m3u8,https://tvpass.org/live/tsn1/sd,
+TSN 2,https://a1xs.vip/6000002,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/index.m3u8,https://fl1.moveonjoy.com/TSN_2/index.m3u8,https://tvpass.org/live/tsn2/sd,
+TSN 3,https://a1xs.vip/6000003,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/index.m3u8,https://fl1.moveonjoy.com/TSN_3/index.m3u8,https://tvpass.org/live/tsn3/sd,
+TSN 4,https://a1xs.vip/6000004,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-4/index.m3u8,https://fl1.moveonjoy.com/TSN_4/index.m3u8,https://tvpass.org/live/tsn4/sd,
+TSN 5,https://a1xs.vip/6000005,https://cdn-live-tv.ru/api/v1/channels/ca-tsn-5/index.m3u8,https://fl1.moveonjoy.com/TSN_5/index.m3u8,https://tvpass.org/live/tsn5/sd,
+Eurosport 1,,,,,http://supersonictv.live:8080/006779/439866/40451
+Eurosport 2,,,,,http://supersonictv.live:8080/006779/439866/40452
