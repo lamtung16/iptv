@@ -14,6 +14,9 @@ https://tvpass.org/live/TennisChannel/sd
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (SUPERSONICTV)
 http://supersonictv.live:8080/006779/439866/40433
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/22467.rtmp
+
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (A1X)
 https://a1xs.vip/2000013
 
