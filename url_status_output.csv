@@ -1,29 +1,29 @@
 source_file,channel,7pal,a1x,kstv,lunar,lunar2,moveonjoy,mytv,mytvstream,ru,supersonic,tvmate,tvpass
-football.csv,Sky Sports Main Event,WORKING,WORKING,WORKING,WORKING,WORKING,ERROR: MissingSchema,WORKING,WORKING,ERROR: ConnectTimeout,ERROR: MissingSchema,,ERROR: MissingSchema
-football.csv,Sky Sports Premier League,WORKING,WORKING,WORKING,404,404,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,404,ERROR: MissingSchema,,ERROR: MissingSchema
-football.csv,Sky Sports Football,WORKING,WORKING,WORKING,404,404,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,404,ERROR: MissingSchema,,ERROR: MissingSchema
-football.csv,Now Sports PL 1,404,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
-football.csv,Now Sports PL 2,404,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
-football.csv,Astro Football,404,ERROR: MissingSchema,401,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,,ERROR: MissingSchema
-football.csv,Astro Premier League,404,404,401,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,404,404,,ERROR: MissingSchema
-football.csv,Astro Premier League 2,404,404,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,404,ERROR: MissingSchema,,ERROR: MissingSchema
-football.csv,Hub Premier 1,WORKING,WORKING,ERROR: MissingSchema,404,404,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
-football.csv,Hub Premier 2,WORKING,WORKING,ERROR: MissingSchema,404,404,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
-football.csv,Hub Premier 3,WORKING,WORKING,ERROR: MissingSchema,404,404,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Sky Sports Main Event,WORKING,WORKING,WORKING,WORKING,WORKING,ERROR: MissingSchema,WORKING,WORKING,404,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Sky Sports Premier League,WORKING,WORKING,WORKING,ERROR: ReadTimeout,403,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,404,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Sky Sports Football,WORKING,WORKING,WORKING,WORKING,WORKING,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,404,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Now Sports PL 1,WORKING,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Now Sports PL 2,ERROR: ConnectTimeout,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Astro Football,404,ERROR: MissingSchema,403,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,,ERROR: MissingSchema
+football.csv,Astro Premier League,404,401,403,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,404,WORKING,,ERROR: MissingSchema
+football.csv,Astro Premier League 2,404,ERROR: ConnectionError,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,404,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Hub Premier 1,WORKING,WORKING,ERROR: MissingSchema,WORKING,WORKING,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Hub Premier 2,WORKING,WORKING,ERROR: MissingSchema,WORKING,WORKING,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
+football.csv,Hub Premier 3,WORKING,WORKING,ERROR: MissingSchema,ERROR: ReadTimeout,WORKING,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
 football.csv,Hub Premier 4,404,WORKING,ERROR: MissingSchema,WORKING,WORKING,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,,ERROR: MissingSchema
 tennis.csv,Tennis Channel,WORKING,WORKING,WORKING,,,404,WORKING,WORKING,404,WORKING,WORKING,WORKING
-tennis.csv,Sky Sports Tennis,404,WORKING,ERROR: MissingSchema,,,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,404,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema
+tennis.csv,Sky Sports Tennis,403,403,ERROR: MissingSchema,,,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,404,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema
 tennis.csv,TSN 1,WORKING,WORKING,WORKING,,,ERROR: ConnectionError,WORKING,WORKING,404,WORKING,WORKING,404
 tennis.csv,TSN 2,WORKING,WORKING,WORKING,,,ERROR: ConnectionError,WORKING,WORKING,404,WORKING,WORKING,404
-tennis.csv,TSN 3,WORKING,WORKING,WORKING,,,ERROR: ConnectionError,WORKING,WORKING,404,404,WORKING,404
+tennis.csv,TSN 3,WORKING,WORKING,WORKING,,,ERROR: ConnectionError,WORKING,WORKING,404,WORKING,WORKING,404
 tennis.csv,TSN 4,WORKING,WORKING,WORKING,,,ERROR: ConnectionError,WORKING,WORKING,404,WORKING,WORKING,404
-tennis.csv,TSN 5,WORKING,WORKING,WORKING,,,ERROR: ConnectionError,WORKING,WORKING,404,WORKING,WORKING,404
+tennis.csv,TSN 5,WORKING,WORKING,WORKING,,,ERROR: ConnectionError,403,WORKING,404,WORKING,WORKING,404
 tennis.csv,Eurosport 1,WORKING,ERROR: MissingSchema,WORKING,,,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema
-tennis.csv,Eurosport 2,ERROR: MissingSchema,ERROR: MissingSchema,401,,,ERROR: MissingSchema,404,ERROR: MissingSchema,ERROR: MissingSchema,404,ERROR: MissingSchema,ERROR: MissingSchema
-other.csv,USA Network,WORKING,404,WORKING,ERROR: MissingSchema,,ERROR: ConnectionError,,WORKING,404,WORKING,WORKING,WORKING
+tennis.csv,Eurosport 2,ERROR: MissingSchema,ERROR: MissingSchema,403,,,ERROR: MissingSchema,503,ERROR: MissingSchema,ERROR: MissingSchema,WORKING,ERROR: MissingSchema,ERROR: MissingSchema
+other.csv,USA Network,WORKING,WORKING,WORKING,ERROR: MissingSchema,,ERROR: ConnectionError,,WORKING,404,WORKING,WORKING,WORKING
 other.csv,ESPN,WORKING,WORKING,WORKING,ERROR: MissingSchema,,WORKING,,WORKING,ERROR: MissingSchema,WORKING,WORKING,ERROR: MissingSchema
-other.csv,ESPN 2,404,404,WORKING,ERROR: MissingSchema,,404,,WORKING,ERROR: MissingSchema,WORKING,WORKING,ERROR: MissingSchema
-other.csv,TNT Sports 1,WORKING,WORKING,WORKING,ERROR: MissingSchema,,ERROR: MissingSchema,,ERROR: MissingSchema,404,404,ERROR: MissingSchema,ERROR: MissingSchema
-other.csv,TNT Sports 2,404,WORKING,WORKING,ERROR: MissingSchema,,ERROR: MissingSchema,,ERROR: MissingSchema,404,404,ERROR: MissingSchema,ERROR: MissingSchema
-other.csv,TNT Sports 3,WORKING,WORKING,WORKING,ERROR: MissingSchema,,ERROR: MissingSchema,,ERROR: MissingSchema,404,404,ERROR: MissingSchema,ERROR: MissingSchema
-other.csv,TNT Sports 4,WORKING,WORKING,WORKING,ERROR: MissingSchema,,ERROR: MissingSchema,,ERROR: MissingSchema,404,404,ERROR: MissingSchema,ERROR: MissingSchema
+other.csv,ESPN 2,WORKING,ERROR: ConnectTimeout,WORKING,ERROR: MissingSchema,,404,,WORKING,ERROR: MissingSchema,WORKING,WORKING,ERROR: MissingSchema
+other.csv,TNT Sports 1,WORKING,WORKING,WORKING,ERROR: MissingSchema,,ERROR: MissingSchema,,ERROR: MissingSchema,404,403,ERROR: MissingSchema,ERROR: MissingSchema
+other.csv,TNT Sports 2,WORKING,WORKING,WORKING,ERROR: MissingSchema,,ERROR: MissingSchema,,ERROR: MissingSchema,404,403,ERROR: MissingSchema,ERROR: MissingSchema
+other.csv,TNT Sports 3,WORKING,WORKING,WORKING,ERROR: MissingSchema,,ERROR: MissingSchema,,ERROR: MissingSchema,404,WORKING,ERROR: MissingSchema,ERROR: MissingSchema
+other.csv,TNT Sports 4,WORKING,WORKING,WORKING,ERROR: MissingSchema,,ERROR: MissingSchema,,ERROR: MissingSchema,404,403,ERROR: MissingSchema,ERROR: MissingSchema
