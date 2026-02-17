@@ -1,7 +1,7 @@
 channel,a1x,ru,moveonjoy,tvpass,lunar,tvmate,supersonic,kstv
-USA Network,https://a1xs.vip/1100020,https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8,https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8,https://tvpass.org/live/USANetworkEast/sd,,,http://supersonictv.live:8080/006779/439866/22175,http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15905.rtmp
-ESPN,https://a1xs.vip/40000011,,http://41.205.93.154/ESPN/index.m3u8,,,http://tvmate.icu:8080/69NpyV/884735/9802,http://supersonictv.live:8080/006779/439866/22198,http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15951.rtmp
-ESPN 2,https://a1xs.vip/40000012,,https://fl31.moveonjoy.com/ESPN_2/index.m3u8,,,http://tvmate.icu:8080/69NpyV/884735/2210,http://supersonictv.live:8080/006779/439866/22199,http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15950.rtmp
+USA Network,https://a1xs.vip/1100020,https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8,https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8,https://tvpass.org/live/USANetworkEast/sd,,,http://supersonictv.live:8080/006779/439866/22175,http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15905.m3u8
+ESPN,https://a1xs.vip/40000011,,http://41.205.93.154/ESPN/index.m3u8,,,http://tvmate.icu:8080/69NpyV/884735/9802,http://supersonictv.live:8080/006779/439866/22198,http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15951.m3u8
+ESPN 2,https://a1xs.vip/40000012,,https://fl31.moveonjoy.com/ESPN_2/index.m3u8,,,http://tvmate.icu:8080/69NpyV/884735/2210,http://supersonictv.live:8080/006779/439866/22199,http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15950.m3u8
 TNT Sports 1,https://a1xs.vip/2000021,https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/index.m3u8,,,,,,
 TNT Sports 2,https://a1xs.vip/2000022,https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/index.m3u8,,,,,,
 TNT Sports 3,https://a1xs.vip/2000023,https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-3/index.m3u8,,,,,,

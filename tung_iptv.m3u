@@ -9,7 +9,7 @@ https://tvpass.org/live/TennisChannel/sd
 http://supersonictv.live:8080/006779/439866/40433
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/22467.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/22467.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/32128.m3u8
@@ -24,7 +24,7 @@ https://a1xs.vip/6000001
 http://supersonictv.live:8080/006779/439866/40467
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40651.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40651.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/31656.m3u8
@@ -36,7 +36,7 @@ https://a1xs.vip/6000002
 http://supersonictv.live:8080/006779/439866/40468
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40650.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40650.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/31655.m3u8
@@ -48,7 +48,7 @@ https://a1xs.vip/6000003
 http://supersonictv.live:8080/006779/439866/40469
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40649.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40649.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/31654.m3u8
@@ -60,7 +60,7 @@ https://a1xs.vip/6000004
 http://supersonictv.live:8080/006779/439866/40470
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40648.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40648.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/31653.m3u8
@@ -72,7 +72,7 @@ https://a1xs.vip/6000005
 http://supersonictv.live:8080/006779/439866/40471
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40647.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40647.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/31652.m3u8
@@ -81,25 +81,19 @@ http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/31652.m3u8
 http://supersonictv.live:8080/006779/439866/40451
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47854.rtmp
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 (SUPERSONIC)
-http://supersonictv.live:8080/006779/439866/40452
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47854.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (A1X)
 https://a1xs.vip/2000001
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47868.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47868.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1256711.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (A1X)
-https://a1xs.vip/2000002
-
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47871.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47871.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/29016.m3u8
@@ -108,7 +102,7 @@ http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/29016.m3u8
 https://a1xs.vip/2000003
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47866.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47866.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (MYTV)
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/29018.m3u8
@@ -158,6 +152,9 @@ http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1324.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (A1X)
 https://a1xs.vip/1100044
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (MYTV)
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1323.m3u8
+
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (A1X)
 https://a1xs.vip/1100020
 
@@ -168,7 +165,7 @@ https://tvpass.org/live/USANetworkEast/sd
 http://supersonictv.live:8080/006779/439866/22175
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15905.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15905.m3u8
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (A1X)
 https://a1xs.vip/40000011
@@ -183,7 +180,7 @@ http://tvmate.icu:8080/69NpyV/884735/9802
 http://supersonictv.live:8080/006779/439866/22198
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15951.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15951.m3u8
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (A1X)
 https://a1xs.vip/40000012
@@ -195,7 +192,7 @@ http://tvmate.icu:8080/69NpyV/884735/2210
 http://supersonictv.live:8080/006779/439866/22199
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15950.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15950.m3u8
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (A1X)
 https://a1xs.vip/2000021
