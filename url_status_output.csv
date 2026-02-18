@@ -1,11 +1,11 @@
 source_file,channel,7pal,a1x,kstv,supersonic
 football.csv,Sky Sports Main Event,WORKING,WORKING,WORKING,ERROR: MissingSchema
-football.csv,Sky Sports Premier League,WORKING,WORKING,WORKING,ERROR: MissingSchema
+football.csv,Sky Sports Premier League,WORKING,ERROR: ConnectTimeout,WORKING,ERROR: MissingSchema
 football.csv,Sky Sports Football,WORKING,WORKING,WORKING,ERROR: MissingSchema
 football.csv,Now Sports PL 1,WORKING,WORKING,ERROR: MissingSchema,ERROR: MissingSchema
 football.csv,Now Sports PL 2,ERROR: ConnectionError,WORKING,ERROR: MissingSchema,ERROR: MissingSchema
-football.csv,Astro Football,404,ERROR: MissingSchema,WORKING,WORKING
-football.csv,Astro Premier League,404,401,WORKING,WORKING
+football.csv,Astro Football,404,ERROR: MissingSchema,WORKING,ERROR: ReadTimeout
+football.csv,Astro Premier League,404,401,403,ERROR: ReadTimeout
 football.csv,Astro Premier League 2,404,WORKING,ERROR: MissingSchema,ERROR: MissingSchema
 football.csv,Hub Premier 1,WORKING,WORKING,ERROR: MissingSchema,ERROR: MissingSchema
 football.csv,Hub Premier 2,WORKING,WORKING,ERROR: MissingSchema,ERROR: MissingSchema
@@ -20,10 +20,10 @@ tennis.csv,TSN 4,WORKING,WORKING,WORKING,WORKING
 tennis.csv,TSN 5,WORKING,WORKING,WORKING,WORKING
 tennis.csv,Eurosport 1,WORKING,ERROR: MissingSchema,WORKING,WORKING
 tennis.csv,Eurosport 2,ERROR: MissingSchema,ERROR: MissingSchema,403,WORKING
-other.csv,USA Network,WORKING,403,WORKING,WORKING
+other.csv,USA Network,WORKING,WORKING,WORKING,WORKING
 other.csv,ESPN,WORKING,WORKING,WORKING,WORKING
 other.csv,ESPN 2,ERROR: ConnectTimeout,WORKING,WORKING,WORKING
 other.csv,TNT Sports 1,WORKING,WORKING,WORKING,403
 other.csv,TNT Sports 2,WORKING,WORKING,WORKING,403
-other.csv,TNT Sports 3,WORKING,WORKING,WORKING,WORKING
+other.csv,TNT Sports 3,WORKING,WORKING,WORKING,ERROR: ReadTimeout
 other.csv,TNT Sports 4,WORKING,WORKING,WORKING,403

@@ -8,9 +8,6 @@ http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47868.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (7PAL)
 https://7pal.short.gy/SSMEuhd
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (A1X)
-https://a1xs.vip/2000002
-
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (KSTV)
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47871.m3u8
 
@@ -37,15 +34,6 @@ https://a1xs.vip/1100002
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/astro-football.png", Astro Football (KSTV)
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47636.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/astro-football.png", Astro Football (SUPERSONIC)
-http://supersonictv.live:8080/006779/439866/86863
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/astro-premier-league.png", Astro Premier League (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47633.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/astro-premier-league.png", Astro Premier League (SUPERSONIC)
-http://supersonictv.live:8080/006779/439866/86880|User-Agent=vlc/3.0.20
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/astro-premier-league-2.png", Astro Premier League 2 (A1X)
 https://a1xs.vip/1100031
@@ -75,7 +63,7 @@ https://a1xs.vip/1100044
 https://a1xs.vip/40000040
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (SUPERSONIC)
-http://supersonictv.live:8080/006779/439866/40433
+http://supersonictv.live:8080/006779/439866/40433|User-Agent=vlc/3.0.20
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/22467.m3u8
@@ -161,6 +149,9 @@ https://7pal.short.gy/eusport4k|User-Agent=vlc/3.0.20
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 (SUPERSONIC)
 http://supersonictv.live:8080/006779/439866/40452
 
+#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (A1X)
+https://a1xs.vip/1100020
+
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (SUPERSONIC)
 http://supersonictv.live:8080/006779/439866/22175
 
@@ -211,9 +202,6 @@ https://7pal.short.gy/tntspts2
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (A1X)
 https://a1xs.vip/2000023|User-Agent=vlc/3.0.20
-
-#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (SUPERSONIC)
-http://supersonictv.live:8080/006779/439866/85315
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (KSTV)
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47852.m3u8
