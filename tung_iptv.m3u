@@ -161,3 +161,14 @@ https://7pal.short.gy/eusport4k|User-Agent=vlc/3.0.20
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 (SUPERSONIC)
 http://supersonictv.live:8080/006779/439866/40452|User-Agent=vlc/3.0.20
 
+#EXTINF:-1 group-title="Live", Sky Sports Main Event
+https://601.serverbandel.sbs/main.m3u8
+
+#EXTINF:-1 group-title="Live", Sky Sports Main Event
+https://daffodil.serverbandel.sbs/main.m3u8
+
+#EXTINF:-1 group-title="Live", Sky Sports Premier League
+https://daffodil.lifesharper.com/prem.m3u8
+
+#EXTINF:-1 group-title="Live", USA Network
+https://daffodil.serverbandel.sbs/usa.m3u8
