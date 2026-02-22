@@ -11,6 +11,12 @@ https://daffodil.serverbandel.sbs/main.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
 https://daffodil.lifesharper.com/main.m3u8
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
+https://601.xn--1000-ugoa0hsb9a0hb.com/main.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
+https://daffodil.833577.xyz/main.m3u8
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
 https://601.serverbandel.sbs/prem.m3u8
 
@@ -23,20 +29,11 @@ https://daffodil.serverbandel.sbs/prem.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
 https://daffodil.lifesharper.com/prem.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (A1X)
-https://a1xs.vip/1100041
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
+https://601.xn--1000-ugoa0hsb9a0hb.com/prem.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (7PAL)
-https://7pal.short.gy/HPremier1
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-3.png", Hub Premier 3 (A1X)
-https://a1xs.vip/1100043
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-3.png", Hub Premier 3 (7PAL)
-https://7pal.short.gy/HPremier3
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (A1X)
-https://a1xs.vip/1100044
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
+https://daffodil.833577.xyz/prem.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (A1X)
 https://a1xs.vip/40000040
@@ -110,9 +107,6 @@ http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40647.m3u8
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (7PAL)
 https://7pal.short.gy/tsn5ca
 
-#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (SUPERSONIC)
-http://supersonictv.live:8080/006779/439866/22175
-
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
 https://daffodil.serverbandel.sbs/usa.m3u8
 
@@ -124,12 +118,6 @@ https://601.serverbandel.sbs/usa.m3u8
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
 https://601.lifesharper.com/usa.m3u8
-
-#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (KSTV)
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15905.m3u8
-
-#EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (7PAL)
-https://7pal.short.gy/usanetwork
 
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-deportes.png", ESPN Deportes (SUPERSONIC)
 http://supersonictv.live:8080/006779/439866/22222
