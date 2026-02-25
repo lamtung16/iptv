@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/soccer.png", Soccer
+https://lb.buzztip.site/p1/index.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/soccer.png", Soccer
+https://lb.buzztip.site/c1/index.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/soccer.png", Soccer
+https://lb.buzztip.site/c2/index.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/soccer.png", Soccer
+https://lb.buzztip.site/c3/index.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/soccer.png", Soccer
+https://lb.buzztip.site/e1/index.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/soccer.png", Soccer
+https://lb.buzztip.site/e2/index.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/soccer.png", Soccer
+https://lb.buzztip.site/e3/index.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/soccer.png", Soccer
+https://lb.buzztip.site/e4/index.m3u8
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
 https://601.serverbandel.sbs/main.m3u8
 
