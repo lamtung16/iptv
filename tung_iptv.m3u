@@ -1,6 +1,8 @@
 #EXTM3U
 
-
+####################
+###### TENNIS ######
+####################
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (A1X)
 https://a1xs.vip/40000040
@@ -20,7 +22,9 @@ https://a1xs.vip/6000004
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (A1X)
 https://a1xs.vip/6000005
 
-
+####################
+##### FOOTBALL #####
+####################
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
 https://601.serverbandel.sbs/main.m3u8
