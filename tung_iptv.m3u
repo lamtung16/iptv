@@ -75,7 +75,25 @@ https://daffodil.lifesharper.com/tudn.m3u8
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
-https://daffodil.lifesharper.com/football.m3u8
+https://601.serverbandel.sbs/now.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
+https://601.lifesharper.com/now.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
+https://daffodil.serverbandel.sbs/now.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
+https://daffodil.lifesharper.com/now.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
+https://601.833577.xyz/now.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
+https://601.xn--1000-ugoa0hsb9a0hb.com/now.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
+https://daffodil.833577.xyz/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (Roxie)
 https://601.serverbandel.sbs/football.m3u8
