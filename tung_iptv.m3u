@@ -73,6 +73,45 @@ https://lb.buzztip.site/e3/index.m3u8
 
 
 ####################
+#### AllSports #####
+####################
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4
+https://fes.feswalki.site/simpch2/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcyMzkyMzEwLCJyYW5kIjoiNDkzMjIxOTc1ZjA1YzQ0ZSJ9.58c5da6b4997c178848cf2f743d878ca2a0b75d984bf31a6060e2b0f17e40570
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/sky-sports-main-event.png", Sky Sports Main Event
+https://fes.feswalki.site/simpch5/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g1IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcyMzkyNjk0LCJyYW5kIjoiNmEyNjc1ZmUyNjhjMzYyNCJ9.308469eb2a9199abdb307c0768414451b2fdb1fe87cb82328a11a02fb9ab1ba3
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/astro-grandstand.png", Astro Grandstand
+https://fes.feswalki.site/simpch6/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g2IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcyMzkyNzU1LCJyYW5kIjoiYjE0ZGI5MjdkMzFmMWE4YiJ9.a20025bf47daf6e79e6a04c1f69ec095cde7e5aceba776abad6ace40fd4e3dbb
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/astro-football.png", Astro Football
+https://fes.feswalki.site/simpch7/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcyMzk0MjgyLCJyYW5kIjoiNzk2MDc5NWI2Mjc1MmIwMiJ9.151e1755e8ca64173d4607139e6fa18217196c087ed6570cbf08be8642777a25
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/dazn-1.png", DAZN 1
+https://fes.feswalki.site/simpch19/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxOSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3MjM5MzEzNSwicmFuZCI6ImZlYjI1ZjJjMzE3MDAxYmEifQ.da36aa72458d50d599038e2ce3c9487a45e1ab162bd937376771e1a821baf63e
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/soccer.png", Soccer
+https://codecost.online/default/1/default.default
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/soccer.png", Soccer
+https://codecost.online/default/2/default.default
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/soccer.png", Soccer
+https://codecost.online/default/3/default.default
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/soccer.png", Soccer
+https://codecost.online/default/4/default.default
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/soccer.png", Soccer
+https://codecost.online/default/5/default.default
+
+#EXTINF:-1 group-title="All Sports" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/soccer.png", Soccer
+https://codecost.online/default/6/default.default
+
+
+
+####################
 ###### BACKUP ######
 ####################
 
@@ -281,3 +320,11 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/mainalt.m3u8
 
 #EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
 https://daffodil.833577.xyz/mainalt.m3u8
+
+####################
+####### TEST #######
+####################
+#EXTINF:-1 group-title="test", test
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://roxiestreams.info/
+https://daffodil.833577.xyz/one.m3u8
