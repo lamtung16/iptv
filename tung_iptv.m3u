@@ -370,6 +370,16 @@ https://daffodil.lifesharper.com/tnt1.m3u8
 #EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (Roxie)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
+https://601.lifesharper.com/tnt2.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (Roxie)
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://roxiestreams.info/
+https://601.serverbandel.sbs/tnt2.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (Roxie)
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://roxiestreams.info/
 https://daffodil.serverbandel.sbs/tnt2.m3u8
 
 #EXTINF:-1 group-title="Backup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (Roxie)
