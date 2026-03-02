@@ -8,84 +8,84 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://a1xs.vip/40000040
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (7PAL)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://7pal.short.gy/tennisc
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://a1xs.vip/6000001
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (7PAL)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://7pal.short.gy/tsn1ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://a1xs.vip/6000002
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (7PAL)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://7pal.short.gy/tsn2ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://a1xs.vip/6000003
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (7PAL)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://7pal.short.gy/tsn3ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://a1xs.vip/6000004
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (7PAL)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://7pal.short.gy/tsn4ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://a1xs.vip/6000005
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (7PAL)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://7pal.short.gy/tsn5ca
 
 
@@ -98,7 +98,7 @@ https://7pal.short.gy/tsn5ca
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/p1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 2 (England)
@@ -106,7 +106,7 @@ https://lb.buzztip.site/p1/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/p2/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 3 (England)
@@ -114,7 +114,7 @@ https://lb.buzztip.site/p2/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/p3/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/laliga.png", LaLiga (Spain)
@@ -122,7 +122,7 @@ https://lb.buzztip.site/p3/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/la/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/serie-a.png", Serie A (Italy)
@@ -130,7 +130,7 @@ https://lb.buzztip.site/la/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/it/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/league-one.png", League One (France)
@@ -138,7 +138,7 @@ https://lb.buzztip.site/it/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/l1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bundesliga.png", Bundesliga 1 (Germany)
@@ -146,7 +146,7 @@ https://lb.buzztip.site/l1/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/bu1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bundesliga.png", Bundesliga 2 (Germany)
@@ -154,7 +154,7 @@ https://lb.buzztip.site/bu1/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/bu2/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/champions-league.png", Champions League 1
@@ -162,7 +162,7 @@ https://lb.buzztip.site/bu2/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/c1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/champions-league.png", Champions League 2
@@ -170,7 +170,7 @@ https://lb.buzztip.site/c1/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/c2/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/europa-league.png", Europa League 1
@@ -178,7 +178,7 @@ https://lb.buzztip.site/c2/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/e1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/europa-league.png", Europa League 2
@@ -186,7 +186,7 @@ https://lb.buzztip.site/e1/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://lb.buzztip.site/e2/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -195,7 +195,7 @@ https://lb.buzztip.site/e2/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.serverbandel.sbs/main.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -204,7 +204,7 @@ https://601.serverbandel.sbs/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.lifesharper.com/main.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -213,7 +213,7 @@ https://601.lifesharper.com/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.xn--1000-ugoa0hsb9a0hb.com/main.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -222,7 +222,7 @@ https://601.xn--1000-ugoa0hsb9a0hb.com/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.833577.xyz/main.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -231,7 +231,7 @@ https://601.833577.xyz/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/main.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -240,7 +240,7 @@ https://daffodil.serverbandel.sbs/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/main.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -249,7 +249,7 @@ https://daffodil.lifesharper.com/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/main.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -258,7 +258,7 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.833577.xyz/main.m3u8
 
 
@@ -269,7 +269,7 @@ https://daffodil.833577.xyz/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.serverbandel.sbs/prem.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
@@ -278,7 +278,7 @@ https://601.serverbandel.sbs/prem.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.lifesharper.com/prem.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
@@ -287,7 +287,7 @@ https://601.lifesharper.com/prem.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.xn--1000-ugoa0hsb9a0hb.com/prem.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
@@ -296,7 +296,7 @@ https://601.xn--1000-ugoa0hsb9a0hb.com/prem.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.833577.xyz/prem.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
@@ -305,7 +305,7 @@ https://601.833577.xyz/prem.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/prem.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
@@ -314,7 +314,7 @@ https://daffodil.serverbandel.sbs/prem.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/prem.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
@@ -323,7 +323,7 @@ https://daffodil.lifesharper.com/prem.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/prem.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (Roxie)
@@ -332,7 +332,7 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/prem.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.833577.xyz/prem.m3u8
 
 
@@ -343,7 +343,7 @@ https://daffodil.833577.xyz/prem.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.serverbandel.sbs/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
@@ -352,7 +352,7 @@ https://601.serverbandel.sbs/now.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.lifesharper.com/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
@@ -361,7 +361,7 @@ https://601.lifesharper.com/now.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.xn--1000-ugoa0hsb9a0hb.com/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
@@ -370,7 +370,7 @@ https://601.xn--1000-ugoa0hsb9a0hb.com/now.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.833577.xyz/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
@@ -379,7 +379,7 @@ https://601.833577.xyz/now.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
@@ -388,7 +388,7 @@ https://daffodil.serverbandel.sbs/now.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
@@ -397,7 +397,7 @@ https://daffodil.lifesharper.com/now.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1 (Roxie)
@@ -406,7 +406,7 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/now.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.833577.xyz/now.m3u8
 
 
@@ -417,7 +417,7 @@ https://daffodil.833577.xyz/now.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.serverbandel.sbs/football.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (Roxie)
@@ -426,7 +426,7 @@ https://601.serverbandel.sbs/football.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.lifesharper.com/football.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (Roxie)
@@ -435,7 +435,7 @@ https://601.lifesharper.com/football.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.xn--1000-ugoa0hsb9a0hb.com/football.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (Roxie)
@@ -444,7 +444,7 @@ https://601.xn--1000-ugoa0hsb9a0hb.com/football.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.833577.xyz/football.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (Roxie)
@@ -453,7 +453,7 @@ https://601.833577.xyz/football.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/football.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (Roxie)
@@ -462,7 +462,7 @@ https://daffodil.serverbandel.sbs/football.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/football.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (Roxie)
@@ -471,7 +471,7 @@ https://daffodil.lifesharper.com/football.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/football.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (Roxie)
@@ -480,7 +480,7 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/football.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.833577.xyz/football.m3u8
 
 
@@ -491,7 +491,7 @@ https://daffodil.833577.xyz/football.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.serverbandel.sbs/usa.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
@@ -500,7 +500,7 @@ https://601.serverbandel.sbs/usa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.lifesharper.com/usa.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
@@ -509,7 +509,7 @@ https://601.lifesharper.com/usa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.xn--1000-ugoa0hsb9a0hb.com/usa.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
@@ -518,7 +518,7 @@ https://601.xn--1000-ugoa0hsb9a0hb.com/usa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.833577.xyz/usa.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
@@ -527,7 +527,7 @@ https://601.833577.xyz/usa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/usa.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
@@ -536,7 +536,7 @@ https://daffodil.serverbandel.sbs/usa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/usa.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
@@ -545,7 +545,7 @@ https://daffodil.lifesharper.com/usa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/usa.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Roxie)
@@ -554,7 +554,7 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/usa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.833577.xyz/usa.m3u8
 
 
@@ -565,7 +565,7 @@ https://daffodil.833577.xyz/usa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/bein.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (Roxie)
@@ -574,7 +574,7 @@ https://daffodil.serverbandel.sbs/bein.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.833577.xyz/cbssn.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png", TUDN (Roxie)
@@ -583,7 +583,7 @@ https://daffodil.833577.xyz/cbssn.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/tudn.m3u8
 
 
@@ -594,7 +594,7 @@ https://daffodil.lifesharper.com/tudn.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.lifesharper.com/tnt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (Roxie)
@@ -603,7 +603,7 @@ https://601.lifesharper.com/tnt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/tnt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (Roxie)
@@ -612,7 +612,7 @@ https://daffodil.serverbandel.sbs/tnt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/tnt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (Roxie)
@@ -621,7 +621,7 @@ https://daffodil.lifesharper.com/tnt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/tnt1.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (Roxie)
@@ -630,7 +630,7 @@ https://daffodil.serverbandel.sbs/tnt1.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/tnt1.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (Roxie)
@@ -639,7 +639,7 @@ https://daffodil.lifesharper.com/tnt1.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.lifesharper.com/tnt2.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (Roxie)
@@ -648,7 +648,7 @@ https://601.lifesharper.com/tnt2.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.serverbandel.sbs/tnt2.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (Roxie)
@@ -657,7 +657,7 @@ https://601.serverbandel.sbs/tnt2.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/tnt2.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (Roxie)
@@ -666,7 +666,7 @@ https://daffodil.serverbandel.sbs/tnt2.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/tnt2.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (Roxie)
@@ -675,7 +675,7 @@ https://daffodil.lifesharper.com/tnt2.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/tnt3.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (Roxie)
@@ -684,7 +684,7 @@ https://daffodil.serverbandel.sbs/tnt3.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/tnt3.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (Roxie)
@@ -693,7 +693,7 @@ https://daffodil.lifesharper.com/tnt3.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/tnt4.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (Roxie)
@@ -702,7 +702,7 @@ https://daffodil.serverbandel.sbs/tnt4.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/tnt4.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-5.png", TNT Sports 5 (Roxie)
@@ -711,7 +711,7 @@ https://daffodil.lifesharper.com/tnt4.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/tnt5.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-5.png", TNT Sports 5 (Roxie)
@@ -720,7 +720,7 @@ https://daffodil.serverbandel.sbs/tnt5.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/tnt5.m3u8
 
 
@@ -731,7 +731,7 @@ https://daffodil.lifesharper.com/tnt5.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.serverbandel.sbs/mainalt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -740,7 +740,7 @@ https://601.serverbandel.sbs/mainalt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.lifesharper.com/mainalt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -749,7 +749,7 @@ https://601.lifesharper.com/mainalt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.xn--1000-ugoa0hsb9a0hb.com/mainalt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -758,7 +758,7 @@ https://601.xn--1000-ugoa0hsb9a0hb.com/mainalt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://601.833577.xyz/mainalt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -767,7 +767,7 @@ https://601.833577.xyz/mainalt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.serverbandel.sbs/mainalt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -776,7 +776,7 @@ https://daffodil.serverbandel.sbs/mainalt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.lifesharper.com/mainalt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -785,7 +785,7 @@ https://daffodil.lifesharper.com/mainalt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/mainalt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (Roxie)
@@ -794,5 +794,5 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/mainalt.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.833577.xyz/mainalt.m3u8
