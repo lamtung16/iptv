@@ -11,12 +11,26 @@
 #KODIPROP:inputstream.adaptive.max_bandwidth=4000000
 https://a1xs.vip/40000040
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (7PAL)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+https://7pal.short.gy/tennisc
+
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
 #KODIPROP:inputstream.adaptive.max_bandwidth=4000000
 https://a1xs.vip/6000001
+
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (7PAL)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+https://7pal.short.gy/tsn1ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -25,12 +39,26 @@ https://a1xs.vip/6000001
 #KODIPROP:inputstream.adaptive.max_bandwidth=4000000
 https://a1xs.vip/6000002
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (7PAL)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+https://7pal.short.gy/tsn2ca
+
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=30
 #KODIPROP:inputstream.adaptive.max_bandwidth=4000000
 https://a1xs.vip/6000003
+
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (7PAL)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+https://7pal.short.gy/tsn3ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -39,6 +67,13 @@ https://a1xs.vip/6000003
 #KODIPROP:inputstream.adaptive.max_bandwidth=4000000
 https://a1xs.vip/6000004
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (7PAL)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+https://7pal.short.gy/tsn4ca
+
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (A1X)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -46,6 +81,12 @@ https://a1xs.vip/6000004
 #KODIPROP:inputstream.adaptive.max_bandwidth=4000000
 https://a1xs.vip/6000005
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (7PAL)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+https://7pal.short.gy/tsn5ca
 
 
 ##################
