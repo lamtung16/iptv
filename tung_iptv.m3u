@@ -360,6 +360,14 @@ https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpl
 #KODIPROP:inputstream.adaptive.live_delay=60
 https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpla28lMkZwcmVtaXVtNTYlMkZtb25vLm0zdTglMjZkYXRhJTNEVDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBJTNEJTNE&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/supersport-psl.png", Supersport PSL (ZA)
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://player.dmcfd.xyz/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=60
+https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpla28lMkZwcmVtaXVtNDEzJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (AR)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://player.dmcfd.xyz/
