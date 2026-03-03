@@ -89,6 +89,7 @@ https://a1xs.vip/6000005
 https://7pal.short.gy/tsn5ca
 
 
+
 ##################
 #### FOOTBALL ####
 ##################
@@ -861,3 +862,63 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/mainalt.m3u8
 #KODIPROP:inputstream.adaptive.live_delay=30
 #KODIPROP:inputstream.adaptive.max_bandwidth=8000000
 https://daffodil.833577.xyz/mainalt.m3u8
+
+
+
+####################
+###### LiveTV ######
+####################
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://player.dmcfd.xyz/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
+https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpla28lMkZwcmVtaXVtMzglMkZtb25vLm0zdTglMjZkYXRhJTNEVDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBJTNEJTNE&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://player.dmcfd.xyz/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
+https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZkb2trbzFuZXcuZHZhbG5hLnJ1JTJGZG9ra28xJTJGcHJlbWl1bTEzMCUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://player.dmcfd.xyz/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
+https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTMxJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://player.dmcfd.xyz/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
+https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTMyJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://player.dmcfd.xyz/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
+https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTMzJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4
+#KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://player.dmcfd.xyz/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.live_delay=30
+#KODIPROP:inputstream.adaptive.max_bandwidth=8000000
+https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTM0JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
