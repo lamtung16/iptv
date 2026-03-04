@@ -624,3 +624,26 @@ https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpl
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.live_delay=60
 https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZkb2trbzFuZXcuZHZhbG5hLnJ1JTJGZG9ra28xJTJGcHJlbWl1bTkxJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+
+##################
+##### FINTTV #####
+##################
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 1
+https://playertv.xyz/site1/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 2
+https://playertv.xyz/site2/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 3
+https://playertv.xyz/site3/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 4
+https://playertv.xyz/site4/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 5
+https://playertv.xyz/mtr/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 6
+https://playertv.xyz/site6/index.m3u8
