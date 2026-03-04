@@ -73,6 +73,9 @@ https://lb.buzztip.site/c1/index.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1
 https://a1xs.vip/1100041
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1
+https://7pal.short.gy/HPremier1
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
 https://daffodil.lifesharper.com/main.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&referer=https://roxiestreams.info/
 
@@ -111,3 +114,27 @@ https://daffodil.lifesharper.com/cbssn.m3u8|user-agent=Mozilla/5.0 (X11; Linux x
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png", TUDN
 https://daffodil.lifesharper.com/tudn.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&referer=https://roxiestreams.info/
+
+
+
+##################
+##### FINTTV #####
+##################
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 1
+https://playertv.xyz/site1/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 2
+https://playertv.xyz/site2/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 3
+https://playertv.xyz/site3/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 4
+https://playertv.xyz/site4/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 5
+https://playertv.xyz/mtr/index.m3u8
+
+#EXTINF:-1 group-title="FintTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/finttv.png", Fint 6
+https://playertv.xyz/site6/index.m3u8
