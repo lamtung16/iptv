@@ -237,7 +237,4 @@ https://daffodil.lifesharper.com/cbssn.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png", TUDN
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/tudn.m3u8
