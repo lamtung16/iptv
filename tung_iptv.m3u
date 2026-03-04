@@ -5,75 +5,39 @@
 ####################
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (A1X)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://a1xs.vip/40000040
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (7PAL)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://7pal.short.gy/tennisc
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (A1X)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://a1xs.vip/6000001
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (7PAL)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://7pal.short.gy/tsn1ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (A1X)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://a1xs.vip/6000002
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (7PAL)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://7pal.short.gy/tsn2ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (A1X)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://a1xs.vip/6000003
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (7PAL)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://7pal.short.gy/tsn3ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (A1X)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://a1xs.vip/6000004
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (7PAL)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://7pal.short.gy/tsn4ca
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (A1X)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://a1xs.vip/6000005
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (7PAL)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://7pal.short.gy/tsn5ca
 
 
@@ -84,154 +48,94 @@ https://7pal.short.gy/tsn5ca
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 1 (England)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://lb.buzztip.site/p1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 2 (England)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://lb.buzztip.site/p2/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 3 (England)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://lb.buzztip.site/p3/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/laliga.png", LaLiga (Spain)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://lb.buzztip.site/la/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/serie-a.png", Serie A (Italy)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://lb.buzztip.site/it/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/league-one.png", League One (France)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://lb.buzztip.site/l1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bundesliga.png", Bundesliga (Germany)
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://lb.buzztip.site/bu1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/champions-league.png", Champions League
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://lb.buzztip.site/c1/index.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/main.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/prem.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/football.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/now.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/usa.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/bein.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/tnt.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/tnt2.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/tnt3.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/tnt4.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-5.png", TNT Sports 5
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/tnt5.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network
 #KODIPROP:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://roxiestreams.info/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.live_delay=15
 https://daffodil.lifesharper.com/cbssn.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png", TUDN
