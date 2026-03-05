@@ -7,6 +7,9 @@
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
 https://a1xs.vip/40000040
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/super-tennis.png", Super Tennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1
 https://a1xs.vip/6000001
 
@@ -32,13 +35,10 @@ https://a1xs.vip/6000005
 https://a1xs.vip/1100041
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
-https://daffodil.lifesharper.com/main.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&referer=https://roxiestreams.info/
-
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League
-https://daffodil.lifesharper.com/prem.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&referer=https://roxiestreams.info/
+https://601.xn--1000-ugoa0hsb9a0hb.com/main.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&referer=https://roxiestreams.info/
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football
-https://daffodil.lifesharper.com/football.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&referer=https://roxiestreams.info/
+https://601.lifesharper.com/football.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&referer=https://roxiestreams.info/
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Sports Premier League 1
 https://daffodil.lifesharper.com/now.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&referer=https://roxiestreams.info/
@@ -73,53 +73,29 @@ https://daffodil.lifesharper.com/tudn.m3u8|user-agent=Mozilla/5.0 (X11; Linux x8
 
 
 ##################
-###### LIVE ######
+###### LIVETV ######
 ##################
 
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 1 (England)
-https://lb.buzztip.site/p1/index.m3u8?token=abd336b7c3fd6197e04e481b9412d428a2007bc5-abf85c6c4436ae11a5243980a1f90a33-1772665753-1772654953
-
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 2 (England)
-https://lb.buzztip.site/p2/index.m3u8
-
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 3 (England)
-https://lb.buzztip.site/p3/index.m3u8?token=c6681fd8f706eaeac7228a5a6cb5bbbd3fafdbc0-71894a164ee1001b3d30fab1dbb761eb-1772664656-1772653856
-
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 4 (England)
-https://lb.buzztip.site/p4/index.m3u8?token=e90a47f315b987132ccdf8be76a1163fc202ebc6-7c29e0bf07cd7cca8dd4a3f45485d683-1772664658-1772653858
-
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 5 (England)
-https://lb.buzztip.site/p5/index.m3u8?token=8ac645f8752d8b32330adc1f2b1d5a43be608b74-f9e813a7cc3ad73e31b5daf456f3103a-1772664654-1772653854
-
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
-https://tvpass.org/live/TennisChannel/sd
-
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
-https://tvpass.org/live/USANetworkEast/sd
-
-
-
-##################
-###### TEMP ######
-##################
-
-#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
-http://208.87.242.79/livehttpplay?channel_id=13038
-
-#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (7PAL)
 https://7pal.short.gy/tennisc
 
-#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1
 https://stream.decentdoubts.net/805/index.m3u8
 
-#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2
 https://stream.decentdoubts.net/806/index.m3u8
 
-#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3
 https://stream.decentdoubts.net/807/index.m3u8
 
-#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4
 https://stream.decentdoubts.net/808/index.m3u8
 
-#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5
 https://stream.decentdoubts.net/809/index.m3u8
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (TVPASS)
+https://tvpass.org/live/TennisChannel/sd
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
+https://tvpass.org/live/USANetworkEast/sd
