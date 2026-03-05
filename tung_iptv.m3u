@@ -7,9 +7,6 @@
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
 https://a1xs.vip/40000040
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis
-https://a1xs.vip/2000013
-
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1
 https://a1xs.vip/6000001
 
@@ -93,3 +90,9 @@ https://lb.buzztip.site/p4/index.m3u8?token=e90a47f315b987132ccdf8be76a1163fc202
 
 #EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League 5 (England)
 https://lb.buzztip.site/p5/index.m3u8?token=8ac645f8752d8b32330adc1f2b1d5a43be608b74-f9e813a7cc3ad73e31b5daf456f3103a-1772664654-1772653854
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
+https://tvpass.org/live/TennisChannel/sd
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
+https://tvpass.org/live/USANetworkEast/sd
