@@ -103,6 +103,9 @@ https://rci1w.envivoslatam.org/espn/index.m3u8?token=1dddb9e1ce0dec83e3f9d1f6f1b
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 1 (Futbol Libre)
 https://agvyby.fubohd.com/espn/mono.m3u8?token=d558931476b5b9fa778c165a35b68412b0e32b2c-e9-1772758559-1772740559
 
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 1 (Futbol Libre)
+https://kh5vy.envivoslatam.org/espn/index.m3u8?token=7b0e0e84d991ffa97268a37cf5aa9a01466eabd6-e6-1772789539-1772735539
+
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (Futbol Libre)
 https://xky9q.envivoslatam.org/espn2/index.m3u8?ip=47.215.137.74&token=f3240c2581c42c6be36e54792723ba591e2e1125-fb-1772786547-1772732547
 
