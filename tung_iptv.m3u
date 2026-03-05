@@ -96,3 +96,30 @@ https://tvpass.org/live/TennisChannel/sd
 
 #EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
 https://tvpass.org/live/USANetworkEast/sd
+
+
+
+##################
+###### TEMP ######
+##################
+
+#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
+http://208.87.242.79/livehttpplay?channel_id=13038
+
+#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
+https://7pal.short.gy/tennisc
+
+#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1
+https://stream.decentdoubts.net/805/index.m3u8
+
+#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2
+https://stream.decentdoubts.net/806/index.m3u8
+
+#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3
+https://stream.decentdoubts.net/807/index.m3u8
+
+#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4
+https://stream.decentdoubts.net/808/index.m3u8
+
+#EXTINF:-1 group-title="Temp" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5
+https://stream.decentdoubts.net/809/index.m3u8
