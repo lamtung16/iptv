@@ -73,7 +73,7 @@ https://daffodil.lifesharper.com/tudn.m3u8|user-agent=Mozilla/5.0 (X11; Linux x8
 
 
 ##################
-###### LIVETV ######
+##### LIVETV #####
 ##################
 
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (7PAL)
@@ -99,3 +99,18 @@ https://tvpass.org/live/TennisChannel/sd
 
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
 https://tvpass.org/live/USANetworkEast/sd
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (sports4free.ru/)
+https://cdn-streamora.us/hls?id=594146|referer=https://sports4free.ru/
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (sports4free.ru/)
+https://cdn-streamora.us/hls?id=382359|referer=https://sports4free.ru/
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (sports4free.ru/)
+https://cdn-streamora.us/hls?id=709750|referer=https://sports4free.ru/
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Premier League 1 (sports4free.ru/)
+https://cdn-streamora.us/hls?id=536572|referer=https://sports4free.ru/
+
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-2.png", Now Premier League 2 (sports4free.ru/)
+https://cdn-streamora.us/hls?id=536573|referer=https://sports4free.ru/
