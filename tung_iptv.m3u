@@ -144,9 +144,9 @@ https://tvpass.org/live/USANetworkEast/sd
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.reconnect=20
-#KODIPROP:inputstream.ffmpegdirect.reconnect_streamed=20
-#KODIPROP:inputstream.ffmpegdirect.reconnect_delay_max=100
+#KODIPROP:inputstream.ffmpegdirect.reconnect=100
+#KODIPROP:inputstream.ffmpegdirect.reconnect_streamed=100
+#KODIPROP:inputstream.ffmpegdirect.reconnect_delay_max=500
 http://supersonictv.live:8080/live/Norman123/Norman123/40433.ts
 
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
