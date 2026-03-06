@@ -97,6 +97,33 @@ https://xky9q.envivoslatam.org/espn2/index.m3u8?token=f3240c2581c42c6be36e547927
 
 
 ##################
+##### XTREAM #####
+##################
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/40433.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/22467
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/5100.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 2 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/5098.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 3 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/5099.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 4 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/5097.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/22174.ts
+
+
+
+##################
 ##### BACKUP #####
 ##################
 
@@ -133,32 +160,6 @@ https://tvpass.org/live/TennisChannel/sd
 https://tvpass.org/live/USANetworkEast/sd
 
 
-
-##################
-##### XTREAM #####
-##################
-
-#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (Supersonic)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.reconnect=100
-#KODIPROP:inputstream.ffmpegdirect.reconnect_streamed=100
-#KODIPROP:inputstream.ffmpegdirect.reconnect_delay_max=500
-http://supersonictv.live:8080/live/Norman123/Norman123/40433.ts
-
-#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.reconnect=20
-#KODIPROP:inputstream.ffmpegdirect.reconnect_streamed=20
-#KODIPROP:inputstream.ffmpegdirect.reconnect_delay_max=100
-http://kstv.us:8080/4VUyfZBQzk/95104974615/22467
 
 ### source: iptv-org.github.io/iptv/categories/sports.m3u
 ### source: sports4free.ru
