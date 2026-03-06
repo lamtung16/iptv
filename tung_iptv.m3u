@@ -63,20 +63,20 @@ https://kh5vy.envivoslatam.org/espn/index.m3u8?token=7b0e0e84d991ffa97268a37cf5a
 https://xky9q.envivoslatam.org/espn2/index.m3u8?token=f3240c2581c42c6be36e54792723ba591e2e1125-fb-1772786547-1772732547
 
 ### roxiestreams.cc
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Roxiestreams)
-#https://602.xn--1000-ugoa0hsb9a0hb.com/main.m3u8|referer=https://roxiestreams.info/
+##EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Roxiestreams)
+##https://602.xn--1000-ugoa0hsb9a0hb.com/main.m3u8|referer=https://roxiestreams.info/
 
 ### pawastreams.net
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Pawastreams)
-#https://lb.buzztip.site/p1/index.m3u8?token=947eb71c7d6f179c1c7d68b2f8bb8303e5616d13-5cf607ef4c911be4d52baf4c9d31fc9d-1772760728-1772749928
+##EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Pawastreams)
+##https://lb.buzztip.site/p1/index.m3u8?token=947eb71c7d6f179c1c7d68b2f8bb8303e5616d13-5cf607ef4c911be4d52baf4c9d31fc9d-1772760728-1772749928
 
 ### fawanews.sc
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Fawanews)
-#http://195.178.110.37/hls/nnnn.m3u8|referer=http://www.fawanews.sc/
+##EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Fawanews)
+##http://195.178.110.37/hls/nnnn.m3u8|referer=http://www.fawanews.sc/
 
 ### streamcenter.live/
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Streamcenter)
-#https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=zCqEYI_yY75cv7QaOGVdmR6Nlb7TAccQLVmsCU5uVhk&e=1772761345|referer=https://streams.center/
+##EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Streamcenter)
+##https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=zCqEYI_yY75cv7QaOGVdmR6Nlb7TAccQLVmsCU5uVhk&e=1772761345|referer=https://streams.center/
 
 
 
