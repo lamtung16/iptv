@@ -146,8 +146,8 @@ https://tvpass.org/live/USANetworkEast/sd
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.reconnect=20
 #KODIPROP:inputstream.ffmpegdirect.reconnect_streamed=20
-#KODIPROP:inputstream.ffmpegdirect.reconnect_delay_max=5000
-http://supersonictv.live:8080/live/Norman123/Norman123/40433.m3u8
+#KODIPROP:inputstream.ffmpegdirect.reconnect_delay_max=100
+http://supersonictv.live:8080/live/Norman123/Norman123/40433.ts
 
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -157,7 +157,7 @@ http://supersonictv.live:8080/live/Norman123/Norman123/40433.m3u8
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.reconnect=20
 #KODIPROP:inputstream.ffmpegdirect.reconnect_streamed=20
-#KODIPROP:inputstream.ffmpegdirect.reconnect_delay_max=5000
+#KODIPROP:inputstream.ffmpegdirect.reconnect_delay_max=100
 http://kstv.us:8080/4VUyfZBQzk/95104974615/22467
 
 ### source: iptv-org.github.io/iptv/categories/sports.m3u
