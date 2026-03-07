@@ -123,6 +123,12 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
 
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48443
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48444
+
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (Supersonic)
 http://supersonictv.live:8080/live/Norman123/Norman123/5100.ts
 
