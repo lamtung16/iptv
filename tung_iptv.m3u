@@ -138,6 +138,18 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/48444
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 (Supersonic)
 http://supersonictv.live:8080/live/Norman123/Norman123/7629.ts
 
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48445
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/7631.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 4 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48446
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 4 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/7633.ts
+
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (Supersonic)
 http://supersonictv.live:8080/live/Norman123/Norman123/5100.ts
 
@@ -147,7 +159,7 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47111
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (Supersonic)
 http://supersonictv.live:8080/live/Norman123/Norman123/5098.ts
 
-#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 2 (KSTV)
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47100
 
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT 1 (KSTV)
@@ -162,12 +174,53 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47852
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT 4 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
 
-#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Supersonic)
-http://supersonictv.live:8080/live/Norman123/Norman123/22174.ts
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48496
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/7705.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48497
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/7707.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48498
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/7709.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48499
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/7711.ts
 
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15905
 
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/22174.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-one.png", Sportsnet One (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15930
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-one.png", Sportsnet One (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/40475.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-360.png", Sportsnet 360 (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/40618
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-360.png", Sportsnet 360 (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/40472.ts
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png", Sportsnet World (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15936
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png", Sportsnet World (Supersonic)
+http://supersonictv.live:8080/live/Norman123/Norman123/40479.ts
 
 
 ##################
