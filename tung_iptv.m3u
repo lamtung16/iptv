@@ -63,20 +63,8 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&exte
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776176&extension=m3u8
 
 ### librefutboltv.su
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 1 (Futbol Libre)
-https://rci1w.envivoslatam.org/espn/index.m3u8?token=1dddb9e1ce0dec83e3f9d1f6f1b9f855384862a1-0a-1772786170-1772732170
-
-### librefutboltv.su
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 1 (Futbol Libre)
-https://agvyby.fubohd.com/espn/mono.m3u8?token=d558931476b5b9fa778c165a35b68412b0e32b2c-e9-1772758559-1772740559
-
-### librefutboltv.su
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 1 (Futbol Libre)
-https://kh5vy.envivoslatam.org/espn/index.m3u8?token=7b0e0e84d991ffa97268a37cf5aa9a01466eabd6-e6-1772789539-1772735539
-
-### librefutboltv.su
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (Futbol Libre)
-https://xky9q.envivoslatam.org/espn2/index.m3u8?token=f3240c2581c42c6be36e54792723ba591e2e1125-fb-1772786547-1772732547
+##EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 1 (Futbol Libre)
+##https://rci1w.envivoslatam.org/espn/index.m3u8?token=1dddb9e1ce0dec83e3f9d1f6f1b9f855384862a1-0a-1772786170-1772732170
 
 ### roxiestreams.cc
 ##EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/premier-league.png", Premier League (Roxiestreams)
@@ -100,11 +88,14 @@ https://xky9q.envivoslatam.org/espn2/index.m3u8?token=f3240c2581c42c6be36e547927
 ##### XTREAM #####
 ##################
 
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/22467
+
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (Supersonic)
 http://supersonictv.live:8080/live/Norman123/Norman123/40433.ts
 
-#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (KSTV)
-http://kstv.us:8080/4VUyfZBQzk/95104974615/22467
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (Lunar)
+http://lunar.pm:8080/Mrdon/4782314540/40854
 
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (Lunar)
 http://lunar.pm:8080/Mrdon/4782314540/110288
@@ -117,6 +108,12 @@ http://lunar.pm:8080/Mrdon/4782314540/110290
 
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-4.png", Hub Premier 4 (Lunar)
 http://lunar.pm:8080/Mrdon/4782314540/110291
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-1.png", Now Premier League 1 (Lunar)
+http://lunar.pm:8080/Mrdon/4782314540/117457
+
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-2.png", Now Premier League 2 (Lunar)
+http://lunar.pm:8080/Mrdon/4782314540/117458
 
 
 
