@@ -157,10 +157,10 @@ http://supersonictv.live:8080/live/Norman123/Norman123/7631.ts
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 (MyTV)
 http://mytvstream.net:8080/live/43761449506/smallwood/167749.m3u8
 
-#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 4 (KSTV)
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48446
 
-#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 4 (Supersonic)
+#EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 (Supersonic)
 http://supersonictv.live:8080/live/Norman123/Norman123/7633.ts
 
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Caribbean (MyTV)
