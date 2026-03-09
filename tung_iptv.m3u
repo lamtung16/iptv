@@ -166,14 +166,29 @@ http://lunar.pm:8080/Mrdon/4782314540/117457
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/now-sports-pl-2.png", Now Premier League 2 (Lunar)
 http://lunar.pm:8080/Mrdon/4782314540/117458
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 Arab (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/12554
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 Arab (Lunar)
+http://lunar.pm:8080/Mrdon/4782314540/132311
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 Arab (Rocket)
 http://s.rocketdns.info:8080/live/52748969/72335180/714411.ts
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 English (Rocket)
 http://s.rocketdns.info:8080/live/52748969/72335180/659436.ts
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 English (Lunar)
+http://lunar.pm:8080/Mrdon/4782314540/108605
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 French (Rocket)
 http://s.rocketdns.info:8080/live/52748969/72335180/659439.ts
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 Arab (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/12553
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 Arab (Lunar)
+http://lunar.pm:8080/Mrdon/4782314540/108592
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 Arab (Rocket)
 http://s.rocketdns.info:8080/live/52748969/72335180/659428.ts
@@ -294,14 +309,6 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2182.ts
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (KSTV)
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
-
-### https://github.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/blob/main/Shareext%40playlist
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/monomax.png", Monomax 1 Thailand
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&extension=m3u8
-
-### https://github.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/blob/main/Shareext%40playlist
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/monomax.png", Monomax 2 Thailand
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776176&extension=m3u8
 
 
 
