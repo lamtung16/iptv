@@ -26,6 +26,14 @@ http://lunar.pm:8080/Mrdon/4782314540/40854
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel-2.png", Tennis Channel 2 (Local Now)
 https://amg01444-amg01444c2-localnow-us-3472.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-localnowus/playlist.m3u8
 
+### https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/txt/o_all.txt
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel-2.png", Tennis Channel 2 (Fastly)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+
+### https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/txt/o_all.txt
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel-2.png", Tennis Channel 2 (AKA)
+https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
+
 ### famelack.com
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel-2.png", Tennis Channel 2 (Famelack)
 https://pb-vuh0zokcxo4al.akamaized.net/T2540.m3u8
