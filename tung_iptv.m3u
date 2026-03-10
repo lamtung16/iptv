@@ -367,6 +367,13 @@ https://s.rocketdns.info/live/52748969/72335180/842.ts
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48499
 
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 Portugal (Rocket)
+https://s.rocketdns.info/live/52748969/72335180/839.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 Portugal (KSTV)
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48500
+
+
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT 1 (Rocket)
 https://s.rocketdns.info/live/52748969/72335180/2337.ts
 
