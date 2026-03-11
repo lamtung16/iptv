@@ -183,7 +183,7 @@ https://s.rocketdns.info/live/40638929/22479714/30822.ts
 http://kstv.us:8080/Rojas67/55718118565/47633
 
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 SD Portugal (Rocket)
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/926.ts
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (Rocket)
@@ -193,7 +193,7 @@ https://s.rocketdns.info/live/40638929/22479714/925.ts
 http://kstv.us:8080/Rojas67/55718118565/48443
 
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 SD Portugal (Rocket)
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/924.ts
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (Rocket)
@@ -203,7 +203,7 @@ https://s.rocketdns.info/live/40638929/22479714/923.ts
 http://kstv.us:8080/Rojas67/55718118565/48444
 
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 SD Portugal (Rocket)
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/922.ts
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 Portugal (Rocket)
@@ -213,7 +213,7 @@ https://s.rocketdns.info/live/40638929/22479714/921.ts
 http://kstv.us:8080/Rojas67/55718118565/48445
 
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 SD Portugal (Rocket)
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/920.ts
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (Rocket)
@@ -254,14 +254,23 @@ https://s.rocketdns.info/live/40638929/22479714/803.ts
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Brazil (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/46445
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Deportes (KSTV)
+http://kstv.us:8080/Rojas67/55718118565/47105
+
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Brazil Backup (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/46447
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Suriname (KSTV)
+http://kstv.us:8080/Rojas67/55718118565/47111
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Suriname (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/47099
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Chile (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/560374.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Latin (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/558864.ts
 
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 Argentina (Rocket)
@@ -275,6 +284,9 @@ http://kstv.us:8080/Rojas67/55718118565/47100
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 Chile (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/560375.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 Latin (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/558865.ts
 
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 Arab (Rocket)
@@ -296,7 +308,6 @@ https://s.rocketdns.info/live/40638929/22479714/659428.ts
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 Arab (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/12553
 
-
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 English (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/659437.ts
 
@@ -311,6 +322,15 @@ https://s.rocketdns.info/live/40638929/22479714/3725.ts
 http://kstv.us:8080/Rojas67/55718118565/15951
 
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 SD US (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/21590.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 LHD US (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/3726.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 UHD US (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/3637.ts
+
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 US (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/2581.ts
 
@@ -318,22 +338,67 @@ https://s.rocketdns.info/live/40638929/22479714/2581.ts
 http://kstv.us:8080/Rojas67/55718118565/15950
 
 
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 Portugal (Rocket)
-https://s.rocketdns.info/live/40638929/22479714/911.ts
-
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 Portugal (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/48449
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 Portugal (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/911.ts
 
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 Portugal (Rocket)
-https://s.rocketdns.info/live/40638929/22479714/910.ts
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 Romania (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/596466.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 Sweeden (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/1179886.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 Norway (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/1179968.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 Denmark (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/1180048.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 Finland (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/1180095.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 UK (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/2286.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1.png", Eurosport 1 UK (KSTV)
+http://kstv.us:8080/Rojas67/55718118565/47854
+
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 Portugal (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/48450
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 Portugal (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/910.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 Romania (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/596465.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 Sweeden (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/1179887.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 Norway (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/1179969.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 Denmark (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/1180049.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 Finland (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/1180096.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 UK (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/2285.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2.png", Eurosport 2 UK (KSTV)
+http://kstv.us:8080/Rojas67/55718118565/47855
+
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/848.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 Portugal (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/849.ts
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 Portugal (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/48496
@@ -342,12 +407,18 @@ http://kstv.us:8080/Rojas67/55718118565/48496
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/846.ts
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 Portugal (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/847.ts
+
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 Portugal (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/48497
 
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/844.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 Portugal (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/845.ts
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 Portugal (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/48498
@@ -356,6 +427,9 @@ http://kstv.us:8080/Rojas67/55718118565/48498
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/842.ts
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 Portugal (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/843.ts
+
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 Portugal (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/48499
 
@@ -363,12 +437,18 @@ http://kstv.us:8080/Rojas67/55718118565/48499
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 Portugal (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/839.ts
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 Portugal (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/840.ts
+
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 Portugal (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/48500
 
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT 1 (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/2337.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT 1 (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/737805.ts
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT 1 (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/47850
@@ -398,12 +478,30 @@ http://kstv.us:8080/Rojas67/55718118565/47853
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/3767.ts
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/21612.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/3694.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/3848.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/2379.ts
+
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/15905
 
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (Rocket)
 https://s.rocketdns.info/live/40638929/22479714/3712.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/21565.ts
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (Rocket)
+https://s.rocketdns.info/live/40638929/22479714/3621.ts
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (KSTV)
 http://kstv.us:8080/Rojas67/55718118565/15944
