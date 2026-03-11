@@ -1,0 +1,11 @@
+host,username,password,status,created_at,exp_date,active_cons,max_connections,url,server_protocol
+https://s.rocketdns.info,Ustream040,11111111Aa!,Active,2021-11-10 22:34:21,2026-03-21 01:02:53,0,2,s.rocketdns.info,https
+https://s.rocketdns.info,17510404,03225653,Active,2023-03-19 04:00:00,NA,0,2,s.rocketdns.info,https
+https://s.rocketdns.info,7312082,5738779,Active,2026-02-09 03:10:36,2026-04-11 02:10:36,0,1,s.rocketdns.info,https
+https://s.rocketdns.info,74941962,50621122,Active,2023-01-06 05:00:00,NA,1,2,s.rocketdns.info,https
+https://s.rocketdns.info,44422850,74410055,Active,2023-01-09 05:00:00,NA,1,2,s.rocketdns.info,https
+https://s.rocketdns.info,MoodyA2,pkyO17rd3e,Active,2023-01-16 02:20:50,2026-03-17 16:53:53,1,2,s.rocketdns.info,https
+https://s.rocketdns.info,52748969,72335180,Active,2023-09-29 04:00:00,NA,1,2,s.rocketdns.info,https
+https://s.rocketdns.info,50840659,92211003,Active,2021-05-22 04:00:00,NA,2,4,s.rocketdns.info,https
+https://s.rocketdns.info,Lucas123,Lucas123,Active,2026-01-08 20:05:16,2026-04-09 20:25:17,2,2,s.rocketdns.info,https
+https://s.rocketdns.info,PremiunMainX,GtlAOoKjhh,Active,2021-03-23 17:55:19,NA,367,500,s.rocketdns.info,https
