@@ -98,6 +98,15 @@ https://restream-live.realiptv.to/53420573/53717218/925
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (k)
 http://kstv.us:8080/Freshcobar23/83261331891/48443
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (b1)
+http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/35264
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (b2)
+http://fortv.cc:8080/phi@live.ca/phi@3574/35264
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (b3)
+http://xxip9.top:8080/cbc6cW/030701/35264
+
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (r)
 https://restream-live.realiptv.to/53420573/53717218/924
@@ -127,6 +136,34 @@ https://restream-live.realiptv.to/53420573/53717218/919
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (k)
 http://kstv.us:8080/Freshcobar23/83261331891/48446
+
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 Turkey SD (b)
+http://kalitemedya45.xyz:8080/ucman/50397fac3b991cb9/35762
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 Turkey (b)
+http://kalitemedya45.xyz:8080/ucman/50397fac3b991cb9/351541
+
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 Turkey SD (b)
+http://kalitemedya45.xyz:8080/ucman/50397fac3b991cb9/196216
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 Turkey (b)
+http://kalitemedya45.xyz:8080/ucman/50397fac3b991cb9/35730
+
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-3.png", Bein Sports 3 Turkey SD (b)
+http://kalitemedya45.xyz:8080/ucman/50397fac3b991cb9/196217
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-3.png", Bein Sports 3 Turkey (b)
+http://kalitemedya45.xyz:8080/ucman/50397fac3b991cb9/6097
+
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-4.png", Bein Sports 4 Turkey SD (b)
+http://kalitemedya45.xyz:8080/ucman/50397fac3b991cb9/196218
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-4.png", Bein Sports 4 Turkey (b)
+http://kalitemedya45.xyz:8080/ucman/50397fac3b991cb9/6098
 
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (k)
