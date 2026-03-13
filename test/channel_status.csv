@@ -1,144 +1,149 @@
-Channel Name,URL,Status,Quality
- Tennis Channel HD (k),http://kstv.us:8080/Rojas67/55718118565/22467,ONLINE,HD
- Tennis Channel HD (k),http://kstv.us:8080/Rojas67/55718118565/15940,ONLINE,HD
- Tennis Channel SD (r),https://s.rocketdns.info/live/40638929/22479714/21607.ts,ONLINE,SD
- Tennis Channel FHD (r),https://s.rocketdns.info/live/40638929/22479714/3762.ts,ONLINE,FHD
- Tennis Channel FHD (r),https://s.rocketdns.info/live/40638929/22479714/3685.ts,ONLINE,FHD
- Tennis Channel 2 SD (Local Now),https://amg01444-amg01444c2-localnow-us-3472.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-localnowus/playlist.m3u8,ONLINE,SD
- Tennis Channel 2 SD (Fastly),https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8,ONLINE,SD
- Tennis Channel 2 SD (AKA),https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8,ONLINE,SD
- Tennis Channel 2 SD (Famelack),https://pb-vuh0zokcxo4al.akamaized.net/T2540.m3u8,ONLINE,SD
- TV4 Tennis HD (r),https://s.rocketdns.info/live/40638929/22479714/1179934.ts,ONLINE,Unknown
- TSN 1 HD (A1X),https://a1xs.vip/6000001,ONLINE,HD
- TSN 1 HD (decentdoubts),https://stream.decentdoubts.net/805/index.m3u8,ONLINE,HD
- TSN 1 HD (k),http://kstv.us:8080/Rojas67/55718118565/40651,ONLINE,HD
- TSN 1 FHD (k),http://kstv.us:8080/Rojas67/55718118565/15929,ONLINE,FHD
- TSN 1 FHD (r),https://s.rocketdns.info/live/40638929/22479714/3146.ts,ONLINE,FHD
- TSN 2 HD (A1X),https://a1xs.vip/6000002,ONLINE,HD
- TSN 2 HD (decentdoubts),https://stream.decentdoubts.net/806/index.m3u8,ONLINE,HD
- TSN 2 HD (k),http://kstv.us:8080/Rojas67/55718118565/15928,ONLINE,HD
- TSN 2 FHD (k),http://kstv.us:8080/Rojas67/55718118565/40650,ONLINE,FHD
- TSN 2 FHD (r),https://s.rocketdns.info/live/40638929/22479714/3145.ts,ONLINE,FHD
- TSN 3 HD (A1X),https://a1xs.vip/6000003,ONLINE,HD
- TSN 3 HD (decentdoubts),https://stream.decentdoubts.net/807/index.m3u8,ONLINE,HD
- TSN 3 HD (k),http://kstv.us:8080/Rojas67/55718118565/40649,ONLINE,HD
- TSN 3 FHD (k),http://kstv.us:8080/Rojas67/55718118565/15927,ONLINE,FHD
- TSN 3 FHD (r),https://s.rocketdns.info/live/40638929/22479714/3144.ts,ONLINE,FHD
- TSN 4 HD (A1X),https://a1xs.vip/6000004,ONLINE,HD
- TSN 4 HD (decentdoubts),https://stream.decentdoubts.net/808/index.m3u8,ONLINE,HD
- TSN 4 HD (k),http://kstv.us:8080/Rojas67/55718118565/40648,ONLINE,HD
- TSN 4 HD (k),http://kstv.us:8080/Rojas67/55718118565/15926,ONLINE,HD
- TSN 4 FHD (r),https://s.rocketdns.info/live/40638929/22479714/3143.ts,ONLINE,FHD
- TSN 5 HD (A1X),https://a1xs.vip/6000005,ONLINE,HD
- TSN 5 HD (decentdoubts),https://stream.decentdoubts.net/809/index.m3u8,ONLINE,HD
- TSN 5 SD (k),http://kstv.us:8080/Rojas67/55718118565/15925,ONLINE,SD
- TSN 5 HD (k),http://kstv.us:8080/Rojas67/55718118565/40647,ONLINE,HD
- TSN 5 HD (r),https://s.rocketdns.info/live/40638929/22479714/3142.ts,ONLINE,HD
- Hub Premier 1 HD (Lunar),http://lunar.pm:8080/Mrdon/4782314540/110288,ONLINE,HD
- Hub Premier 2 HD (Lunar),http://lunar.pm:8080/Mrdon/4782314540/110289,OFFLINE,
- Hub Premier 3 HD (Lunar),http://lunar.pm:8080/Mrdon/4782314540/110290,OFFLINE,
- Hub Premier 4 HD (Lunar),http://lunar.pm:8080/Mrdon/4782314540/110291,OFFLINE,
- Now Premier League 1 HD (Lunar),http://lunar.pm:8080/Mrdon/4782314540/117457,HTTP 403,
- Now Premier League 2 HD (Lunar),http://lunar.pm:8080/Mrdon/4782314540/117458,OFFLINE,
- Sky Sports Premier League FHD (k),http://kstv.us:8080/Rojas67/55718118565/47871,ONLINE,FHD
- Sky Sports Premier League FHD (r),https://s.rocketdns.info/live/40638929/22479714/2181.ts,ONLINE,FHD
- Sky Sports Premier League FHD (r),https://s.rocketdns.info/live/40638929/22479714/2182.ts,ONLINE,FHD
- Sky Sports Football HD (k),http://kstv.us:8080/Rojas67/55718118565/100767,HTTP 406,
- Sky Sports Football HD (r),https://s.rocketdns.info/live/40638929/22479714/2188.ts,ONLINE,FHD
- Sky Sports Football HD (r),https://s.rocketdns.info/live/40638929/22479714/30822.ts,ONLINE,FHD
- Supersport Premier League HD (k),http://kstv.us:8080/Rojas67/55718118565/47633,ONLINE,HD
- DAZN 1 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/926.ts,ONLINE,SD
- DAZN 1 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/925.ts,ONLINE,FHD
- DAZN 1 Portugal FHD (k),http://kstv.us:8080/Rojas67/55718118565/48443,ONLINE,FHD
- DAZN 2 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/924.ts,ONLINE,Unknown
- DAZN 2 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/923.ts,ONLINE,FHD
- DAZN 2 Portugal HD (k),http://kstv.us:8080/Rojas67/55718118565/48444,ONLINE,HD
- DAZN 3 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/922.ts,HTTP 403,
- DAZN 3 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/921.ts,ONLINE,SD
- DAZN 3 Portugal HD (k),http://kstv.us:8080/Rojas67/55718118565/48445,ONLINE,SD
- DAZN 4 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/920.ts,ONLINE,SD
- DAZN 4 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/919.ts,HTTP 403,
- DAZN 4 Portugal SD (k),http://kstv.us:8080/Rojas67/55718118565/48446,ONLINE,SD
- Sky Sports Main Event FHD (k),http://kstv.us:8080/Rojas67/55718118565/47868,ONLINE,FHD
- Sky Sports Main Event FHD (r),https://s.rocketdns.info/live/40638929/22479714/2185.ts,ONLINE,FHD
- Sky Sports Main Event FHD (r),https://s.rocketdns.info/live/40638929/22479714/2184.ts,ONLINE,FHD
- Sky Sports Plus FHD (k),http://kstv.us:8080/Rojas67/55718118565/47863,ONLINE,FHD
- Sky Sports Plus HD (r),https://s.rocketdns.info/live/40638929/22479714/2193.ts,ONLINE,HD
- ESPN Argentina HD (r),https://s.rocketdns.info/live/40638929/22479714/2865.ts,ONLINE,HD
- ESPN Brazil HD (r),https://s.rocketdns.info/live/40638929/22479714/803.ts,ONLINE,HD
- ESPN Deportes HD (k),http://kstv.us:8080/Rojas67/55718118565/47105,ONLINE,HD
- ESPN Brazil FHD (k),http://kstv.us:8080/Rojas67/55718118565/46447,ONLINE,FHD
- ESPN Suriname HD (k),http://kstv.us:8080/Rojas67/55718118565/47111,ONLINE,HD
- ESPN Suriname HD (k),http://kstv.us:8080/Rojas67/55718118565/47099,ONLINE,HD
- ESPN 2 Argentina HD (r),https://s.rocketdns.info/live/40638929/22479714/1636.ts,ONLINE,HD
- ESPN 2 Brazil FHD (k),http://kstv.us:8080/Rojas67/55718118565/46446,HTTP 403,
- ESPN 2 Suriname HD (k),http://kstv.us:8080/Rojas67/55718118565/47100,ONLINE,HD
- ESPN 2 Latin HD (r),https://s.rocketdns.info/live/40638929/22479714/558865.ts,ONLINE,HD
- Bein Sports 1 Arab FHD (r),https://s.rocketdns.info/live/40638929/22479714/714411.ts,ONLINE,FHD
- Bein Sports 1 English FHD (k),http://kstv.us:8080/Rojas67/55718118565/12554,ONLINE,FHD
- Bein Sports 1 English FHD (r),https://s.rocketdns.info/live/40638929/22479714/659436.ts,ONLINE,FHD
- Bein Sports 1 French FHD (r),https://s.rocketdns.info/live/40638929/22479714/659439.ts,ONLINE,FHD
- Bein Sports 2 Arab FHD (r),https://s.rocketdns.info/live/40638929/22479714/659428.ts,ONLINE,FHD
- Bein Sports 2 Arab FHD (k),http://kstv.us:8080/Rojas67/55718118565/12553,ONLINE,FHD
- Bein Sports 2 English FHD (r),https://s.rocketdns.info/live/40638929/22479714/659437.ts,ONLINE,FHD
- Bein Sports 2 French SD (r),https://s.rocketdns.info/live/40638929/22479714/659440.ts,ONLINE,SD
- ESPN US HD (r),https://s.rocketdns.info/live/40638929/22479714/3725.ts,HTTP 403,
- ESPN US HD (k),http://kstv.us:8080/Rojas67/55718118565/15951,ONLINE,HD
- ESPN 2 US SD (r),https://s.rocketdns.info/live/40638929/22479714/21590.ts,ONLINE,SD
- ESPN 2 US HD (r),https://s.rocketdns.info/live/40638929/22479714/3726.ts,ONLINE,HD
- ESPN 2 US HD (r),https://s.rocketdns.info/live/40638929/22479714/3637.ts,ONLINE,HD
- ESPN 2 US HD (r),https://s.rocketdns.info/live/40638929/22479714/2581.ts,ONLINE,HD
- ESPN 2 US HD (k),http://kstv.us:8080/Rojas67/55718118565/15950,ONLINE,HD
- Eurosport 1 Portugal SD (k),http://kstv.us:8080/Rojas67/55718118565/48449,ONLINE,SD
- Eurosport 1 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/911.ts,ONLINE,FHD
- Eurosport 1 Sweeden HD (r),https://s.rocketdns.info/live/40638929/22479714/1179886.ts,ONLINE,HD
- Eurosport 1 Norway HD (r),https://s.rocketdns.info/live/40638929/22479714/1179968.ts,ONLINE,HD
- Eurosport 1 Denmark HD (r),https://s.rocketdns.info/live/40638929/22479714/1180048.ts,OFFLINE,
- Eurosport 1 Finland HD (r),https://s.rocketdns.info/live/40638929/22479714/1180095.ts,ONLINE,HD
- Eurosport 1 UK FHD (k),http://kstv.us:8080/Rojas67/55718118565/47854,ONLINE,FHD
- Eurosport 2 Portugal FHD (k),http://kstv.us:8080/Rojas67/55718118565/48450,ONLINE,FHD
- Eurosport 2 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/910.ts,ONLINE,SD
- Eurosport 2 Sweeden HD (r),https://s.rocketdns.info/live/40638929/22479714/1179887.ts,ONLINE,HD
- Eurosport 2 Norway HD (r),https://s.rocketdns.info/live/40638929/22479714/1179969.ts,ONLINE,HD
- Eurosport 2 Denmark HD (r),https://s.rocketdns.info/live/40638929/22479714/1180049.ts,ONLINE,HD
- Eurosport 2 Finland HD (r),https://s.rocketdns.info/live/40638929/22479714/1180096.ts,ONLINE,HD
- Eurosport 2 UK FHD (k),http://kstv.us:8080/Rojas67/55718118565/47855,ONLINE,FHD
- Sport TV 1 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/848.ts,ONLINE,FHD
- Sport TV 1 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/849.ts,ONLINE,SD
- Sport TV 1 Portugal HD (k),http://kstv.us:8080/Rojas67/55718118565/48496,ONLINE,HD
- Sport TV 2 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/846.ts,ONLINE,FHD
- Sport TV 2 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/847.ts,ONLINE,SD
- Sport TV 2 Portugal HD (k),http://kstv.us:8080/Rojas67/55718118565/48497,ONLINE,HD
- Sport TV 3 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/844.ts,ONLINE,FHD
- Sport TV 3 Portugal SD (r),https://s.rocketdns.info/live/40638929/22479714/845.ts,ONLINE,SD
- Sport TV 3 Portugal SD (k),http://kstv.us:8080/Rojas67/55718118565/48498,ONLINE,SD
- Sport TV 4 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/842.ts,ONLINE,FHD
- Sport TV 4 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/843.ts,ONLINE,FHD
- Sport TV 4 Portugal SD (k),http://kstv.us:8080/Rojas67/55718118565/48499,ONLINE,SD
- Sport TV 5 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/839.ts,ONLINE,FHD
- Sport TV 5 Portugal FHD (r),https://s.rocketdns.info/live/40638929/22479714/840.ts,ONLINE,FHD
- Sport TV 5 Portugal FHD (k),http://kstv.us:8080/Rojas67/55718118565/48500,ONLINE,FHD
- TNT 1 FHD (r),https://s.rocketdns.info/live/40638929/22479714/2337.ts,ONLINE,Unknown
- TNT 1 HD (k),http://kstv.us:8080/Rojas67/55718118565/47850,ONLINE,HD
- TNT 2 FHD (r),https://s.rocketdns.info/live/40638929/22479714/2336.ts,ONLINE,FHD
- TNT 2 HD (k),http://kstv.us:8080/Rojas67/55718118565/47851,ONLINE,HD
- TNT 3 FHD (r),https://s.rocketdns.info/live/40638929/22479714/2335.ts,ONLINE,FHD
- TNT 3 HD (k),http://kstv.us:8080/Rojas67/55718118565/47852,ONLINE,HD
- TNT 4 FHD (r),https://s.rocketdns.info/live/40638929/22479714/675021.ts,ONLINE,FHD
- TNT 4 HD (k),http://kstv.us:8080/Rojas67/55718118565/47853,ONLINE,HD
- USA Network HD (r),https://s.rocketdns.info/live/40638929/22479714/3767.ts,ONLINE,HD
- USA Network SD (r),https://s.rocketdns.info/live/40638929/22479714/21612.ts,ONLINE,SD
- USA Network HD (r),https://s.rocketdns.info/live/40638929/22479714/3848.ts,ONLINE,HD
- USA Network HD (k),http://kstv.us:8080/Rojas67/55718118565/15905,ONLINE,HD
- CBS Sports Network HD (r),https://s.rocketdns.info/live/40638929/22479714/3712.ts,ONLINE,HD
- CBS Sports Network FHD (r),https://s.rocketdns.info/live/40638929/22479714/21565.ts,ONLINE,FHD
- CBS Sports Network FHD (r),https://s.rocketdns.info/live/40638929/22479714/3621.ts,ONLINE,FHD
- CBS Sports Network HD (k),http://kstv.us:8080/Rojas67/55718118565/15944,ONLINE,HD
- TUDN HD (r),https://s.rocketdns.info/live/40638929/22479714/4640.ts,ONLINE,HD
- TUDN FHD (k),http://kstv.us:8080/Rojas67/55718118565/23235,ONLINE,FHD
- Sportsnet One Canada FHD (r),https://s.rocketdns.info/live/40638929/22479714/3071.ts,ONLINE,FHD
- Sportsnet One Canada HD (k),http://kstv.us:8080/Rojas67/55718118565/15930,ONLINE,FHD
- Sportsnet 360 Canada FHD (r),https://s.rocketdns.info/live/40638929/22479714/3073.ts,ONLINE,FHD
- Sportsnet 360 Canada HD (k),http://kstv.us:8080/Rojas67/55718118565/40618,ONLINE,HD
- Sportsnet World Canada FHD (r),https://s.rocketdns.info/live/40638929/22479714/88060.ts,ONLINE,FHD
- Sportsnet World Canada FHD (k),http://kstv.us:8080/Rojas67/55718118565/15936,ONLINE,FHD
+Channel Name,URL,Status,Response
+ Tennis Channel (k),http://kstv.us:8080/Rojas67/55718118565/22467,ONLINE,800.17ms
+ Tennis Channel (k),http://kstv.us:8080/Rojas67/55718118565/15940,ONLINE,609.44ms
+ Tennis Channel (r),https://s.rocketdns.info/live/40638929/22479714/3762.ts,ONLINE,2297.73ms
+ Tennis Channel 2 (AKA),https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8,ONLINE,244.18ms
+ Tennis Channel 2 (Famelack),https://pb-vuh0zokcxo4al.akamaized.net/T2540.m3u8,ONLINE,259.39ms
+ TV4 Tennis (r),https://s.rocketdns.info/live/40638929/22479714/1179934.ts,OFFLINE,3255.96ms
+ Sky Sports Tennis (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/428098.ts,ONLINE,1876.85ms
+ TSN 1 (decentdoubts),https://stream.decentdoubts.net/805/index.m3u8,ONLINE,419.95ms
+ TSN 1 (k),http://kstv.us:8080/Rojas67/55718118565/40651,ONLINE,466.71ms
+ TSN 1 (k),http://kstv.us:8080/Rojas67/55718118565/15929,ONLINE,410.54ms
+ TSN 1 (r),https://s.rocketdns.info/live/40638929/22479714/3146.ts,ONLINE,3163.28ms
+ TSN 2 (decentdoubts),https://stream.decentdoubts.net/806/index.m3u8,ONLINE,1190.72ms
+ TSN 2 (k),http://kstv.us:8080/Rojas67/55718118565/15928,ONLINE,1567.73ms
+ TSN 2 (k),http://kstv.us:8080/Rojas67/55718118565/40650,ONLINE,464.94ms
+ TSN 2 (r),https://s.rocketdns.info/live/40638929/22479714/3145.ts,ONLINE,2487.38ms
+ TSN 3 (decentdoubts),https://stream.decentdoubts.net/807/index.m3u8,ONLINE,1220.10ms
+ TSN 3 (k),http://kstv.us:8080/Rojas67/55718118565/40649,ONLINE,1142.69ms
+ TSN 3 (k),http://kstv.us:8080/Rojas67/55718118565/15927,ONLINE,1330.85ms
+ TSN 3 (r),https://s.rocketdns.info/live/40638929/22479714/3144.ts,ONLINE,3809.00ms
+ TSN 4 (decentdoubts),https://stream.decentdoubts.net/808/index.m3u8,ONLINE,330.67ms
+ TSN 4 (k),http://kstv.us:8080/Rojas67/55718118565/40648,ONLINE,1234.70ms
+ TSN 4 (k),http://kstv.us:8080/Rojas67/55718118565/15926,ONLINE,412.78ms
+ TSN 4 (r),https://s.rocketdns.info/live/40638929/22479714/3143.ts,ONLINE,1411.30ms
+ TSN 5 (decentdoubts),https://stream.decentdoubts.net/809/index.m3u8,ONLINE,310.51ms
+ TSN 5 (k),http://kstv.us:8080/Rojas67/55718118565/15925,ONLINE,409.77ms
+ TSN 5 (k),http://kstv.us:8080/Rojas67/55718118565/40647,ONLINE,463.97ms
+ TSN 5 (r),https://s.rocketdns.info/live/40638929/22479714/3142.ts,ONLINE,1237.39ms
+ DAZN 1 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/926.ts,OFFLINE,1396.37ms
+ DAZN 1 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/925.ts,HTTP 403,
+ DAZN 1 Portugal (k),http://kstv.us:8080/Rojas67/55718118565/48443,ONLINE,639.60ms
+ DAZN 2 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/924.ts,ONLINE,2369.04ms
+ DAZN 2 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/923.ts,ONLINE,1291.12ms
+ DAZN 2 Portugal (k),http://kstv.us:8080/Rojas67/55718118565/48444,ONLINE,1601.27ms
+ DAZN 3 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/922.ts,HTTP 403,
+ DAZN 3 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/921.ts,ONLINE,2181.42ms
+ DAZN 3 Portugal (k),http://kstv.us:8080/Rojas67/55718118565/48445,ONLINE,805.40ms
+ DAZN 4 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/920.ts,ONLINE,1295.31ms
+ DAZN 4 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/919.ts,HTTP 403,
+ DAZN 4 Portugal (k),http://kstv.us:8080/Rojas67/55718118565/48446,ONLINE,1668.28ms
+ Sky Sports Premier League (k),http://kstv.us:8080/Rojas67/55718118565/47871,ONLINE,1051.87ms
+ Sky Sports Premier League (r),https://s.rocketdns.info/live/40638929/22479714/2181.ts,ONLINE,3566.90ms
+ Sky Sports Premier League (r),https://s.rocketdns.info/live/40638929/22479714/2182.ts,ONLINE,4580.12ms
+ Sky Sports Premier League (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/659431.ts,ONLINE,3597.82ms
+ Sky Sports Premier League (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/659466.ts,ONLINE,2659.64ms
+ Sky Sports Premier League (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/9891.ts,ONLINE,1213.80ms
+ Sky Sports Premier League (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/23342.ts,ONLINE,1450.85ms
+ Sky Sports Premier League (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/122410.ts,ONLINE,1136.34ms
+ Sky Sports Premier League (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/186603.ts,ONLINE,2181.99ms
+ Sky Sports Premier League (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/186604.ts,ONLINE,1091.43ms
+ Sky Sports Football (k),http://kstv.us:8080/Rojas67/55718118565/100767,HTTP 406,
+ Sky Sports Football (r),https://s.rocketdns.info/live/40638929/22479714/2188.ts,ONLINE,3565.01ms
+ Sky Sports Football (r),https://s.rocketdns.info/live/40638929/22479714/30822.ts,ONLINE,1921.16ms
+ Supersport Premier League (k),http://kstv.us:8080/Rojas67/55718118565/47633,ONLINE,412.70ms
+ Hub Premier 1 (l),http://lunar.pm:8080/Mrdon/4782314540/110288,ONLINE,977.79ms
+ Hub Premier 1 (m),http://cdn.milonge33v.store/live/Nicola/Nicola/29397.ts,ONLINE,826.74ms
+ Hub Premier 1 (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/148158.ts,ONLINE,1133.76ms
+ Hub Premier 2 (l),http://lunar.pm:8080/Mrdon/4782314540/110289,OFFLINE,2649.82ms
+ Hub Premier 2 (m),http://cdn.milonge33v.store/live/Nicola/Nicola/76418.ts,ONLINE,835.67ms
+ Hub Premier 2 (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/148159.ts,ONLINE,2081.96ms
+ Now Premier League 1 (l),http://lunar.pm:8080/Mrdon/4782314540/117457,OFFLINE,
+ Now Premier League 2 (l),http://lunar.pm:8080/Mrdon/4782314540/117458,OFFLINE,OFFLINE
+ Sky Sports Main Event (k),http://kstv.us:8080/Rojas67/55718118565/47868,ONLINE,646.59ms
+ Sky Sports Main Event (r),https://s.rocketdns.info/live/40638929/22479714/2185.ts,ONLINE,2689.30ms
+ Sky Sports Main Event (r),https://s.rocketdns.info/live/40638929/22479714/2184.ts,ONLINE,3775.00ms
+ Sky Sports Main Event (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/581305.ts,ONLINE,1174.59ms
+ Sky Sports Main Event (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/384215.ts,ONLINE,3711.17ms
+ Sky Sports Main Event (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/122409.ts,ONLINE,1141.19ms
+ Sky Sports Main Event (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/186596.ts,ONLINE,1278.19ms
+ Sky Sports Main Event (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/186597.ts,ONLINE,2676.72ms
+ Sky Sports Plus (k),http://kstv.us:8080/Rojas67/55718118565/47863,ONLINE,448.48ms
+ Sky Sports Plus (r),https://s.rocketdns.info/live/40638929/22479714/2193.ts,OFFLINE,4488.72ms
+ ESPN Argentina (r),https://s.rocketdns.info/live/40638929/22479714/2865.ts,ONLINE,1928.25ms
+ ESPN Brazil (r),https://s.rocketdns.info/live/40638929/22479714/803.ts,ONLINE,2228.60ms
+ ESPN Deportes (k),http://kstv.us:8080/Rojas67/55718118565/47105,ONLINE,1215.75ms
+ ESPN Brazil (k),http://kstv.us:8080/Rojas67/55718118565/46447,ONLINE,1128.56ms
+ ESPN Suriname (k),http://kstv.us:8080/Rojas67/55718118565/47111,ONLINE,430.87ms
+ ESPN 2 Argentina (k),http://kstv.us:8080/Rojas67/55718118565/47099,ONLINE,1421.08ms
+ ESPN 2 Argentina (r),https://s.rocketdns.info/live/40638929/22479714/1636.ts,ONLINE,1709.37ms
+ ESPN 2 Brazil (k),http://kstv.us:8080/Rojas67/55718118565/46446,ONLINE,1996.17ms
+ ESPN 2 Suriname (k),http://kstv.us:8080/Rojas67/55718118565/47100,ONLINE,478.99ms
+ ESPN 2 Latin (r),https://s.rocketdns.info/live/40638929/22479714/558865.ts,ONLINE,1266.06ms
+ Bein Sports 1 (r),https://s.rocketdns.info/live/40638929/22479714/714411.ts,ONLINE,2567.64ms
+ Bein Sports 1 (k),http://kstv.us:8080/Rojas67/55718118565/12554,ONLINE,878.80ms
+ Bein Sports 1 (r),https://s.rocketdns.info/live/40638929/22479714/659436.ts,ONLINE,2858.67ms
+ Bein Sports 1 (r),https://s.rocketdns.info/live/40638929/22479714/659439.ts,ONLINE,3056.28ms
+ Bein Sports 2 (r),https://s.rocketdns.info/live/40638929/22479714/659428.ts,ONLINE,3031.48ms
+ Bein Sports 2 (k),http://kstv.us:8080/Rojas67/55718118565/12553,ONLINE,1883.53ms
+ Bein Sports 2 (r),https://s.rocketdns.info/live/40638929/22479714/659437.ts,ONLINE,2065.30ms
+ ESPN US (r),https://s.rocketdns.info/live/40638929/22479714/3725.ts,ONLINE,1704.52ms
+ ESPN US (k),http://kstv.us:8080/Rojas67/55718118565/15951,ONLINE,1064.60ms
+ ESPN US (s),http://snowbank.houseinventer.com/6500/index.m3u8,ONLINE,147.53ms
+ ESPN 2 US (r),https://s.rocketdns.info/live/40638929/22479714/3726.ts,ONLINE,2661.77ms
+ ESPN 2 US (r),https://s.rocketdns.info/live/40638929/22479714/3637.ts,ONLINE,2157.03ms
+ ESPN 2 US (r),https://s.rocketdns.info/live/40638929/22479714/2581.ts,ONLINE,1935.39ms
+ ESPN 2 US (k),http://kstv.us:8080/Rojas67/55718118565/15950,ONLINE,411.91ms
+ ESPN 2 US (s),http://snowbank.houseinventer.com/6501/index.m3u8,ONLINE,151.48ms
+ Eurosport 1 Portugal (k),http://kstv.us:8080/Rojas67/55718118565/48449,ONLINE,660.93ms
+ Eurosport 1 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/911.ts,ONLINE,1384.90ms
+ Eurosport 1 UK (k),http://kstv.us:8080/Rojas67/55718118565/47854,HTTP 403,
+ Eurosport 2 Portugal (k),http://kstv.us:8080/Rojas67/55718118565/48450,ONLINE,1110.30ms
+ Eurosport 2 Portugal (r),https://s.rocketdns.info/live/40638929/22479714/910.ts,ONLINE,1222.40ms
+ Eurosport 2 UK (k),http://kstv.us:8080/Rojas67/55718118565/47855,ONLINE,425.75ms
+ Sport TV 1 (r),https://s.rocketdns.info/live/40638929/22479714/848.ts,ONLINE,1452.09ms
+ Sport TV 1 (k),http://kstv.us:8080/Rojas67/55718118565/48496,ONLINE,1597.10ms
+ Sport TV 2 (r),https://s.rocketdns.info/live/40638929/22479714/846.ts,ONLINE,1216.53ms
+ Sport TV 2 (k),http://kstv.us:8080/Rojas67/55718118565/48497,ONLINE,2056.65ms
+ Sport TV 3 (r),https://s.rocketdns.info/live/40638929/22479714/844.ts,ONLINE,5413.20ms
+ Sport TV 3 (k),http://kstv.us:8080/Rojas67/55718118565/48498,ONLINE,2625.69ms
+ Sport TV 4 (r),https://s.rocketdns.info/live/40638929/22479714/842.ts,ONLINE,4040.73ms
+ Sport TV 4 (k),http://kstv.us:8080/Rojas67/55718118565/48499,ONLINE,651.23ms
+ Sport TV 5 (r),https://s.rocketdns.info/live/40638929/22479714/839.ts,ONLINE,1294.03ms
+ Sport TV 5 (k),http://kstv.us:8080/Rojas67/55718118565/48500,ONLINE,1677.24ms
+ TNT 1 (r),https://s.rocketdns.info/live/40638929/22479714/2337.ts,ONLINE,2503.79ms
+ TNT 1 (k),http://kstv.us:8080/Rojas67/55718118565/47850,ONLINE,1081.77ms
+ TNT 1 (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/286.ts,ONLINE,3263.16ms
+ TNT 2 (r),https://s.rocketdns.info/live/40638929/22479714/2336.ts,ONLINE,3304.34ms
+ TNT 2 (k),http://kstv.us:8080/Rojas67/55718118565/47851,ONLINE,1376.24ms
+ TNT 2 (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/23565.ts,ONLINE,1429.14ms
+ TNT 3 (r),https://s.rocketdns.info/live/40638929/22479714/2335.ts,ONLINE,2244.13ms
+ TNT 3 (k),http://kstv.us:8080/Rojas67/55718118565/47852,ONLINE,2008.08ms
+ TNT 3 (s),https://starshare.st/live/PeH5kPWFfG/infamous7funny/283.ts,ONLINE,2659.05ms
+ TNT 4 (r),https://s.rocketdns.info/live/40638929/22479714/675021.ts,ONLINE,2682.10ms
+ TNT 4 (k),http://kstv.us:8080/Rojas67/55718118565/47853,ONLINE,696.20ms
+ TNT 4 (k),https://starshare.st/live/PeH5kPWFfG/infamous7funny/255259.ts,ONLINE,2242.98ms
+ USA Network (r),https://s.rocketdns.info/live/40638929/22479714/3767.ts,ONLINE,2583.34ms
+ USA Network (k),http://kstv.us:8080/Rojas67/55718118565/15905,ONLINE,1174.95ms
+ CBS SN (r),https://s.rocketdns.info/live/40638929/22479714/21565.ts,ONLINE,3167.22ms
+ CBS SN (r),https://s.rocketdns.info/live/40638929/22479714/3621.ts,ONLINE,1372.13ms
+ CBS SN (k),http://kstv.us:8080/Rojas67/55718118565/15944,ONLINE,790.74ms
+ CBS SN (s),http://snowbank.houseinventer.com/7007/index.m3u8,ONLINE,147.16ms
+ TUDN (r),https://s.rocketdns.info/live/40638929/22479714/4640.ts,ONLINE,7900.13ms
+ TUDN (k),http://kstv.us:8080/Rojas67/55718118565/23235,ONLINE,877.49ms
+ Fox Sports 1 (r),https://s.rocketdns.info/live/40638929/22479714/2501.ts,ONLINE,3148.82ms
+ Fox Sports 1 (r),https://s.rocketdns.info/live/40638929/22479714/3732.ts,ONLINE,2277.99ms
+ Fox Sports 1 (r),https://s.rocketdns.info/live/40638929/22479714/21592.ts,ONLINE,1018.87ms
+ Fox Sports 1 (k),http://kstv.us:8080/Rojas67/55718118565/22526,ONLINE,1830.41ms
+ Fox Sports 1 (k),http://kstv.us:8080/Rojas67/55718118565/15948,ONLINE,408.04ms
+ Fox Sports 2 (r),https://s.rocketdns.info/live/40638929/22479714/2500.ts,ONLINE,4709.08ms
+ Fox Sports 2 (r),https://s.rocketdns.info/live/40638929/22479714/3646.ts,ONLINE,2901.77ms
+ Fox Sports 2 (r),https://s.rocketdns.info/live/40638929/22479714/21593.ts,ONLINE,2657.71ms
+ Fox Sports 2 (k),http://kstv.us:8080/Rojas67/55718118565/22525,ONLINE,1827.66ms
+ Fox Sports 2 (k),http://kstv.us:8080/Rojas67/55718118565/15947,ONLINE,420.96ms
+ Sportsnet One Canada (r),https://s.rocketdns.info/live/40638929/22479714/3071.ts,ONLINE,1178.88ms
+ Sportsnet One Canada (k),http://kstv.us:8080/Rojas67/55718118565/15930,ONLINE,422.25ms
+ Sportsnet 360 Canada (r),https://s.rocketdns.info/live/40638929/22479714/3073.ts,ONLINE,1119.40ms
+ Sportsnet 360 Canada (k),http://kstv.us:8080/Rojas67/55718118565/40618,ONLINE,475.16ms
+ Sportsnet World Canada (r),https://s.rocketdns.info/live/40638929/22479714/88060.ts,ONLINE,1897.99ms
+ Sportsnet World Canada (k),http://kstv.us:8080/Rojas67/55718118565/15936,ONLINE,1633.13ms
