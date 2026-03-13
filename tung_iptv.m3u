@@ -20,13 +20,13 @@ https://restream-live.realiptv.to/53420573/53717218/3685
 https://7pal.short.gy/ssportstn
 
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (7PAL)
-https://7pal.short.gy/ssportstn
-
-
 ### famelack.com
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel-2.png", Tennis Channel 2 (f)
 https://pb-vuh0zokcxo4al.akamaized.net/T21080.m3u8
+
+
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (7PAL)
+https://7pal.short.gy/ssportstn
 
 
 ### gitgud.io/Cobra4x2/stuff/-/blob/master/MadTitan-eplaylist.m3u8
