@@ -16,6 +16,13 @@ https://restream-live.realiptv.to/53420573/53717218/3762
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (r)
 https://restream-live.realiptv.to/53420573/53717218/3685
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/328794
+
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/328794
+
+
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (7PAL)
 https://7pal.short.gy/ssportstn
 
@@ -104,6 +111,18 @@ http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/35264
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (b2)
 http://fortv.cc:8080/phi@live.ca/phi@3574/35264
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/29988
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/35371
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/29988
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/35371
+
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (k)
 http://kstv.us:8080/Freshcobar23/83261331891/48444
@@ -113,6 +132,18 @@ https://restream-live.realiptv.to/53420573/53717218/924
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (r)
 https://restream-live.realiptv.to/53420573/53717218/923
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/29987
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/35372
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/29987
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 Portugal (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/35372
 
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 Portugal (k)
@@ -124,6 +155,18 @@ https://restream-live.realiptv.to/53420573/53717218/922
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 Portugal (r)
 https://restream-live.realiptv.to/53420573/53717218/921
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 Portugal (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/29986
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 Portugal (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/35373
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 Portugal (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/29986
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 Portugal (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/35373
+
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (k)
 http://kstv.us:8080/Freshcobar23/83261331891/48446
@@ -133,6 +176,18 @@ https://restream-live.realiptv.to/53420573/53717218/920
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (r)
 https://restream-live.realiptv.to/53420573/53717218/919
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/29985
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (i1)
+http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/79943
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/29985
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 Portugal (i2)
+http://ipro2.pro2-ott.com/aabid3312/33091256f/79943
 
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Brazil (k)
