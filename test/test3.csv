@@ -1,0 +1,25 @@
+host,username,password,status,created_at,exp_date,active_cons,max_connections,movies_count,shows_count,channels_count,has_adult
+http://78.159.101.179:2082,xplus-2-GQns5Gqsk2,iXvQaMkhfN,Active,2022-08-02 19:54:26,2031-12-21 16:09:38,0,4,1,1,633,True
+http://cord-cutter.net:8080,pgUQ6S,737733,Active,2022-01-01 05:00:00,2026-07-01 04:00:00,0,5,13614,1027,6724,False
+http://cord-cutter.net:8080,JayjsGarage@gmail.com,kxhm8kh9he,Active,2022-01-14 04:01:31,2027-01-18 20:40:11,0,5,29183,1027,7228,True
+http://cord-cutter.net:8080,885522,225588,Active,2025-08-16 04:00:00,2026-08-17 04:00:00,3,10,13624,1027,7228,True
+http://cord-cutter.net:8080,Abxc5k,363887,Active,2023-11-19 05:00:00,2026-11-19 05:00:00,8,8,13624,1027,7228,True
+http://cord-cutter.net:8080,81018618,19222307,Active,2025-01-23 05:00:00,2027-01-23 05:00:00,9,10,13624,1027,7228,True
+http://europe.siriusfiber.xyz:80,merolbekir,a.26082023s,Active,2022-05-26 19:18:16,2026-08-29 17:08:13,1,1,16679,3521,10231,False
+http://fortv.cc:8080,rkruja@hotmail.com,zwX3gpy7nP,Active,2023-03-07 20:47:51,2026-09-23 19:47:51,0,5,29183,1027,7228,True
+http://fortv.cc:8080,104446609,104446609,Active,2024-06-12 23:01:54,2026-06-26 23:01:54,3,5,29173,1027,6724,False
+http://gomn.xplus2.xyz:2082,Tourobox1-xM0ZvKJI3H,dBLfUEvQko,Active,2022-11-13 00:01:09,2033-08-10 06:45:02,0,4,0,0,NA,False
+http://gomn.xplus2.xyz:2095,suspected-TR1-PowbEMu9vd,1SZqJllvA1,Active,2022-11-13 00:01:09,2033-08-08 09:21:52,0,4,0,0,NA,False
+http://kaantv.site:8000,kaan19897,56tred4f84e,Active,2021-12-21 17:30:58,2026-12-16 08:50:00,1,1,4811,316,525,False
+http://lunar.pm:8080,2053567187,jDVhKP3RQKUM,Active,2024-09-12 17:13:11,2026-10-12 17:42:48,5,3,0,0,6301,True
+http://nocable.cc:8080,Darrenshannon76@2.0,Darrenshannon76@2.0,Active,2023-12-12 18:24:50,2026-12-14 18:24:50,0,5,29183,1027,7228,True
+http://nocable.cc:8080,4wgpZN,006253,Active,2023-09-14 04:00:00,2026-09-14 04:00:00,4,5,13624,1027,7228,True
+http://solution62000.mine.nu:8000,Thibault_nail78,07022024,Active,2024-02-07 11:13:51,2027-02-12 23:00:00,0,1,2836,998,1309,False
+http://supersonictv.live:8080,Shacara1,Shacara1,Active,2024-03-09 02:09:09,2026-04-09 01:09:09,0,2,0,0,9083,True
+http://supersonictv.live:8080,Calvin123,Calvin123,Active,2023-06-10 20:39:49,2026-04-11 02:54:16,1,2,0,0,9083,True
+http://tvmate.icu:8080,Zq6hwm,108465,Active,2023-06-29 04:00:00,2026-06-29 04:00:00,0,8,13614,1027,6724,False
+http://tvmate.icu:8080,eQ4dKe,308442,Active,2024-06-30 04:00:00,2026-06-30 04:00:00,1,8,13624,1027,7228,True
+http://tvpromas.com:2082,maldonadoluis,frEbTPk9DN3L,Active,2021-08-09 23:42:11,2026-05-11 00:15:00,0,3,10660,1172,8988,True
+http://world-panel.co:8080,antover,veraldi,Active,2020-06-09 16:52:17,2026-06-16 15:56:50,0,1,16041,1377,915,True
+http://xuim.xyz:8080,dec123,dec123@,Active,2025-11-30 18:05:21,2026-12-01 18:05:21,4,5,29183,1027,7228,True
+http://yrtds0911.xyz:8080,cmm8078,cmm.2201,Active,2021-05-07 20:17:59,2027-02-10 11:18:00,3,3,31980,1872,6671,True
