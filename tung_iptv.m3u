@@ -16,16 +16,14 @@ https://restream-live.realiptv.to/53420573/53717218/3762
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (r)
 https://restream-live.realiptv.to/53420573/53717218/3685
 
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (b)
+http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/20184
+
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (i1)
 http://ipro.ipremium-ott.com/BADJA2024/MAWSE310/328794
 
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (i2)
 http://ipro2.pro2-ott.com/aabid3312/33091256f/328794
-
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (7PAL)
-https://7pal.short.gy/ssportstn
-
 
 ### famelack.com
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel-2.png", Tennis Channel 2 (f)
@@ -205,6 +203,9 @@ http://kstv.us:8080/Freshcobar23/83261331891/47111
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Caribbean (b1)
 http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/99624
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Caribbean (b1)
+http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/66372
+
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 2 Argentina (k)
 http://kstv.us:8080/Freshcobar23/83261331891/47099
@@ -220,6 +221,9 @@ http://kstv.us:8080/Freshcobar23/83261331891/47100
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 Latin (r)
 https://restream-live.realiptv.to/53420573/53717218/558865
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 Caribbean (b1)
+http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/99623
 
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 (k)
@@ -280,6 +284,9 @@ http://kstv.us:8080/Freshcobar23/83261331891/15905
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (r)
 https://restream-live.realiptv.to/53420573/53717218/3767
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (b)
+http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/10252
 
 
 

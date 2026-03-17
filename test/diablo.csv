@@ -1,9 +1,0 @@
-host,username,password,status,created_at,exp_date,active_cons,max_connections,url,server_protocol,movies_count,shows_count,channels_count,has_adult
-http://tv.diablotv.net:8080,everistobonilla1,1dc3b371a8f8,Active,2022-04-13 13:27:32,2026-06-04 19:29:18,2.0,3.0,tv.diablotv.net,http,13362,1222,2577,True
-http://tv.diablotv.net:8080,TonyMercado2,da72f51dced3,Active,2021-04-01 03:07:34,2027-09-14 03:07:34,3.0,3.0,tv.diablotv.net,http,13362,1222,2577,True
-http://tv.diablotv.net:8080,ELLtdmaiz204fj,ScMZEQzYga,Active,2024-07-18 03:34:53,2026-03-26 21:56:00,96.0,100.0,tv.diablotv.net,http,3,0,2581,True
-http://tv.diablotv.net:8080,solanolaura1,1fe1810482d9,NA,NaT,NaT,,,,,1,1,1,False
-http://tv.diablotv.net:8080,andrespuentes0116,94e66534d9f3,NA,NaT,NaT,,,,,1,1,1,False
-http://tv.diablotv.net:8080,carolibethmancilla,6qqBHE4TWM,NA,NaT,NaT,,,,,1,1,1,False
-http://tv.diablotv.net:8080,sMwRyaTRFp,2ye2gF5447,NA,NaT,NaT,,,,,1,1,1,False
-http://tv.diablotv.net:8080,JORGEestay,80b65483ec28,NA,NaT,NaT,,,,,1,1,1,False
