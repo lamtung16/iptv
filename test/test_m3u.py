@@ -7,7 +7,7 @@ M3U_FILE = "../tung_iptv.m3u"
 OUTPUT_FILE = "channel_status.csv"
 
 HEADERS = {
-    "User-Agent": "TiviMate/5.2.0 (Linux; Android 10)"
+    "User-Agent": "VLC/3.0.20"
 }
 
 def parse_m3u(file_path):
