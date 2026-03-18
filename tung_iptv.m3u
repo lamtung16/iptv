@@ -103,6 +103,9 @@ https://restream-live.realiptv.to/53420573/53717218/926
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (r)
 https://restream-live.realiptv.to/53420573/53717218/925
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (b)
+http://31.43.191.125:8080/VIP01801700452433001/6760f86de020/99475
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 Portugal (b1)
 http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35264
 
@@ -197,6 +200,9 @@ https://restream-live.realiptv.to/53420573/53717218/803
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Argentina (r)
 https://restream-live.realiptv.to/53420573/53717218/2865
 
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Argentina (b)
+http://31.43.191.125:8080/VIP01801700452433001/6760f86de020/4757
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN Suriname (k)
 http://kstv.us:8080/Freshcobar23/83261331891/47111
 
@@ -212,6 +218,9 @@ http://kstv.us:8080/Freshcobar23/83261331891/47099
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 Argentina (r)
 https://restream-live.realiptv.to/53420573/53717218/1636
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN 2 Argentina (b)
+http://31.43.191.125:8080/VIP01801700452433001/6760f86de020/4758
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 Brazil (k)
 http://kstv.us:8080/Freshcobar23/83261331891/46446
