@@ -4,9 +4,9 @@ from datetime import datetime, UTC
 from urllib.parse import quote
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-INPUT_FILE = "test.csv"
-OUTPUT_FILE = "test.csv"
-MAX_WORKERS = 20
+INPUT_FILE = "a.csv"
+OUTPUT_FILE = "a.csv"
+MAX_WORKERS = 32
 
 HEADERS = {
     "User-Agent": "Tivimate 5.1.6"
@@ -47,7 +47,7 @@ def process_row(row):
 
     try:
         # 🔥 FAST FAIL: main API
-        r = session.get(base_api, timeout=(1.5, 2))
+        r = session.get(base_api, timeout=(5, 10))
         data = r.json()
 
         user_info = data.get("user_info", {})
@@ -61,11 +61,6 @@ def process_row(row):
         exp_date = unix_to_date(user_info.get("exp_date"))
         active_cons = user_info.get("active_cons")
         max_connections = user_info.get("max_connections")
-
-        # ⚡ OPTIONAL: skip heavy calls if already expired
-        if exp_date != "NA" and "1970" not in exp_date:
-            if pd.to_datetime(exp_date, errors="coerce") < pd.Timestamp.utcnow():
-                return None
 
         # ---------------- LIGHT CHECK ONLY ----------------
         # Only count lengths quickly, no retries

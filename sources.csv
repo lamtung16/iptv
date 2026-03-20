@@ -1,0 +1,4 @@
+server_id,host,username,password,url_format
+kstv,http://kstv.us:8080,Freshcobar23,83261331891,{host}/{username}/{password}/{channel_id}
+rocket,https://restream-live.realiptv.to,53420573,53717218,{host}/{username}/{password}/{channel_id}
+xxip9,http://tvmate.icu:8080,sales@dellerstechshop.ca,sales@4889,{host}/{username}/{password}/{channel_id}
