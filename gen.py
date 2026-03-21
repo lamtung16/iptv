@@ -45,5 +45,5 @@ with open("channels.csv", newline="", encoding="utf-8") as f:
                 m3u_lines.append("")
 
 # Write output file
-with open("full.m3u", "w", encoding="utf-8") as f:
+with open("tung_iptv.m3u", "w", encoding="utf-8") as f:
     f.write("\n".join(m3u_lines))
