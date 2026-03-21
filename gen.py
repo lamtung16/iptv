@@ -14,7 +14,7 @@ with open("sources.csv", newline="", encoding="utf-8") as f:
         sources[row["server_id"]] = row
 
 # Prepare output
-m3u_lines = ["#EXTM3U"]
+m3u_lines = ['#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n']
 
 # Read channels.csv
 with open("channels.csv", newline="", encoding="utf-8") as f:
@@ -23,8 +23,9 @@ with open("channels.csv", newline="", encoding="utf-8") as f:
     for row in reader:
         group = row["group"]
         channel = row["channel"]
+        tvg_id = row["tvg_id"]
 
-        for source_name in reader.fieldnames[2:]:
+        for source_name in reader.fieldnames[3:]:
             ids = parse_id_list(row[source_name])
             if not ids:
                 continue
@@ -38,7 +39,7 @@ with open("channels.csv", newline="", encoding="utf-8") as f:
             for cid in ids:
                 url = url_format.format(host=host, username=username, password=password,channel_id=cid)                
                 logo = f'https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/{channel.lower().replace(" ", "-")}.png'
-                extinf = (f'#EXTINF:-1 group-title="{group}" tvg-logo="{logo}", {channel} ({source_name[0]})')
+                extinf = (f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}", {channel} ({source_name[0]})')
                 m3u_lines.append(extinf)
                 m3u_lines.append(url)
                 m3u_lines.append("")
