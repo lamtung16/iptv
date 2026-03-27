@@ -1,155 +1,233 @@
 Channel Name,URL,Status,Response,Load (MB/s)
- Tennis Channel (k),http://kstv.us:8080/Freshcobar23/83261331891/22467,ONLINE,1934.71ms,0.06MB/s
- Tennis Channel (k),http://kstv.us:8080/Freshcobar23/83261331891/15940,ONLINE,393.02ms,3.15MB/s
- Tennis Channel (r),https://restream-live.realiptv.to/53420573/53717218/2386,ONLINE,1381.99ms,6.31MB/s
- Tennis Channel (r),https://restream-live.realiptv.to/53420573/53717218/21607,ONLINE,2177.76ms,0.63MB/s
- Tennis Channel (r),https://restream-live.realiptv.to/53420573/53717218/3762,ONLINE,1172.74ms,1.90MB/s
- Tennis Channel (r),https://restream-live.realiptv.to/53420573/53717218/3685,ONLINE,1662.45ms,3.51MB/s
- Tennis Channel (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/20184,ONLINE,533.84ms,14.27MB/s
- TSN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/15929,ONLINE,546.43ms,12.68MB/s
- TSN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/40651,ONLINE,446.96ms,3.01MB/s
- TSN 1 (r),https://restream-live.realiptv.to/53420573/53717218/3146,ONLINE,1527.79ms,1.31MB/s
- TSN 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/57292,ONLINE,883.63ms,1.19MB/s
- TSN 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/47440,ONLINE,740.73ms,14.99MB/s
- TSN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15928,ONLINE,481.67ms,2.55MB/s
- TSN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/40650,ONLINE,463.31ms,6.43MB/s
- TSN 2 (r),https://restream-live.realiptv.to/53420573/53717218/3145,OFFLINE,N/A,N/A
- TSN 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/16129,ONLINE,2276.63ms,0.11MB/s
- TSN 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/47442,ONLINE,1579.90ms,13.05MB/s
- TSN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/15927,ONLINE,444.44ms,13.17MB/s
- TSN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/40649,ONLINE,550.66ms,4.60MB/s
- TSN 3 (r),https://restream-live.realiptv.to/53420573/53717218/3144,ONLINE,1189.49ms,0.73MB/s
- TSN 3 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/10389,ONLINE,528.90ms,13.97MB/s
- TSN 3 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/47444,ONLINE,2185.70ms,14.37MB/s
- TSN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/15926,ONLINE,410.01ms,3.20MB/s
- TSN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/40648,ONLINE,460.79ms,2.98MB/s
- TSN 4 (r),https://restream-live.realiptv.to/53420573/53717218/3143,ONLINE,1246.17ms,1.07MB/s
- TSN 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/16130,HTTP 502,N/A,N/A
- TSN 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/66783,ONLINE,480.50ms,2.36MB/s
- TSN 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/47446,ONLINE,476.74ms,2.22MB/s
- TSN 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/15925,ONLINE,419.46ms,1.34MB/s
- TSN 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/40647,ONLINE,464.65ms,4.23MB/s
- TSN 5 (r),https://restream-live.realiptv.to/53420573/53717218/3142,ONLINE,1235.75ms,2.72MB/s
- TSN 5 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/57467,OFFLINE,N/A,N/A
- TSN 5 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/16131,ONLINE,481.32ms,2.14MB/s
- TSN 5 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/57295,ONLINE,472.15ms,2.43MB/s
- DAZN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/48443,HTTP 403,N/A,N/A
+ Tennis Channel (k),http://kstv.us:8080/Freshcobar23/83261331891/22467,ONLINE,598.23ms,1.06MB/s
+ Tennis Channel (k),http://kstv.us:8080/Freshcobar23/83261331891/15940,ONLINE,306.86ms,2.09MB/s
+ Tennis Channel (r),https://restream-live.realiptv.to/53420573/53717218/2386,ONLINE,891.97ms,2.10MB/s
+ Tennis Channel (r),https://restream-live.realiptv.to/53420573/53717218/21607,ONLINE,872.58ms,0.25MB/s
+ Tennis Channel (r),https://restream-live.realiptv.to/53420573/53717218/3762,ONLINE,901.04ms,1.15MB/s
+ Tennis Channel (r),https://restream-live.realiptv.to/53420573/53717218/3685,ONLINE,852.88ms,2.90MB/s
+ Tennis Channel (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/20184,ONLINE,442.77ms,1.71MB/s
+ Tennis Channel (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/43978,OFFLINE,N/A,N/A
+ TSN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/15929,ONLINE,318.52ms,4.30MB/s
+ TSN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/40651,ONLINE,400.07ms,2.29MB/s
+ TSN 1 (r),https://restream-live.realiptv.to/53420573/53717218/3146,ONLINE,1036.97ms,4.12MB/s
+ TSN 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/57292,ONLINE,315.53ms,4.23MB/s
+ TSN 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/47440,ONLINE,505.89ms,2.55MB/s
+ TSN 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/57428,OFFLINE,N/A,N/A
+ TSN 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44208,OFFLINE,N/A,N/A
+ TSN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15928,ONLINE,496.21ms,2.50MB/s
+ TSN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/40650,ONLINE,545.36ms,0.77MB/s
+ TSN 2 (r),https://restream-live.realiptv.to/53420573/53717218/3145,ONLINE,1221.68ms,1.15MB/s
+ TSN 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/16129,ONLINE,506.04ms,1.37MB/s
+ TSN 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/47442,ONLINE,527.74ms,1.49MB/s
+ TSN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/57429,OFFLINE,N/A,N/A
+ TSN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44209,OFFLINE,N/A,N/A
+ TSN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/15927,ONLINE,276.76ms,4.71MB/s
+ TSN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/40649,ONLINE,517.02ms,2.13MB/s
+ TSN 3 (r),https://restream-live.realiptv.to/53420573/53717218/3144,ONLINE,1159.31ms,1.09MB/s
+ TSN 3 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/10389,ONLINE,461.35ms,1.74MB/s
+ TSN 3 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/47444,ONLINE,303.56ms,3.17MB/s
+ TSN 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/57430,OFFLINE,N/A,N/A
+ TSN 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44207,OFFLINE,N/A,N/A
+ TSN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/15926,ONLINE,444.22ms,3.74MB/s
+ TSN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/40648,ONLINE,452.63ms,3.42MB/s
+ TSN 4 (r),https://restream-live.realiptv.to/53420573/53717218/3143,ONLINE,1076.86ms,4.61MB/s
+ TSN 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/16130,ONLINE,335.71ms,4.34MB/s
+ TSN 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/66783,ONLINE,372.74ms,4.36MB/s
+ TSN 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/47446,ONLINE,456.68ms,1.69MB/s
+ TSN 4 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/57431,OFFLINE,N/A,N/A
+ TSN 4 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44206,OFFLINE,N/A,N/A
+ TSN 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/15925,ONLINE,280.20ms,4.25MB/s
+ TSN 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/40647,ONLINE,484.24ms,2.42MB/s
+ TSN 5 (r),https://restream-live.realiptv.to/53420573/53717218/3142,ONLINE,1006.31ms,1.91MB/s
+ TSN 5 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/57467,ONLINE,303.16ms,3.18MB/s
+ TSN 5 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/16131,ONLINE,353.49ms,4.85MB/s
+ TSN 5 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/57295,ONLINE,509.71ms,2.11MB/s
+ TSN 5 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/57432,OFFLINE,N/A,N/A
+ TSN 5 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44205,OFFLINE,N/A,N/A
+ DAZN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/48443,ONLINE,680.79ms,6.31MB/s
  DAZN 1 (r),https://restream-live.realiptv.to/53420573/53717218/673346,HTTP 403,N/A,N/A
- DAZN 1 (r),https://restream-live.realiptv.to/53420573/53717218/926,ONLINE,1402.44ms,1.22MB/s
- DAZN 1 (r),https://restream-live.realiptv.to/53420573/53717218/925,ONLINE,1284.01ms,2.87MB/s
- DAZN 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35264,ONLINE,489.24ms,12.69MB/s
- DAZN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48444,HTTP 403,N/A,N/A
+ DAZN 1 (r),https://restream-live.realiptv.to/53420573/53717218/926,ONLINE,1115.71ms,0.38MB/s
+ DAZN 1 (r),https://restream-live.realiptv.to/53420573/53717218/925,ONLINE,1209.44ms,0.25MB/s
+ DAZN 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35264,ONLINE,491.23ms,0.82MB/s
+ DAZN 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60024,OFFLINE,N/A,N/A
+ DAZN 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60023,OFFLINE,N/A,N/A
+ DAZN 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60025,OFFLINE,N/A,N/A
+ DAZN 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60026,OFFLINE,N/A,N/A
+ DAZN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48444,ONLINE,513.06ms,3.02MB/s
  DAZN 2 (r),https://restream-live.realiptv.to/53420573/53717218/673347,HTTP 403,N/A,N/A
- DAZN 2 (r),https://restream-live.realiptv.to/53420573/53717218/924,ONLINE,1240.87ms,0.99MB/s
- DAZN 2 (r),https://restream-live.realiptv.to/53420573/53717218/923,ONLINE,1239.47ms,5.22MB/s
- DAZN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/48445,ONLINE,641.27ms,1.27MB/s
+ DAZN 2 (r),https://restream-live.realiptv.to/53420573/53717218/924,ONLINE,1066.70ms,2.69MB/s
+ DAZN 2 (r),https://restream-live.realiptv.to/53420573/53717218/923,ONLINE,1050.64ms,2.21MB/s
+ DAZN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60027,OFFLINE,N/A,N/A
+ DAZN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60028,OFFLINE,N/A,N/A
+ DAZN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60029,OFFLINE,N/A,N/A
+ DAZN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60030,OFFLINE,N/A,N/A
+ DAZN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/48445,ONLINE,689.18ms,1.53MB/s
  DAZN 3 (r),https://restream-live.realiptv.to/53420573/53717218/922,HTTP 403,N/A,N/A
- DAZN 3 (r),https://restream-live.realiptv.to/53420573/53717218/921,ONLINE,1219.80ms,0.25MB/s
- DAZN 3 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167748,HTTP 403,N/A,N/A
- DAZN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/48446,ONLINE,625.30ms,1.53MB/s
+ DAZN 3 (r),https://restream-live.realiptv.to/53420573/53717218/921,ONLINE,891.90ms,0.75MB/s
+ DAZN 3 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167748,ONLINE,311.86ms,2.78MB/s
+ DAZN 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60031,OFFLINE,N/A,N/A
+ DAZN 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60032,OFFLINE,N/A,N/A
+ DAZN 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60033,OFFLINE,N/A,N/A
+ DAZN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/48446,ONLINE,528.25ms,1.98MB/s
  DAZN 4 (r),https://restream-live.realiptv.to/53420573/53717218/673349,HTTP 403,N/A,N/A
- DAZN 4 (r),https://restream-live.realiptv.to/53420573/53717218/920,ONLINE,2128.13ms,0.31MB/s
+ DAZN 4 (r),https://restream-live.realiptv.to/53420573/53717218/920,ONLINE,1009.23ms,1.98MB/s
  DAZN 4 (r),https://restream-live.realiptv.to/53420573/53717218/919,HTTP 403,N/A,N/A
  DAZN 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167749,HTTP 403,N/A,N/A
+ DAZN 4 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60035,OFFLINE,N/A,N/A
+ DAZN 4 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60036,OFFLINE,N/A,N/A
+ DAZN 4 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60037,OFFLINE,N/A,N/A
  ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/46445,HTTP 403,N/A,N/A
  ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/46447,HTTP 403,N/A,N/A
- ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/47111,HTTP 403,N/A,N/A
- ESPN (r),https://restream-live.realiptv.to/53420573/53717218/2865,ONLINE,1672.93ms,4.66MB/s
- ESPN (r),https://restream-live.realiptv.to/53420573/53717218/803,ONLINE,1156.77ms,5.43MB/s
- ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/66372,ONLINE,492.40ms,12.13MB/s
- ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/99624,OFFLINE,N/A,N/A
+ ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/47111,OFFLINE,N/A,N/A
+ ESPN (r),https://restream-live.realiptv.to/53420573/53717218/2865,ONLINE,877.51ms,4.60MB/s
+ ESPN (r),https://restream-live.realiptv.to/53420573/53717218/803,ONLINE,1951.40ms,2.71MB/s
+ ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/66372,ONLINE,319.04ms,4.10MB/s
+ ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/99624,ONLINE,407.42ms,3.22MB/s
  ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/164948,HTTP 403,N/A,N/A
  ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/46446,HTTP 403,N/A,N/A
- ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47099,ONLINE,629.01ms,3.46MB/s
- ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47100,ONLINE,405.29ms,2.23MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/1636,ONLINE,1079.72ms,5.41MB/s
- ESPN 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/99623,ONLINE,492.42ms,14.48MB/s
- Bein Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/12554,ONLINE,418.93ms,3.56MB/s
- Bein Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/714411,ONLINE,1274.73ms,1.47MB/s
- Bein Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/659436,ONLINE,1226.98ms,1.14MB/s
- Bein Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/12553,ONLINE,1021.09ms,3.74MB/s
- Bein Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/659437,ONLINE,2437.42ms,0.31MB/s
- Bein Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/659428,ONLINE,1466.79ms,0.25MB/s
- Sky Sports Main Event (k),http://kstv.us:8080/Freshcobar23/83261331891/47868,ONLINE,560.18ms,7.81MB/s
- Sky Sports Main Event (r),https://restream-live.realiptv.to/53420573/53717218/2185,ONLINE,1969.26ms,0.94MB/s
- Sky Sports Main Event (r),https://restream-live.realiptv.to/53420573/53717218/2184,ONLINE,3882.70ms,0.94MB/s
- Sky Sports Main Event (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35243,HTTP 403,N/A,N/A
+ ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47099,ONLINE,283.29ms,2.77MB/s
+ ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47100,ONLINE,296.13ms,4.05MB/s
+ ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/1636,ONLINE,1004.71ms,4.93MB/s
+ ESPN 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/99623,ONLINE,497.07ms,2.09MB/s
+ Bein Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/12554,ONLINE,281.65ms,4.56MB/s
+ Bein Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/714411,ONLINE,1033.72ms,3.81MB/s
+ Bein Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/659436,ONLINE,994.67ms,2.11MB/s
+ Bein Sports 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/14109,OFFLINE,N/A,N/A
+ Bein Sports 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/58757,OFFLINE,N/A,N/A
+ Bein Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/12553,ONLINE,281.07ms,4.22MB/s
+ Bein Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/659437,ONLINE,880.50ms,3.07MB/s
+ Bein Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/659428,ONLINE,1019.58ms,1.25MB/s
+ Bein Sports 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/14108,OFFLINE,N/A,N/A
+ Bein Sports 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/58758,OFFLINE,N/A,N/A
+ Sky Sports Main Event (k),http://kstv.us:8080/Freshcobar23/83261331891/47868,ONLINE,450.24ms,4.66MB/s
+ Sky Sports Main Event (r),https://restream-live.realiptv.to/53420573/53717218/2185,ONLINE,2034.03ms,2.62MB/s
+ Sky Sports Main Event (r),https://restream-live.realiptv.to/53420573/53717218/2184,ONLINE,1880.67ms,2.49MB/s
+ Sky Sports Main Event (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35243,ONLINE,848.85ms,2.27MB/s
  Sky Sports Main Event (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/137720,HTTP 403,N/A,N/A
- Sky Sports Premier League (k),http://kstv.us:8080/Freshcobar23/83261331891/47871,ONLINE,399.06ms,12.51MB/s
- Sky Sports Premier League (r),https://restream-live.realiptv.to/53420573/53717218/2182,ONLINE,2068.91ms,2.11MB/s
- Sky Sports Premier League (r),https://restream-live.realiptv.to/53420573/53717218/2181,ONLINE,2121.76ms,2.25MB/s
- Sky Sports Football (k),http://kstv.us:8080/Freshcobar23/83261331891/47866,ONLINE,439.49ms,11.74MB/s
- Sky Sports Football (r),https://restream-live.realiptv.to/53420573/53717218/2188,ONLINE,1954.66ms,0.99MB/s
- Sky Sports Football (r),https://restream-live.realiptv.to/53420573/53717218/30822,ONLINE,2062.36ms,0.19MB/s
- USA Network (k),http://kstv.us:8080/Freshcobar23/83261331891/15905,ONLINE,1312.76ms,2.19MB/s
- USA Network (r),https://restream-live.realiptv.to/53420573/53717218/21612,ONLINE,1047.63ms,0.96MB/s
- USA Network (r),https://restream-live.realiptv.to/53420573/53717218/3767,ONLINE,1054.28ms,2.66MB/s
- USA Network (r),https://restream-live.realiptv.to/53420573/53717218/3694,ONLINE,1044.65ms,0.80MB/s
- USA Network (r),https://restream-live.realiptv.to/53420573/53717218/3848,ONLINE,1272.06ms,1.29MB/s
- USA Network (r),https://restream-live.realiptv.to/53420573/53717218/2379,ONLINE,1098.80ms,2.13MB/s
- USA Network (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/10252,ONLINE,489.12ms,11.79MB/s
- ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/15951,ONLINE,490.99ms,6.10MB/s
- ESPN (r),https://restream-live.realiptv.to/53420573/53717218/3725,ONLINE,1136.64ms,3.87MB/s
- ESPN (r),https://restream-live.realiptv.to/53420573/53717218/21589,ONLINE,1028.77ms,3.34MB/s
- ESPN (r),https://restream-live.realiptv.to/53420573/53717218/3636,ONLINE,1704.04ms,1.27MB/s
- ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/14197,ONLINE,516.43ms,14.11MB/s
- ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/9802,ONLINE,531.15ms,1.94MB/s
- ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15950,ONLINE,469.30ms,5.20MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/21590,ONLINE,1048.58ms,0.43MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/2581,ONLINE,1186.50ms,2.56MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/3726,ONLINE,1147.93ms,2.65MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/3637,ONLINE,1202.36ms,1.25MB/s
- ESPN 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/2210,ONLINE,476.14ms,13.85MB/s
- Sport TV 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/48496,HTTP 403,N/A,N/A
- Sport TV 1 (r),https://restream-live.realiptv.to/53420573/53717218/849,ONLINE,1229.94ms,0.31MB/s
- Sport TV 1 (r),https://restream-live.realiptv.to/53420573/53717218/848,ONLINE,1220.22ms,0.48MB/s
- Sport TV 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167742,OFFLINE,N/A,N/A
+ Sky Sports Main Event (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/16571,OFFLINE,N/A,N/A
+ Sky Sports Main Event (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/58925,OFFLINE,N/A,N/A
+ Sky Sports Main Event (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/16563,OFFLINE,N/A,N/A
+ Sky Sports Main Event (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/59265,OFFLINE,N/A,N/A
+ Sky Sports Premier League (k),http://kstv.us:8080/Freshcobar23/83261331891/47871,ONLINE,287.03ms,4.65MB/s
+ Sky Sports Premier League (r),https://restream-live.realiptv.to/53420573/53717218/2182,ONLINE,1931.04ms,1.48MB/s
+ Sky Sports Premier League (r),https://restream-live.realiptv.to/53420573/53717218/2181,ONLINE,1771.68ms,2.56MB/s
+ Sky Sports Premier League (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/16559,OFFLINE,N/A,N/A
+ Sky Sports Premier League (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/58924,OFFLINE,N/A,N/A
+ Sky Sports Football (k),http://kstv.us:8080/Freshcobar23/83261331891/47866,ONLINE,450.22ms,3.84MB/s
+ Sky Sports Football (r),https://restream-live.realiptv.to/53420573/53717218/2188,ONLINE,1764.71ms,1.37MB/s
+ Sky Sports Football (r),https://restream-live.realiptv.to/53420573/53717218/30822,ONLINE,1807.98ms,2.30MB/s
+ Sky Sports Football (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/58923,OFFLINE,N/A,N/A
+ Sky Sports Football (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/48551,OFFLINE,N/A,N/A
+ USA Network (k),http://kstv.us:8080/Freshcobar23/83261331891/15905,ONLINE,419.76ms,0.91MB/s
+ USA Network (r),https://restream-live.realiptv.to/53420573/53717218/21612,ONLINE,818.91ms,0.44MB/s
+ USA Network (r),https://restream-live.realiptv.to/53420573/53717218/3767,ONLINE,1005.69ms,1.43MB/s
+ USA Network (r),https://restream-live.realiptv.to/53420573/53717218/3694,ONLINE,765.00ms,0.73MB/s
+ USA Network (r),https://restream-live.realiptv.to/53420573/53717218/3848,ONLINE,842.07ms,4.11MB/s
+ USA Network (r),https://restream-live.realiptv.to/53420573/53717218/2379,ONLINE,892.33ms,4.85MB/s
+ USA Network (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/10252,ONLINE,391.90ms,4.47MB/s
+ USA Network (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/43964,OFFLINE,N/A,N/A
+ USA Network (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/19270,OFFLINE,N/A,N/A
+ ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/15951,ONLINE,445.62ms,4.06MB/s
+ ESPN (r),https://restream-live.realiptv.to/53420573/53717218/3725,ONLINE,1019.38ms,2.57MB/s
+ ESPN (r),https://restream-live.realiptv.to/53420573/53717218/21589,ONLINE,876.48ms,0.83MB/s
+ ESPN (r),https://restream-live.realiptv.to/53420573/53717218/3636,ONLINE,930.17ms,1.92MB/s
+ ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/14197,ONLINE,322.16ms,2.55MB/s
+ ESPN (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/9802,ONLINE,336.22ms,1.07MB/s
+ ESPN (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/47284,OFFLINE,N/A,N/A
+ ESPN (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60190,OFFLINE,N/A,N/A
+ ESPN (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60191,OFFLINE,N/A,N/A
+ ESPN (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/14124,OFFLINE,N/A,N/A
+ ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15950,ONLINE,334.86ms,4.15MB/s
+ ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/21590,ONLINE,821.39ms,2.18MB/s
+ ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/2581,ONLINE,915.66ms,0.48MB/s
+ ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/3726,ONLINE,799.21ms,1.08MB/s
+ ESPN 2 (r),https://restream-live.realiptv.to/53420573/53717218/3637,ONLINE,1008.91ms,2.29MB/s
+ ESPN 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/2210,ONLINE,324.31ms,1.75MB/s
+ ESPN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60192,OFFLINE,N/A,N/A
+ ESPN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44043,OFFLINE,N/A,N/A
+ ESPN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44044,OFFLINE,N/A,N/A
+ ESPN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60193,OFFLINE,N/A,N/A
+ ESPN 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/14123,OFFLINE,N/A,N/A
+ Sport TV 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/48496,ONLINE,752.26ms,6.43MB/s
+ Sport TV 1 (r),https://restream-live.realiptv.to/53420573/53717218/849,ONLINE,1146.55ms,0.59MB/s
+ Sport TV 1 (r),https://restream-live.realiptv.to/53420573/53717218/848,ONLINE,1036.44ms,4.65MB/s
+ Sport TV 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167742,ONLINE,2124.72ms,2.86MB/s
+ Sport TV 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60016,OFFLINE,N/A,N/A
+ Sport TV 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60014,OFFLINE,N/A,N/A
+ Sport TV 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60015,OFFLINE,N/A,N/A
  Sport TV 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48497,OFFLINE,N/A,N/A
- Sport TV 2 (r),https://restream-live.realiptv.to/53420573/53717218/847,ONLINE,4061.80ms,0.05MB/s
- Sport TV 2 (r),https://restream-live.realiptv.to/53420573/53717218/846,ONLINE,2022.35ms,0.13MB/s
- Sport TV 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167743,OFFLINE,N/A,N/A
- Sport TV 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/48498,ONLINE,916.20ms,0.05MB/s
- Sport TV 3 (r),https://restream-live.realiptv.to/53420573/53717218/845,ONLINE,3289.55ms,0.12MB/s
- Sport TV 3 (r),https://restream-live.realiptv.to/53420573/53717218/844,ONLINE,3336.46ms,0.09MB/s
+ Sport TV 2 (r),https://restream-live.realiptv.to/53420573/53717218/847,ONLINE,1121.22ms,0.12MB/s
+ Sport TV 2 (r),https://restream-live.realiptv.to/53420573/53717218/846,ONLINE,1016.94ms,1.06MB/s
+ Sport TV 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167743,ONLINE,307.52ms,2.48MB/s
+ Sport TV 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60018,OFFLINE,N/A,N/A
+ Sport TV 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60017,OFFLINE,N/A,N/A
+ Sport TV 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/48498,OFFLINE,N/A,N/A
+ Sport TV 3 (r),https://restream-live.realiptv.to/53420573/53717218/845,ONLINE,1131.74ms,0.43MB/s
+ Sport TV 3 (r),https://restream-live.realiptv.to/53420573/53717218/844,ONLINE,1021.90ms,4.50MB/s
  Sport TV 3 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167744,HTTP 403,N/A,N/A
+ Sport TV 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60020,OFFLINE,N/A,N/A
+ Sport TV 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60019,OFFLINE,N/A,N/A
  Sport TV 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/48499,HTTP 403,N/A,N/A
- Sport TV 4 (r),https://restream-live.realiptv.to/53420573/53717218/843,ONLINE,1223.07ms,0.54MB/s
- Sport TV 4 (r),https://restream-live.realiptv.to/53420573/53717218/842,ONLINE,3030.77ms,0.11MB/s
- Sport TV 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167745,HTTP 403,N/A,N/A
- Sport TV 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/48500,HTTP 403,N/A,N/A
- Sport TV 5 (r),https://restream-live.realiptv.to/53420573/53717218/840,ONLINE,1254.23ms,0.20MB/s
- Sport TV 5 (r),https://restream-live.realiptv.to/53420573/53717218/839,ONLINE,1171.31ms,1.49MB/s
- Sky Sports Plus (k),http://kstv.us:8080/Freshcobar23/83261331891/47863,ONLINE,419.41ms,6.11MB/s
- Sky Sports Plus (r),https://restream-live.realiptv.to/53420573/53717218/2193,OFFLINE,N/A,N/A
+ Sport TV 4 (r),https://restream-live.realiptv.to/53420573/53717218/843,ONLINE,3102.02ms,0.13MB/s
+ Sport TV 4 (r),https://restream-live.realiptv.to/53420573/53717218/842,ONLINE,1059.43ms,0.25MB/s
+ Sport TV 4 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/167745,ONLINE,1089.25ms,4.16MB/s
+ Sport TV 4 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60021,OFFLINE,N/A,N/A
+ Sport TV 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/48500,ONLINE,519.92ms,3.30MB/s
+ Sport TV 5 (r),https://restream-live.realiptv.to/53420573/53717218/840,ONLINE,1097.84ms,0.34MB/s
+ Sport TV 5 (r),https://restream-live.realiptv.to/53420573/53717218/839,ONLINE,1365.52ms,4.36MB/s
+ Sport TV 5 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60022,OFFLINE,N/A,N/A
+ Sky Sports Plus (k),http://kstv.us:8080/Freshcobar23/83261331891/47863,ONLINE,465.53ms,4.05MB/s
+ Sky Sports Plus (r),https://restream-live.realiptv.to/53420573/53717218/2193,HTTP 403,N/A,N/A
  Sky Sports Plus (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35238,HTTP 403,N/A,N/A
  Sky Sports Plus (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/137719,HTTP 403,N/A,N/A
- TNT Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47850,ONLINE,1947.44ms,0.18MB/s
+ TNT Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47850,ONLINE,283.33ms,4.35MB/s
  TNT Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/737805,HTTP 403,N/A,N/A
- TNT Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/2337,ONLINE,2136.08ms,0.11MB/s
- TNT Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47851,ONLINE,397.44ms,5.90MB/s
- TNT Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/2336,ONLINE,2029.72ms,1.99MB/s
- TNT Sports 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/47852,ONLINE,421.12ms,6.61MB/s
- TNT Sports 3 (r),https://restream-live.realiptv.to/53420573/53717218/2335,ONLINE,2081.87ms,0.55MB/s
- TNT Sports 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/47853,ONLINE,421.73ms,5.29MB/s
- TNT Sports 4 (r),https://restream-live.realiptv.to/53420573/53717218/675021,ONLINE,4348.04ms,0.21MB/s
+ TNT Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/2337,ONLINE,1689.81ms,2.41MB/s
+ TNT Sports 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/16552,OFFLINE,N/A,N/A
+ TNT Sports 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/43128,OFFLINE,N/A,N/A
+ TNT Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47851,ONLINE,291.84ms,4.18MB/s
+ TNT Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/2336,ONLINE,1930.42ms,2.50MB/s
+ TNT Sports 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/16551,OFFLINE,N/A,N/A
+ TNT Sports 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/43126,OFFLINE,N/A,N/A
+ TNT Sports 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/47852,ONLINE,282.23ms,4.53MB/s
+ TNT Sports 3 (r),https://restream-live.realiptv.to/53420573/53717218/2335,ONLINE,1765.02ms,1.46MB/s
+ TNT Sports 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/16550,OFFLINE,N/A,N/A
+ TNT Sports 3 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/43124,OFFLINE,N/A,N/A
+ TNT Sports 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/47853,ONLINE,448.05ms,4.37MB/s
+ TNT Sports 4 (r),https://restream-live.realiptv.to/53420573/53717218/675021,ONLINE,1927.77ms,2.00MB/s
  TNT Sports 4 (r),https://restream-live.realiptv.to/53420573/53717218/2334,HTTP 403,N/A,N/A
- Fox Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/22526,ONLINE,509.19ms,2.39MB/s
- Fox Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/15948,ONLINE,456.31ms,4.50MB/s
- Fox Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/2501,ONLINE,1098.57ms,2.61MB/s
- Fox Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/3732,ONLINE,1123.53ms,4.08MB/s
- Fox Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/21592,ONLINE,2149.39ms,0.31MB/s
- Fox Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/3645,ONLINE,1505.92ms,0.41MB/s
- Fox Sports 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/1846,ONLINE,897.73ms,6.49MB/s
- Fox Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/22525,ONLINE,450.20ms,2.98MB/s
- Fox Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15947,ONLINE,410.56ms,3.20MB/s
- Fox Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/2500,ONLINE,2083.00ms,0.31MB/s
- Fox Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/21593,ONLINE,1054.84ms,0.45MB/s
- Fox Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/3646,ONLINE,1277.24ms,1.53MB/s
- Fox Sports 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/1847,ONLINE,522.78ms,13.91MB/s
- Eurosport 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47854,ONLINE,426.13ms,4.56MB/s
- Eurosport 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47855,ONLINE,402.21ms,11.69MB/s
- Eurosport 1 (r),https://restream-live.realiptv.to/53420573/53717218/911,ONLINE,1248.14ms,0.93MB/s
+ TNT Sports 4 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/16549,OFFLINE,N/A,N/A
+ TNT Sports 4 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/57420,OFFLINE,N/A,N/A
+ Fox Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/22526,ONLINE,283.43ms,4.42MB/s
+ Fox Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/15948,ONLINE,316.26ms,4.18MB/s
+ Fox Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/2501,ONLINE,881.13ms,0.75MB/s
+ Fox Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/3732,ONLINE,937.42ms,2.12MB/s
+ Fox Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/21592,ONLINE,831.00ms,0.16MB/s
+ Fox Sports 1 (r),https://restream-live.realiptv.to/53420573/53717218/3645,ONLINE,807.12ms,0.25MB/s
+ Fox Sports 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/1846,ONLINE,373.14ms,1.74MB/s
+ Fox Sports 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44035,OFFLINE,N/A,N/A
+ Fox Sports 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/14118,OFFLINE,N/A,N/A
+ Fox Sports 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/32931,OFFLINE,N/A,N/A
+ Fox Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/22525,ONLINE,442.30ms,4.53MB/s
+ Fox Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15947,ONLINE,509.14ms,4.36MB/s
+ Fox Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/2500,ONLINE,1048.59ms,2.19MB/s
+ Fox Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/21593,ONLINE,847.14ms,0.82MB/s
+ Fox Sports 2 (r),https://restream-live.realiptv.to/53420573/53717218/3646,ONLINE,1101.47ms,0.34MB/s
+ Fox Sports 2 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/1847,ONLINE,308.92ms,2.15MB/s
+ Fox Sports 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/44034,OFFLINE,N/A,N/A
+ Fox Sports 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/14117,OFFLINE,N/A,N/A
+ Eurosport 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47854,ONLINE,279.61ms,4.28MB/s
+ Eurosport 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47855,ONLINE,429.00ms,3.56MB/s
+ Eurosport 1 (r),https://restream-live.realiptv.to/53420573/53717218/911,ONLINE,1133.03ms,2.43MB/s
  Eurosport 1 (x),http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/53713,HTTP 403,N/A,N/A
- Eurosport 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48449,ONLINE,631.07ms,1.93MB/s
- Eurosport 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48450,HTTP 403,N/A,N/A
- Eurosport 2 (r),https://restream-live.realiptv.to/53420573/53717218/910,ONLINE,1264.18ms,0.87MB/s
+ Eurosport 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/47096,OFFLINE,N/A,N/A
+ Eurosport 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/47604,OFFLINE,N/A,N/A
+ Eurosport 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60001,OFFLINE,N/A,N/A
+ Eurosport 1 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/45567,OFFLINE,N/A,N/A
+ Eurosport 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48449,OFFLINE,N/A,N/A
+ Eurosport 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48450,ONLINE,509.46ms,6.24MB/s
+ Eurosport 2 (r),https://restream-live.realiptv.to/53420573/53717218/910,ONLINE,1164.35ms,0.51MB/s
+ Eurosport 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/47097,OFFLINE,N/A,N/A
+ Eurosport 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/47605,OFFLINE,N/A,N/A
+ Eurosport 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/60002,OFFLINE,N/A,N/A
+ Eurosport 2 (g),http://greenslime.cx:80/fC4Pyj2MS4/egw2A06Eg2/45568,OFFLINE,N/A,N/A
