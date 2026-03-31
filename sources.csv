@@ -1,7 +1,7 @@
 server_id,host,username,password,url_format
 kstv,http://kstv.us:8080,Freshcobar23,83261331891,{host}/{username}/{password}/{channel_id}
 rocket,https://restream-live.realiptv.to,MotherOfPins3,8746645,{host}/{username}/{password}/{channel_id}
-xxip9,http://tvmate.icu:8080,sales@dellerstechshop.ca,sales@4889,{host}/{username}/{password}/{channel_id}
+xxip9,http://tvmate.icu:8080,kenvdh@comcast.net,bsxUzgG6uT,{host}/{username}/{password}/{channel_id}
 greenslime,http://greenslime.cx,Bklyn347,QY06ksq41x,{host}/live/{username}/{password}/{channel_id}.ts
 backup,http://1f93dd99.cbilant.com,,FM2YENVSTBPDB8TVMWRDHWGP,{host}/iptv/{password}/{channel_id}/index.m3u8
 ,,,,
