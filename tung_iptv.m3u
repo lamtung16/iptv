@@ -663,19 +663,19 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3646
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png", Fox Sports 2 (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7323/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (k)
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (k)
 http://kstv.us:8080/Freshcobar23/83261331891/47854
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (r)
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19432/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/228/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5075/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 PT (k)
@@ -687,19 +687,19 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
 #EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 PT (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/911
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (k)
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (k)
 http://kstv.us:8080/Freshcobar23/83261331891/47855
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (r)
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19431/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/234/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.gr" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5076/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT (k)
