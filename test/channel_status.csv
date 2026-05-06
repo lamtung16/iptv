@@ -1,316 +1,292 @@
 Channel Name,URL,Status,Response,Load (MB/s)
- Tennis Channel (k),http://kstv.us:8080/Freshcobar23/83261331891/22467,ONLINE,2151.25ms,2.75MB/s
- Tennis Channel (k),http://kstv.us:8080/Freshcobar23/83261331891/15940,ONLINE,599.78ms,3.15MB/s
- Tennis Channel (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43978.ts,ONLINE,793.00ms,9.60MB/s
- Tennis Channel (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/20970.ts,ONLINE,480.93ms,2.60MB/s
- Tennis Channel (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/20184,ONLINE,527.28ms,0.95MB/s
- Tennis Channel (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2386,ONLINE,2357.48ms,0.09MB/s
- Tennis Channel (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/21607,ONLINE,1455.05ms,0.44MB/s
- Tennis Channel (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3762,ONLINE,1138.32ms,3.10MB/s
- Tennis Channel (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3685,ONLINE,1058.25ms,1.13MB/s
- TSN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/15929,ONLINE,401.41ms,1.77MB/s
- TSN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/40651,ONLINE,472.33ms,6.72MB/s
- TSN 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57428.ts,ONLINE,475.53ms,15.87MB/s
- TSN 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57292,ONLINE,579.24ms,7.75MB/s
- TSN 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47440,ONLINE,525.44ms,15.87MB/s
- TSN 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3146,ONLINE,1397.99ms,5.16MB/s
- TSN 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6521/index.m3u8,ONLINE,883.40ms,7.60MB/s
- TSN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15928,ONLINE,402.68ms,6.57MB/s
- TSN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/40650,ONLINE,470.40ms,13.43MB/s
- TSN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57429.ts,ONLINE,467.14ms,15.29MB/s
- TSN 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16129,ONLINE,540.17ms,16.96MB/s
- TSN 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47442,ONLINE,544.69ms,16.81MB/s
- TSN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3145,ONLINE,1378.19ms,3.22MB/s
- TSN 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6492/index.m3u8,ONLINE,436.41ms,10.80MB/s
- TSN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/15927,ONLINE,395.66ms,14.34MB/s
- TSN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/40649,ONLINE,465.70ms,12.99MB/s
- TSN 3 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57430.ts,ONLINE,461.82ms,14.98MB/s
- TSN 3 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10389,ONLINE,543.53ms,15.34MB/s
- TSN 3 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47444,ONLINE,524.49ms,14.28MB/s
- TSN 3 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3144,ONLINE,2529.90ms,0.05MB/s
- TSN 3 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6522/index.m3u8,ONLINE,1840.23ms,9.91MB/s
- TSN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/15926,ONLINE,1874.75ms,0.06MB/s
- TSN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/40648,ONLINE,2457.82ms,0.05MB/s
- TSN 4 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57431.ts,ONLINE,1405.60ms,15.15MB/s
- TSN 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16130,ONLINE,603.05ms,15.55MB/s
- TSN 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/66783,ONLINE,535.63ms,3.33MB/s
- TSN 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47446,ONLINE,485.90ms,12.45MB/s
- TSN 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3143,ONLINE,1326.37ms,4.95MB/s
- TSN 4 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6445/index.m3u8,ONLINE,449.50ms,8.33MB/s
- TSN 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/15925,ONLINE,402.85ms,0.60MB/s
- TSN 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/40647,ONLINE,450.39ms,4.03MB/s
- TSN 5 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57432.ts,ONLINE,469.06ms,14.66MB/s
- TSN 5 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57467,OFFLINE,N/A,N/A
- TSN 5 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16131,ONLINE,543.02ms,15.62MB/s
- TSN 5 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57295,ONLINE,495.28ms,2.06MB/s
- TSN 5 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3142,ONLINE,4909.69ms,0.05MB/s
- TSN 5 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6517/index.m3u8,ONLINE,1634.13ms,9.65MB/s
- DAZN 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/48443,ONLINE,1888.41ms,4.70MB/s
- DAZN 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35264,ONLINE,482.04ms,15.69MB/s
- DAZN 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/925,ONLINE,2373.14ms,0.62MB/s
- DAZN 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31954/index.m3u8,ONLINE,430.89ms,10.06MB/s
- DAZN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48444,ONLINE,627.87ms,3.24MB/s
- DAZN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/924,ONLINE,1355.43ms,0.31MB/s
- DAZN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/923,ONLINE,1374.15ms,4.50MB/s
- DAZN 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2532/index.m3u8,ONLINE,504.61ms,9.82MB/s
- DAZN 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31955/index.m3u8,ONLINE,422.10ms,8.43MB/s
- DAZN 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/48445,ONLINE,623.55ms,6.09MB/s
- DAZN 3 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167748,ONLINE,504.00ms,5.05MB/s
- DAZN 3 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7062/index.m3u8,ONLINE,413.87ms,9.87MB/s
- DAZN 3 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31956/index.m3u8,ONLINE,434.57ms,9.81MB/s
- DAZN 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/48446,ONLINE,754.44ms,7.33MB/s
- DAZN 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167749,HTTP 403,N/A,N/A
- DAZN 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/920,ONLINE,1290.54ms,1.73MB/s
- DAZN 4 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2534/index.m3u8,ONLINE,412.71ms,6.47MB/s
- DAZN 4 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31957/index.m3u8,ONLINE,425.26ms,9.97MB/s
- Hub Premier 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts,ONLINE,2476.78ms,0.09MB/s
- Hub Premier 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts,ONLINE,3477.29ms,0.06MB/s
- Now Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts,ONLINE,3215.99ms,0.06MB/s
- Now Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts,OFFLINE,N/A,N/A
- ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/46445,HTTP 403,N/A,N/A
- ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/46447,HTTP 403,N/A,N/A
- ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/47111,ONLINE,394.01ms,5.01MB/s
- ESPN (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/66372,HTTP 403,N/A,N/A
- ESPN (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/99624,ONLINE,482.00ms,3.32MB/s
- ESPN (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/164948,HTTP 403,N/A,N/A
- ESPN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2865,ONLINE,1182.26ms,3.61MB/s
- ESPN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/803,ONLINE,1137.94ms,0.25MB/s
- ESPN (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19056/index.m3u8,ONLINE,415.37ms,10.20MB/s
- ESPN (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19060/index.m3u8,ONLINE,415.79ms,10.12MB/s
- ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/46446,ONLINE,1159.47ms,0.49MB/s
- ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47099,ONLINE,392.84ms,3.09MB/s
- ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47100,ONLINE,399.58ms,2.63MB/s
- ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47099,ONLINE,411.43ms,3.97MB/s
- ESPN 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/99623,ONLINE,477.13ms,16.52MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/1636,ONLINE,1192.99ms,1.91MB/s
- ESPN 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19061/index.m3u8,ONLINE,427.96ms,10.10MB/s
- Bein Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/12554,ONLINE,391.38ms,1.87MB/s
- Bein Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/714411,ONLINE,1233.97ms,2.40MB/s
- Bein Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/659436,ONLINE,1178.75ms,1.77MB/s
- Bein Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6123/index.m3u8,ONLINE,428.02ms,9.88MB/s
- Bein Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/12553,ONLINE,413.74ms,5.03MB/s
- Bein Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/659437,ONLINE,1169.32ms,0.80MB/s
- Bein Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/659428,ONLINE,1096.52ms,1.24MB/s
- Sky Sports Main Event (k),http://kstv.us:8080/Freshcobar23/83261331891/47868,ONLINE,422.84ms,6.21MB/s
- Sky Sports Main Event (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts,ONLINE,1103.45ms,0.74MB/s
- Sky Sports Main Event (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16563.ts,ONLINE,1239.75ms,0.37MB/s
- Sky Sports Main Event (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts,ONLINE,1342.39ms,0.73MB/s
- Sky Sports Main Event (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35243,ONLINE,686.04ms,1.99MB/s
- Sky Sports Main Event (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/137720,OFFLINE,N/A,N/A
- Sky Sports Main Event (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2185,ONLINE,5368.33ms,0.06MB/s
- Sky Sports Main Event (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2184,ONLINE,2820.40ms,0.06MB/s
- Sky Sports Main Event (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9308/index.m3u8,ONLINE,415.27ms,8.12MB/s
- Sky Sports Main Event (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7337/index.m3u8,ONLINE,413.79ms,9.85MB/s
- Sky Sports Premier League (k),http://kstv.us:8080/Freshcobar23/83261331891/47871,ONLINE,1078.48ms,8.97MB/s
- Sky Sports Premier League (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts,ONLINE,1128.32ms,1.13MB/s
- Sky Sports Premier League (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts,ONLINE,1119.22ms,1.08MB/s
- Sky Sports Premier League (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2182,ONLINE,2093.65ms,2.43MB/s
- Sky Sports Premier League (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2181,ONLINE,2084.75ms,0.35MB/s
- Sky Sports Premier League (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9334/index.m3u8,ONLINE,1408.56ms,9.74MB/s
- Sky Sports Premier League (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7335/index.m3u8,ONLINE,415.41ms,9.65MB/s
- Sky Sports Football (k),http://kstv.us:8080/Freshcobar23/83261331891/47866,ONLINE,407.12ms,14.02MB/s
- Sky Sports Football (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/58923.ts,ONLINE,1095.98ms,0.73MB/s
- Sky Sports Football (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/48551.ts,ONLINE,1139.44ms,1.19MB/s
- Sky Sports Football (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2188,ONLINE,2449.90ms,1.17MB/s
- Sky Sports Football (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/30822,ONLINE,1887.83ms,0.37MB/s
- Sky Sports Football (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9289/index.m3u8,ONLINE,444.65ms,9.19MB/s
- Sky Sports Football (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7336/index.m3u8,ONLINE,479.74ms,9.82MB/s
- USA Network (k),http://kstv.us:8080/Freshcobar23/83261331891/15905,ONLINE,542.47ms,2.24MB/s
- USA Network (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43964.ts,ONLINE,471.48ms,11.43MB/s
- USA Network (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/19270.ts,ONLINE,525.89ms,4.62MB/s
- USA Network (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252,ONLINE,486.00ms,14.36MB/s
- USA Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3767,ONLINE,1379.66ms,1.33MB/s
- USA Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3694,ONLINE,1116.01ms,0.43MB/s
- USA Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3848,HTTP 403,N/A,N/A
- USA Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2379,HTTP 403,N/A,N/A
- USA Network (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/1101/index.m3u8,ONLINE,415.07ms,9.71MB/s
- USA Network (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31124/index.m3u8,ONLINE,421.46ms,9.95MB/s
- Setanta Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6541/index.m3u8,ONLINE,458.01ms,4.34MB/s
- Setanta Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6543/index.m3u8,ONLINE,1332.51ms,3.30MB/s
- Setanta Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/15183/index.m3u8,ONLINE,1430.94ms,9.78MB/s
- Setanta Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20065/index.m3u8,ONLINE,1433.30ms,9.71MB/s
- Setanta Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31755/index.m3u8,ONLINE,1237.85ms,9.70MB/s
- Setanta Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/271/index.m3u8,ONLINE,413.68ms,6.58MB/s
- Setanta Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/272/index.m3u8,ONLINE,804.49ms,6.19MB/s
- Setanta Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5069/index.m3u8,ONLINE,1235.62ms,8.32MB/s
- Setanta Sports 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6542/index.m3u8,ONLINE,811.05ms,6.24MB/s
- Setanta Sports 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6544/index.m3u8,ONLINE,1433.50ms,4.29MB/s
- Setanta Sports 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/270/index.m3u8,ONLINE,1240.05ms,5.45MB/s
- ESPN (k),http://kstv.us:8080/Freshcobar23/83261331891/15951,ONLINE,454.78ms,0.13MB/s
- ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/47284.ts,ONLINE,452.66ms,12.85MB/s
- ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60190.ts,ONLINE,593.65ms,14.92MB/s
- ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44044.ts,ONLINE,706.06ms,10.66MB/s
- ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60191.ts,ONLINE,611.48ms,26.30MB/s
- ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14124.ts,ONLINE,547.59ms,7.56MB/s
- ESPN (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/14197,ONLINE,520.60ms,12.34MB/s
- ESPN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3725,ONLINE,1158.50ms,3.45MB/s
- ESPN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/21589,ONLINE,1610.23ms,2.31MB/s
- ESPN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3636,ONLINE,1125.96ms,0.82MB/s
- ESPN (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19156/index.m3u8,ONLINE,426.08ms,9.84MB/s
- ESPN 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15950,ONLINE,404.04ms,2.50MB/s
- ESPN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60192.ts,ONLINE,534.66ms,16.12MB/s
- ESPN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44043.ts,ONLINE,566.46ms,0.34MB/s
- ESPN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60193.ts,ONLINE,483.19ms,15.33MB/s
- ESPN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14123.ts,ONLINE,731.54ms,6.04MB/s
- ESPN 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/2210,ONLINE,487.14ms,14.31MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2581,ONLINE,1284.28ms,2.12MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3726,ONLINE,1128.28ms,1.69MB/s
- ESPN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3637,ONLINE,1315.97ms,1.69MB/s
- ESPN 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19155/index.m3u8,ONLINE,457.95ms,7.40MB/s
- Sport TV 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/48496,ONLINE,659.02ms,4.16MB/s
- Sport TV 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60014.ts,OFFLINE,N/A,N/A
- Sport TV 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167742,ONLINE,1727.40ms,0.05MB/s
- Sport TV 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/849,ONLINE,3166.85ms,1.44MB/s
- Sport TV 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/848,ONLINE,1273.71ms,3.96MB/s
- Sport TV 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2525/index.m3u8,ONLINE,422.02ms,9.71MB/s
- Sport TV 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31942/index.m3u8,ONLINE,414.74ms,8.39MB/s
- Sport TV 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/48497,ONLINE,622.49ms,4.80MB/s
- Sport TV 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60017.ts,OFFLINE,N/A,N/A
- Sport TV 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167743,ONLINE,2919.31ms,0.14MB/s
- Sport TV 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/847,ONLINE,2370.87ms,2.06MB/s
- Sport TV 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/846,ONLINE,1296.13ms,2.31MB/s
- Sport TV 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2526/index.m3u8,ONLINE,425.03ms,9.96MB/s
- Sport TV 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31943/index.m3u8,ONLINE,421.50ms,10.07MB/s
- Sport TV 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/48498,ONLINE,627.32ms,1.09MB/s
- Sport TV 3 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60019.ts,OFFLINE,N/A,N/A
- Sport TV 3 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167744,ONLINE,484.04ms,0.12MB/s
- Sport TV 3 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/845,ONLINE,1819.04ms,1.74MB/s
- Sport TV 3 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/844,ONLINE,2368.46ms,0.56MB/s
- Sport TV 3 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2527/index.m3u8,ONLINE,427.95ms,9.89MB/s
- Sport TV 3 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31944/index.m3u8,ONLINE,424.53ms,11.79MB/s
- Sport TV 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/48499,ONLINE,638.30ms,2.96MB/s
- Sport TV 4 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60021.ts,ONLINE,3172.91ms,0.25MB/s
- Sport TV 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167745,ONLINE,512.82ms,16.43MB/s
- Sport TV 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/843,ONLINE,1325.11ms,4.47MB/s
- Sport TV 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/842,ONLINE,1323.25ms,1.37MB/s
- Sport TV 4 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2528/index.m3u8,ONLINE,460.71ms,10.19MB/s
- Sport TV 4 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31945/index.m3u8,ONLINE,417.06ms,8.40MB/s
- Sport TV 5 (k),http://kstv.us:8080/Freshcobar23/83261331891/48500,ONLINE,665.25ms,5.57MB/s
- Sport TV 5 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts,OFFLINE,N/A,N/A
- Sport TV 5 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/840,ONLINE,4123.13ms,0.05MB/s
- Sport TV 5 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/839,ONLINE,2261.70ms,0.06MB/s
- Sport TV 5 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2529/index.m3u8,OFFLINE,N/A,N/A
- Sport TV 5 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31946/index.m3u8,OFFLINE,N/A,N/A
- Sky Sports Plus (k),http://kstv.us:8080/Freshcobar23/83261331891/47863,ONLINE,2122.20ms,0.12MB/s
- Sky Sports Plus (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35238,HTTP 403,N/A,N/A
- Sky Sports Plus (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/137719,HTTP 403,N/A,N/A
- Sky Sports Plus (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2193,ONLINE,2057.40ms,0.06MB/s
- TNT Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47850,ONLINE,404.33ms,4.81MB/s
- TNT Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16552.ts,ONLINE,1102.85ms,1.30MB/s
- TNT Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43128.ts,ONLINE,1118.15ms,1.00MB/s
- TNT Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/737805,HTTP 403,N/A,N/A
- TNT Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2337,ONLINE,2257.55ms,0.09MB/s
- TNT Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6566/index.m3u8,ONLINE,574.51ms,8.64MB/s
- TNT Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2505/index.m3u8,ONLINE,426.47ms,8.51MB/s
- TNT Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/47851,ONLINE,398.82ms,6.65MB/s
- TNT Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16551.ts,ONLINE,1109.95ms,1.15MB/s
- TNT Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43126.ts,ONLINE,1125.99ms,0.17MB/s
- TNT Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2336,ONLINE,3578.90ms,0.05MB/s
- TNT Sports 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2506/index.m3u8,ONLINE,1250.79ms,8.23MB/s
- TNT Sports 3 (k),http://kstv.us:8080/Freshcobar23/83261331891/47852,ONLINE,400.55ms,4.76MB/s
- TNT Sports 3 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16550.ts,ONLINE,1137.21ms,0.74MB/s
- TNT Sports 3 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43124.ts,ONLINE,513.14ms,20.31MB/s
- TNT Sports 3 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2335,ONLINE,2157.21ms,1.98MB/s
- TNT Sports 3 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6564/index.m3u8,ONLINE,476.27ms,8.36MB/s
- TNT Sports 4 (k),http://kstv.us:8080/Freshcobar23/83261331891/47853,ONLINE,528.09ms,6.61MB/s
- TNT Sports 4 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16549.ts,ONLINE,1115.09ms,1.32MB/s
- TNT Sports 4 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57420.ts,ONLINE,1138.53ms,1.20MB/s
- TNT Sports 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/675021,ONLINE,2063.43ms,2.06MB/s
- TNT Sports 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2334,HTTP 403,N/A,N/A
- Fox Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/22526,ONLINE,414.77ms,3.76MB/s
- Fox Sports 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/15948,ONLINE,466.55ms,3.36MB/s
- Fox Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44035.ts,ONLINE,534.35ms,9.27MB/s
- Fox Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14118.ts,ONLINE,466.59ms,4.21MB/s
- Fox Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/32931.ts,ONLINE,457.45ms,5.74MB/s
- Fox Sports 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1846,ONLINE,481.74ms,15.74MB/s
- Fox Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2501,OFFLINE,N/A,N/A
- Fox Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3732,ONLINE,4514.63ms,0.05MB/s
- Fox Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/21592,ONLINE,2904.38ms,0.08MB/s
- Fox Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3645,ONLINE,2091.13ms,1.24MB/s
- Fox Sports 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7322/index.m3u8,ONLINE,459.54ms,9.88MB/s
- Fox Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/22525,ONLINE,399.90ms,2.07MB/s
- Fox Sports 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/15947,ONLINE,403.04ms,2.45MB/s
- Fox Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44034.ts,ONLINE,516.70ms,15.50MB/s
- Fox Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14117.ts,ONLINE,449.15ms,3.61MB/s
- Fox Sports 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1847,OFFLINE,N/A,N/A
- Fox Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2500,ONLINE,3449.88ms,1.13MB/s
- Fox Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/21593,ONLINE,1844.85ms,0.34MB/s
- Fox Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3646,ONLINE,1378.71ms,0.50MB/s
- Fox Sports 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7323/index.m3u8,ONLINE,458.35ms,9.67MB/s
- Eurosport 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47854,ONLINE,529.69ms,7.19MB/s
- Eurosport 1 (k),http://kstv.us:8080/Freshcobar23/83261331891/47855,ONLINE,395.70ms,7.44MB/s
- Eurosport 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts,OFFLINE,N/A,N/A
- Eurosport 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/45567.ts,ONLINE,2719.55ms,0.07MB/s
- Eurosport 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/47604.ts,OFFLINE,N/A,N/A
- Eurosport 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/53713,HTTP 403,N/A,N/A
- Eurosport 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/911,ONLINE,3535.96ms,0.11MB/s
- Eurosport 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19432/index.m3u8,ONLINE,712.35ms,9.99MB/s
- Eurosport 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/228/index.m3u8,ONLINE,436.62ms,6.13MB/s
- Eurosport 1 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5075/index.m3u8,ONLINE,413.65ms,9.72MB/s
- Eurosport 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts,OFFLINE,N/A,N/A
- Eurosport 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/45568.ts,ONLINE,3256.77ms,1.15MB/s
- Eurosport 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/910,ONLINE,1353.29ms,0.31MB/s
- Eurosport 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19431/index.m3u8,ONLINE,421.45ms,10.05MB/s
- Eurosport 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/234/index.m3u8,ONLINE,417.04ms,4.45MB/s
- Eurosport 2 (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5076/index.m3u8,ONLINE,414.13ms,9.94MB/s
- CBS Sports Network (k),http://kstv.us:8080/Freshcobar23/83261331891/15944,ONLINE,402.98ms,1.78MB/s
- CBS Sports Network (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44060.ts,ONLINE,456.53ms,14.12MB/s
- CBS Sports Network (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14104.ts,ONLINE,486.62ms,5.73MB/s
- CBS Sports Network (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10454,ONLINE,491.35ms,15.49MB/s
- CBS Sports Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3712,ONLINE,1149.93ms,1.57MB/s
- CBS Sports Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3621,ONLINE,1240.64ms,1.02MB/s
- CBS Sports Network (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7324/index.m3u8,ONLINE,427.95ms,7.48MB/s
- Sportsnet 360 (k),http://kstv.us:8080/Freshcobar23/83261331891/40618,ONLINE,457.49ms,13.42MB/s
- Sportsnet 360 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/21233.ts,ONLINE,609.93ms,14.07MB/s
- Sportsnet 360 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57299,ONLINE,610.30ms,16.64MB/s
- Sportsnet 360 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3073,ONLINE,1108.88ms,4.43MB/s
- Sportsnet One (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/21235.ts,ONLINE,474.92ms,15.10MB/s
- Sportsnet One (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts,ONLINE,524.01ms,12.79MB/s
- Sportsnet One (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10247,ONLINE,550.27ms,12.80MB/s
- Sportsnet One (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57297,ONLINE,532.61ms,15.78MB/s
- Sportsnet One (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47379,ONLINE,503.70ms,15.75MB/s
- Sportsnet One (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3071,ONLINE,1088.32ms,4.33MB/s
- Sportsnet World (k),http://kstv.us:8080/Freshcobar23/83261331891/15936,ONLINE,556.56ms,5.95MB/s
- Sportsnet World (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/21239.ts,ONLINE,488.01ms,14.67MB/s
- Sportsnet World (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/75675,ONLINE,526.39ms,15.98MB/s
- Sportsnet World (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/88060,ONLINE,1201.66ms,3.14MB/s
- ESPN Deportes (k),http://kstv.us:8080/Freshcobar23/83261331891/47105,ONLINE,396.41ms,2.17MB/s
- ESPN Deportes (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44042.ts,ONLINE,507.35ms,6.89MB/s
- ESPN Deportes (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2578,ONLINE,1145.59ms,3.19MB/s
- ESPN Deportes (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3811,ONLINE,1321.13ms,0.83MB/s
- ESPN Deportes (b),http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/30063/index.m3u8,ONLINE,1484.98ms,8.47MB/s
- Telemundo (k),http://kstv.us:8080/Freshcobar23/83261331891/23248,ONLINE,451.85ms,5.95MB/s
- Telemundo (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/23368.ts,ONLINE,452.85ms,7.12MB/s
- Universo (k),http://kstv.us:8080/Freshcobar23/83261331891/23281,ONLINE,445.31ms,2.74MB/s
- Universo (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43967.ts,ONLINE,789.02ms,3.33MB/s
- Universo (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/23362.ts,ONLINE,743.02ms,7.02MB/s
- Universo (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3696,ONLINE,1422.49ms,0.61MB/s
- Universo (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3847,HTTP 403,N/A,N/A
- TUDN (k),http://kstv.us:8080/Freshcobar23/83261331891/23235,ONLINE,401.80ms,3.61MB/s
- TUDN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/26441.ts,ONLINE,455.82ms,7.34MB/s
- TUDN (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/82241,ONLINE,515.72ms,15.03MB/s
- TUDN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/4640,OFFLINE,N/A,N/A
- TNT (k),http://kstv.us:8080/Freshcobar23/83261331891/15955,ONLINE,389.20ms,0.35MB/s
- TNT (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43975.ts,ONLINE,1584.06ms,14.55MB/s
- TNT (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14162.ts,ONLINE,559.79ms,6.34MB/s
- TNT (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/46688,ONLINE,503.75ms,14.42MB/s
- TNT (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10455,ONLINE,516.38ms,15.02MB/s
- TNT (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3764,OFFLINE,N/A,N/A
- TNT (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/644434,ONLINE,4030.02ms,0.05MB/s
- TNT (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3683,OFFLINE,N/A,N/A
- TruTV (k),http://kstv.us:8080/Freshcobar23/83261331891/23243,ONLINE,528.70ms,1.83MB/s
- TruTV (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43973.ts,ONLINE,548.47ms,14.35MB/s
- TruTV (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10224,ONLINE,540.23ms,5.06MB/s
- TruTV (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3766,ONLINE,1128.36ms,2.90MB/s
- RDS (k),http://kstv.us:8080/Freshcobar23/83261331891/40629,ONLINE,462.54ms,11.66MB/s
- RDS (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/29268.ts,ONLINE,528.31ms,13.14MB/s
- RDS (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57325,ONLINE,518.45ms,15.36MB/s
- RDS (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3232,HTTP 403,N/A,N/A
- RDS (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/59870,HTTP 403,N/A,N/A
- RDS (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/59887,HTTP 403,N/A,N/A
- RDS 2 (k),http://kstv.us:8080/Freshcobar23/83261331891/40628,ONLINE,458.40ms,11.31MB/s
- RDS 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/29363.ts,ONLINE,921.69ms,6.24MB/s
- RDS 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57490,OFFLINE,N/A,N/A
- RDS 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/92668,HTTP 403,N/A,N/A
- RDS 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3233,HTTP 403,N/A,N/A
- RDS 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/92667,OFFLINE,N/A,N/A
+ Tennis Channel (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/22467,ONLINE,2065.08ms,0.10MB/s
+ Tennis Channel (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15940,ONLINE,2452.94ms,0.06MB/s
+ Tennis Channel (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43978.ts,ONLINE,1876.24ms,0.49MB/s
+ Tennis Channel (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/20970.ts,ONLINE,3731.50ms,0.14MB/s
+ Tennis Channel (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/20184,ONLINE,1892.03ms,0.10MB/s
+ Tennis Channel (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2386,ONLINE,3213.38ms,0.06MB/s
+ Tennis Channel (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/21607,ONLINE,1209.06ms,0.61MB/s
+ Tennis Channel (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3762,ONLINE,802.15ms,4.35MB/s
+ Tennis Channel (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3685,ONLINE,863.80ms,0.25MB/s
+ TSN 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15929,ONLINE,428.38ms,3.69MB/s
+ TSN 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40651,ONLINE,457.28ms,3.93MB/s
+ TSN 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57428.ts,ONLINE,340.77ms,3.79MB/s
+ TSN 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57292,ONLINE,328.99ms,4.12MB/s
+ TSN 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47440,ONLINE,508.41ms,3.66MB/s
+ TSN 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3146,ONLINE,1303.40ms,0.99MB/s
+ TSN 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6521/index.m3u8,ONLINE,1634.17ms,16.71MB/s
+ TSN 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15928,ONLINE,268.02ms,3.80MB/s
+ TSN 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40650,ONLINE,428.80ms,0.56MB/s
+ TSN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57429.ts,ONLINE,379.05ms,1.62MB/s
+ TSN 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16129,ONLINE,324.51ms,4.51MB/s
+ TSN 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47442,ONLINE,460.19ms,1.66MB/s
+ TSN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3145,ONLINE,927.03ms,3.25MB/s
+ TSN 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6492/index.m3u8,ONLINE,457.31ms,7.09MB/s
+ TSN 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15927,ONLINE,264.06ms,4.35MB/s
+ TSN 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40649,ONLINE,507.55ms,1.41MB/s
+ TSN 3 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57430.ts,ONLINE,315.10ms,2.17MB/s
+ TSN 3 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10389,ONLINE,286.02ms,3.41MB/s
+ TSN 3 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47444,ONLINE,337.74ms,4.43MB/s
+ TSN 3 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3144,ONLINE,1187.90ms,4.23MB/s
+ TSN 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6522/index.m3u8,ONLINE,1493.54ms,8.18MB/s
+ TSN 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15926,ONLINE,419.43ms,4.72MB/s
+ TSN 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40648,ONLINE,444.20ms,1.53MB/s
+ TSN 4 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57431.ts,ONLINE,320.73ms,2.02MB/s
+ TSN 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16130,ONLINE,304.45ms,1.79MB/s
+ TSN 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/66783,ONLINE,273.94ms,3.28MB/s
+ TSN 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47446,HTTP 406,N/A,N/A
+ TSN 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3143,ONLINE,973.92ms,1.28MB/s
+ TSN 4 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6445/index.m3u8,ONLINE,429.00ms,5.80MB/s
+ TSN 5 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15925,ONLINE,255.46ms,0.46MB/s
+ TSN 5 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40647,ONLINE,337.43ms,4.05MB/s
+ TSN 5 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57432.ts,ONLINE,338.60ms,3.87MB/s
+ TSN 5 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57467,ONLINE,336.37ms,1.80MB/s
+ TSN 5 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16131,ONLINE,299.87ms,2.58MB/s
+ TSN 5 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57295,HTTP 406,N/A,N/A
+ TSN 5 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3142,ONLINE,887.68ms,0.99MB/s
+ TSN 5 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6517/index.m3u8,ONLINE,377.16ms,6.78MB/s
+ DAZN 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443,ONLINE,498.96ms,6.18MB/s
+ DAZN 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35264,HTTP 403,N/A,N/A
+ DAZN 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/925,ONLINE,965.58ms,1.85MB/s
+ DAZN 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31954/index.m3u8,ONLINE,387.31ms,18.94MB/s
+ DAZN 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48444,ONLINE,477.57ms,2.30MB/s
+ DAZN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/924,ONLINE,847.98ms,1.37MB/s
+ DAZN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/923,ONLINE,984.78ms,2.72MB/s
+ DAZN 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2532/index.m3u8,ONLINE,398.53ms,6.97MB/s
+ DAZN 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31955/index.m3u8,ONLINE,379.68ms,7.39MB/s
+ DAZN 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48445,ONLINE,655.77ms,5.97MB/s
+ DAZN 3 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167748,HTTP 406,N/A,N/A
+ DAZN 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7062/index.m3u8,ONLINE,825.73ms,7.88MB/s
+ DAZN 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31956/index.m3u8,ONLINE,1017.99ms,20.01MB/s
+ DAZN 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48446,ONLINE,500.55ms,6.51MB/s
+ DAZN 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167749,HTTP 406,N/A,N/A
+ DAZN 4 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31957/index.m3u8,ONLINE,371.82ms,7.79MB/s
+ Hub Premier 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts,ONLINE,1021.09ms,1.37MB/s
+ Hub Premier 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts,ONLINE,2328.47ms,1.31MB/s
+ ESPN Argentina (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47099,ONLINE,287.45ms,4.12MB/s
+ ESPN Argentina (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47100,ONLINE,450.64ms,1.19MB/s
+ ESPN Argentina (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47111,ONLINE,299.22ms,3.47MB/s
+ ESPN Argentina (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/99624,ONLINE,418.04ms,2.27MB/s
+ ESPN Argentina (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2865,ONLINE,1086.39ms,0.47MB/s
+ ESPN Brazil (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/46447,ONLINE,1027.92ms,0.74MB/s
+ ESPN Brazil (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/803,ONLINE,1014.04ms,1.76MB/s
+ ESPN Brazil (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19056/index.m3u8,ONLINE,419.32ms,7.12MB/s
+ ESPN Caribbean (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/66372,ONLINE,295.92ms,3.99MB/s
+ ESPN 2 Argentina (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/1636,ONLINE,1125.27ms,2.10MB/s
+ ESPN 2 Brazil (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/46446,HTTP 403,N/A,N/A
+ ESPN 2 Brazil (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19061/index.m3u8,ONLINE,382.44ms,6.93MB/s
+ Bein Sports 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554,ONLINE,261.35ms,3.61MB/s
+ Bein Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/714411,ONLINE,1157.95ms,1.49MB/s
+ Bein Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/659436,ONLINE,959.87ms,2.01MB/s
+ Bein Sports 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6123/index.m3u8,ONLINE,407.87ms,6.02MB/s
+ Bein Sports 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553,ONLINE,430.26ms,4.09MB/s
+ Bein Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/659437,ONLINE,927.71ms,2.49MB/s
+ Bein Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/659428,ONLINE,938.01ms,0.54MB/s
+ Sky Sports Main Event (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868,ONLINE,286.25ms,3.60MB/s
+ Sky Sports Main Event (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts,ONLINE,1133.52ms,1.18MB/s
+ Sky Sports Main Event (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16563.ts,ONLINE,1079.51ms,1.12MB/s
+ Sky Sports Main Event (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts,ONLINE,1081.30ms,1.17MB/s
+ Sky Sports Main Event (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35243,ONLINE,302.63ms,2.67MB/s
+ Sky Sports Main Event (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/137720,HTTP 403,N/A,N/A
+ Sky Sports Main Event (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2185,ONLINE,1680.57ms,1.49MB/s
+ Sky Sports Main Event (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2184,ONLINE,1653.63ms,1.43MB/s
+ Sky Sports Main Event (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9308/index.m3u8,ONLINE,378.22ms,7.77MB/s
+ Sky Sports Main Event (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7337/index.m3u8,ONLINE,375.84ms,6.43MB/s
+ Sky Sports Premier League (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871,ONLINE,279.02ms,4.21MB/s
+ Sky Sports Premier League (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts,ONLINE,1115.93ms,0.93MB/s
+ Sky Sports Premier League (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts,ONLINE,1040.13ms,0.91MB/s
+ Sky Sports Premier League (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2182,ONLINE,2004.16ms,0.30MB/s
+ Sky Sports Premier League (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2181,ONLINE,2030.58ms,0.23MB/s
+ Sky Sports Premier League (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9334/index.m3u8,ONLINE,565.07ms,6.47MB/s
+ Sky Sports Premier League (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7335/index.m3u8,ONLINE,501.64ms,7.09MB/s
+ Sky Sports Football (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866,ONLINE,542.10ms,1.23MB/s
+ Sky Sports Football (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/58923.ts,ONLINE,1277.18ms,0.14MB/s
+ Sky Sports Football (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/48551.ts,ONLINE,1171.45ms,0.09MB/s
+ Sky Sports Football (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2188,ONLINE,1921.61ms,0.16MB/s
+ Sky Sports Football (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/30822,ONLINE,2159.65ms,0.24MB/s
+ Sky Sports Football (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9289/index.m3u8,ONLINE,370.31ms,6.90MB/s
+ Sky Sports Football (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7336/index.m3u8,ONLINE,377.80ms,14.72MB/s
+ USA Network (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905,ONLINE,257.44ms,3.78MB/s
+ USA Network (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43964.ts,ONLINE,426.18ms,1.92MB/s
+ USA Network (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/19270.ts,ONLINE,332.47ms,3.62MB/s
+ USA Network (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252,ONLINE,429.66ms,3.97MB/s
+ USA Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3767,ONLINE,1021.05ms,2.03MB/s
+ USA Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3694,OFFLINE,N/A,N/A
+ USA Network (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1101/index.m3u8,ONLINE,403.22ms,5.49MB/s
+ USA Network (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31124/index.m3u8,ONLINE,400.43ms,7.09MB/s
+ ESPN (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15951,ONLINE,410.43ms,0.60MB/s
+ ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/47284.ts,ONLINE,317.59ms,3.47MB/s
+ ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60190.ts,ONLINE,467.24ms,4.49MB/s
+ ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44044.ts,ONLINE,592.38ms,4.60MB/s
+ ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60191.ts,ONLINE,368.52ms,2.04MB/s
+ ESPN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14124.ts,ONLINE,370.80ms,2.30MB/s
+ ESPN (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/14197,ONLINE,274.69ms,1.37MB/s
+ ESPN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3725,OFFLINE,N/A,N/A
+ ESPN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/21589,ONLINE,904.67ms,2.69MB/s
+ ESPN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3636,OFFLINE,N/A,N/A
+ ESPN (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19156/index.m3u8,ONLINE,451.26ms,6.29MB/s
+ ESPN 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15950,ONLINE,626.97ms,0.44MB/s
+ ESPN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60192.ts,ONLINE,364.21ms,3.20MB/s
+ ESPN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44043.ts,ONLINE,465.08ms,4.05MB/s
+ ESPN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60193.ts,ONLINE,378.76ms,1.61MB/s
+ ESPN 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14123.ts,ONLINE,325.33ms,2.17MB/s
+ ESPN 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/2210,ONLINE,297.60ms,2.24MB/s
+ ESPN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2581,ONLINE,880.97ms,4.21MB/s
+ ESPN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3726,ONLINE,1517.81ms,0.34MB/s
+ ESPN 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3637,ONLINE,1182.35ms,3.50MB/s
+ ESPN 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19155/index.m3u8,ONLINE,539.05ms,7.94MB/s
+ Sport TV 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48496,ONLINE,457.51ms,3.63MB/s
+ Sport TV 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60014.ts,ONLINE,2937.49ms,0.25MB/s
+ Sport TV 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167742,HTTP 406,N/A,N/A
+ Sport TV 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/848,ONLINE,999.85ms,1.80MB/s
+ Sport TV 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2525/index.m3u8,ONLINE,442.98ms,7.15MB/s
+ Sport TV 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31942/index.m3u8,ONLINE,377.12ms,7.96MB/s
+ Sport TV 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48497,ONLINE,486.71ms,3.19MB/s
+ Sport TV 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60017.ts,ONLINE,2837.04ms,0.25MB/s
+ Sport TV 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/847,ONLINE,898.22ms,2.72MB/s
+ Sport TV 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/846,ONLINE,946.15ms,2.72MB/s
+ Sport TV 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2526/index.m3u8,ONLINE,411.66ms,7.58MB/s
+ Sport TV 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31943/index.m3u8,ONLINE,389.38ms,6.92MB/s
+ Sport TV 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48498,ONLINE,637.42ms,1.68MB/s
+ Sport TV 3 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60019.ts,ONLINE,2451.47ms,0.25MB/s
+ Sport TV 3 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167744,HTTP 406,N/A,N/A
+ Sport TV 3 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/845,ONLINE,878.39ms,1.00MB/s
+ Sport TV 3 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/844,ONLINE,1028.59ms,2.30MB/s
+ Sport TV 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2527/index.m3u8,ONLINE,452.46ms,7.17MB/s
+ Sport TV 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31944/index.m3u8,ONLINE,379.82ms,6.90MB/s
+ Sport TV 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48499,ONLINE,481.10ms,4.84MB/s
+ Sport TV 4 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60021.ts,ONLINE,2683.73ms,0.25MB/s
+ Sport TV 4 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167745,HTTP 406,N/A,N/A
+ Sport TV 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/843,ONLINE,855.19ms,1.99MB/s
+ Sport TV 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/842,ONLINE,952.03ms,2.72MB/s
+ Sport TV 4 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31945/index.m3u8,ONLINE,389.19ms,7.19MB/s
+ Sport TV 5 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48500,ONLINE,502.69ms,4.96MB/s
+ Sport TV 5 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts,ONLINE,682.50ms,2.86MB/s
+ Sport TV 5 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/840,ONLINE,1061.29ms,0.50MB/s
+ Sport TV 5 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/839,ONLINE,1077.60ms,1.62MB/s
+ Sport TV 5 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2529/index.m3u8,ONLINE,564.09ms,15.86MB/s
+ Sport TV 5 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31946/index.m3u8,ONLINE,377.45ms,7.82MB/s
+ Sky Sports Plus (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47863,ONLINE,380.22ms,0.87MB/s
+ Sky Sports Plus (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2193,ONLINE,2002.18ms,0.49MB/s
+ TNT Sports 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850,ONLINE,488.75ms,2.67MB/s
+ TNT Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16552.ts,ONLINE,1196.65ms,0.75MB/s
+ TNT Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43128.ts,ONLINE,1030.24ms,0.85MB/s
+ TNT Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2337,ONLINE,1694.03ms,1.49MB/s
+ TNT Sports 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6566/index.m3u8,ONLINE,373.52ms,7.62MB/s
+ TNT Sports 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2505/index.m3u8,ONLINE,381.98ms,10.94MB/s
+ TNT Sports 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851,ONLINE,257.80ms,4.11MB/s
+ TNT Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16551.ts,ONLINE,1197.73ms,0.74MB/s
+ TNT Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43126.ts,ONLINE,1059.50ms,1.30MB/s
+ TNT Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2336,ONLINE,1817.05ms,1.43MB/s
+ TNT Sports 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2506/index.m3u8,ONLINE,604.65ms,23.48MB/s
+ TNT Sports 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852,ONLINE,281.93ms,1.85MB/s
+ TNT Sports 3 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16550.ts,ONLINE,1305.50ms,1.37MB/s
+ TNT Sports 3 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43124.ts,ONLINE,399.34ms,2.66MB/s
+ TNT Sports 3 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2335,ONLINE,1610.43ms,1.66MB/s
+ TNT Sports 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6564/index.m3u8,ONLINE,398.89ms,7.26MB/s
+ TNT Sports 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853,ONLINE,274.64ms,4.73MB/s
+ TNT Sports 4 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/16549.ts,ONLINE,1261.28ms,1.12MB/s
+ TNT Sports 4 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/57420.ts,ONLINE,1087.68ms,1.25MB/s
+ TNT Sports 4 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/675021,ONLINE,1968.00ms,2.61MB/s
+ TNT Sports 4 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19054/index.m3u8,ONLINE,526.36ms,7.74MB/s
+ Fox Sports 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/22526,ONLINE,423.34ms,4.03MB/s
+ Fox Sports 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15948,ONLINE,458.49ms,3.66MB/s
+ Fox Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44035.ts,ONLINE,596.32ms,3.17MB/s
+ Fox Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14118.ts,ONLINE,371.41ms,3.73MB/s
+ Fox Sports 1 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/32931.ts,ONLINE,389.32ms,2.03MB/s
+ Fox Sports 1 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1846,ONLINE,325.82ms,3.23MB/s
+ Fox Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2501,ONLINE,1034.05ms,0.16MB/s
+ Fox Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3732,ONLINE,1175.19ms,0.44MB/s
+ Fox Sports 1 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3645,ONLINE,994.22ms,1.40MB/s
+ Fox Sports 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7322/index.m3u8,ONLINE,378.92ms,24.78MB/s
+ Fox Sports 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/22525,ONLINE,252.74ms,4.16MB/s
+ Fox Sports 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15947,ONLINE,262.04ms,4.01MB/s
+ Fox Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44034.ts,ONLINE,443.53ms,2.55MB/s
+ Fox Sports 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14117.ts,ONLINE,328.21ms,2.44MB/s
+ Fox Sports 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1847,ONLINE,300.30ms,4.17MB/s
+ Fox Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2500,OFFLINE,N/A,N/A
+ Fox Sports 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3646,ONLINE,1123.60ms,2.06MB/s
+ Fox Sports 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7323/index.m3u8,ONLINE,964.62ms,7.70MB/s
+ Eurosport 1 UK (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47854,ONLINE,416.43ms,4.13MB/s
+ Eurosport 1 UK (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2286,HTTP 403,N/A,N/A
+ Eurosport 1 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19432/index.m3u8,ONLINE,2659.50ms,23.60MB/s
+ Eurosport 1 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/228/index.m3u8,ONLINE,706.28ms,4.97MB/s
+ Eurosport 1 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5075/index.m3u8,ONLINE,2673.20ms,7.93MB/s
+ Eurosport 1 PT (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48449,ONLINE,511.99ms,0.61MB/s
+ Eurosport 1 PT (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts,ONLINE,2646.13ms,0.30MB/s
+ Eurosport 1 PT (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/911,ONLINE,1994.41ms,0.39MB/s
+ Eurosport 1 PT (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31949/index.m3u8,OFFLINE,N/A,N/A
+ Eurosport 2 UK (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47855,ONLINE,467.09ms,1.68MB/s
+ Eurosport 2 UK (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2285,HTTP 403,N/A,N/A
+ Eurosport 2 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19431/index.m3u8,OFFLINE,N/A,N/A
+ Eurosport 2 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/234/index.m3u8,ONLINE,1439.72ms,4.67MB/s
+ Eurosport 2 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5076/index.m3u8,ONLINE,412.03ms,6.14MB/s
+ Eurosport 2 PT (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48450,OFFLINE,N/A,N/A
+ Eurosport 2 PT (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts,OFFLINE,N/A,N/A
+ Eurosport 2 PT (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/910,ONLINE,1191.00ms,0.94MB/s
+ Eurosport 2 PT (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31950/index.m3u8,ONLINE,417.23ms,7.54MB/s
+ CBS Sports Network (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944,ONLINE,562.37ms,4.47MB/s
+ CBS Sports Network (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44060.ts,ONLINE,497.48ms,1.80MB/s
+ CBS Sports Network (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14104.ts,ONLINE,329.81ms,4.06MB/s
+ CBS Sports Network (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10454,ONLINE,319.33ms,4.63MB/s
+ CBS Sports Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3712,ONLINE,1770.87ms,4.52MB/s
+ CBS Sports Network (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3621,ONLINE,803.60ms,4.48MB/s
+ CBS Sports Network (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7324/index.m3u8,ONLINE,406.42ms,5.71MB/s
+ Sportsnet 360 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40618,ONLINE,317.99ms,1.48MB/s
+ Sportsnet 360 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/21233.ts,ONLINE,327.38ms,3.40MB/s
+ Sportsnet 360 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57299,ONLINE,295.14ms,2.06MB/s
+ Sportsnet 360 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3073,ONLINE,802.93ms,0.36MB/s
+ Sportsnet 360 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6462/index.m3u8,ONLINE,391.82ms,7.47MB/s
+ Sportsnet One (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/21235.ts,ONLINE,327.19ms,1.54MB/s
+ Sportsnet One (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts,ONLINE,347.74ms,2.15MB/s
+ Sportsnet One (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10247,ONLINE,281.43ms,3.42MB/s
+ Sportsnet One (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57297,ONLINE,307.60ms,3.18MB/s
+ Sportsnet One (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47379,ONLINE,291.95ms,1.88MB/s
+ Sportsnet One (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3071,ONLINE,795.88ms,0.93MB/s
+ Sportsnet World (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15936,ONLINE,277.42ms,3.86MB/s
+ Sportsnet World (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/21239.ts,ONLINE,499.31ms,2.05MB/s
+ Sportsnet World (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/75675,ONLINE,282.98ms,2.87MB/s
+ Sportsnet World (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/88060,ONLINE,751.21ms,4.80MB/s
+ ESPN Deportes (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47105,ONLINE,451.04ms,2.41MB/s
+ ESPN Deportes (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/44042.ts,ONLINE,364.10ms,2.61MB/s
+ ESPN Deportes (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/2578,ONLINE,1108.18ms,1.06MB/s
+ ESPN Deportes (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3811,OFFLINE,N/A,N/A
+ ESPN Deportes (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/30063/index.m3u8,ONLINE,758.55ms,7.24MB/s
+ Telemundo (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/23248,ONLINE,394.06ms,3.42MB/s
+ Telemundo (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/23368.ts,ONLINE,529.84ms,0.83MB/s
+ Telemundo (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1080/index.m3u8,ONLINE,387.97ms,6.65MB/s
+ Universo (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/23281,ONLINE,264.06ms,3.42MB/s
+ Universo (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43967.ts,ONLINE,671.59ms,4.06MB/s
+ Universo (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/23362.ts,ONLINE,474.34ms,2.50MB/s
+ Universo (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3696,ONLINE,1222.95ms,0.34MB/s
+ Universo (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31120/index.m3u8,ONLINE,411.11ms,7.97MB/s
+ TUDN (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/23235,ONLINE,264.01ms,3.03MB/s
+ TUDN (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/26441.ts,ONLINE,362.46ms,2.04MB/s
+ TUDN (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/82241,ONLINE,290.27ms,1.98MB/s
+ TUDN (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/4640,ONLINE,744.88ms,1.11MB/s
+ TUDN (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31103/index.m3u8,ONLINE,374.82ms,14.41MB/s
+ TNT (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15955,ONLINE,414.29ms,3.99MB/s
+ TNT (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43975.ts,ONLINE,518.86ms,3.90MB/s
+ TNT (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/14162.ts,ONLINE,449.26ms,1.65MB/s
+ TNT (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/46688,ONLINE,279.98ms,2.65MB/s
+ TNT (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10455,ONLINE,300.19ms,3.41MB/s
+ TNT (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3764,ONLINE,868.18ms,0.40MB/s
+ TNT (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/644434,ONLINE,946.41ms,2.37MB/s
+ TNT (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3683,ONLINE,706.04ms,1.02MB/s
+ TNT (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1102/index.m3u8,ONLINE,514.25ms,14.75MB/s
+ TruTV (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/23243,ONLINE,259.17ms,4.12MB/s
+ TruTV (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/43973.ts,ONLINE,458.57ms,1.92MB/s
+ TruTV (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10224,ONLINE,297.75ms,2.80MB/s
+ TruTV (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3766,ONLINE,776.80ms,4.61MB/s
+ RDS (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40629,ONLINE,391.68ms,1.34MB/s
+ RDS (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/29268.ts,ONLINE,380.79ms,2.34MB/s
+ RDS (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57325,ONLINE,284.58ms,3.36MB/s
+ RDS (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3232,ONLINE,1470.96ms,1.02MB/s
+ RDS (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/59870,ONLINE,783.74ms,0.08MB/s
+ RDS (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/59887,OFFLINE,N/A,N/A
+ RDS 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40628,ONLINE,479.67ms,3.31MB/s
+ RDS 2 (g),http://greenslime.cx/live/Bklyn347/QY06ksq41x/29363.ts,ONLINE,471.56ms,2.65MB/s
+ RDS 2 (x),http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57490,ONLINE,297.03ms,3.28MB/s
+ RDS 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/92668,ONLINE,929.46ms,1.53MB/s
+ RDS 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/3233,ONLINE,1438.59ms,1.01MB/s
+ RDS 2 (r),https://restream-live.realiptv.to/MotherOfPins3/8746645/92667,ONLINE,745.65ms,1.28MB/s

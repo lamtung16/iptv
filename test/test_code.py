@@ -2,11 +2,9 @@ import pandas as pd
 import requests
 from datetime import datetime, UTC
 from urllib.parse import quote
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
-INPUT_FILE = "a.csv"
+INPUT_FILE = "crabbygrass.csv"
 OUTPUT_FILE = "a.csv"
-MAX_WORKERS = 32
 
 HEADERS = {
     "User-Agent": "Tivimate 5.1.6"
@@ -15,25 +13,54 @@ HEADERS = {
 ADULT_KEYWORDS = ["adult", "xxx", "porn", "18+", "sex"]
 
 
-def unix_to_date(ts):
+# ---------------- HELPERS ----------------
+
+def to_datetime_str(ts):
+    """Convert unix timestamp to readable string."""
     try:
-        if ts in [None, "", 0, "0"]:
+        if not ts or ts in ["0", 0]:
             return "NA"
         return datetime.fromtimestamp(int(ts), UTC).strftime("%Y-%m-%d %H:%M:%S")
     except:
         return "NA"
 
 
-def has_adult_category(categories):
+def contains_adult(categories):
+    """Check if category list contains adult keywords."""
     try:
-        for c in categories:
-            name = str(c.get("category_name", "")).lower()
-            if any(k in name for k in ADULT_KEYWORDS):
+        for cat in categories:
+            name = str(cat.get("category_name", "")).lower()
+            if any(word in name for word in ADULT_KEYWORDS):
                 return True
     except:
         pass
     return False
 
+
+def safe_len(session, url):
+    """Return length of JSON response or 'NA'."""
+    try:
+        response = session.get(url, timeout=5)
+        return len(response.json())
+    except:
+        return "NA"
+
+
+def check_adult_content(session, base_api):
+    """Quick adult category check."""
+    try:
+        live = session.get(f"{base_api}&action=get_live_categories", timeout=(1, 2)).json()
+        if contains_adult(live):
+            return True
+
+        vod = session.get(f"{base_api}&action=get_vod_categories", timeout=(1, 2)).json()
+        return contains_adult(vod)
+
+    except:
+        return False
+
+
+# ---------------- CORE ----------------
 
 def process_row(row):
     host = str(row["host"]).rstrip("/")
@@ -45,99 +72,87 @@ def process_row(row):
     session = requests.Session()
     session.headers.update(HEADERS)
 
+    # Default result (ensures row is always returned)
+    result = row.copy()
+    result.update({
+        "status": "invalid",
+        "created_at": "NA",
+        "exp_date": "NA",
+        "active_cons": "NA",
+        "max_connections": "NA",
+        "movies_count": "NA",
+        "shows_count": "NA",
+        "channels_count": "NA",
+        "has_adult": False,
+    })
+
     try:
-        # 🔥 FAST FAIL: main API
-        r = session.get(base_api, timeout=(5, 10))
-        data = r.json()
+        response = session.get(base_api, timeout=(5, 10))
+        data = response.json()
 
-        user_info = data.get("user_info", {})
-        status = user_info.get("status")
+        user = data.get("user_info", {})
+        status = user.get("status")
 
-        # ❌ skip disabled or invalid
-        if not status or status.lower() == "disabled":
-            return None
+        # If no status → keep defaults
+        if not status:
+            return result
 
-        created_at = unix_to_date(user_info.get("created_at"))
-        exp_date = unix_to_date(user_info.get("exp_date"))
-        active_cons = user_info.get("active_cons")
-        max_connections = user_info.get("max_connections")
+        result["status"] = status
+        result["created_at"] = to_datetime_str(user.get("created_at"))
+        result["exp_date"] = to_datetime_str(user.get("exp_date"))
+        result["active_cons"] = user.get("active_cons") or "NA"
+        result["max_connections"] = user.get("max_connections") or "NA"
 
-        # ---------------- LIGHT CHECK ONLY ----------------
-        # Only count lengths quickly, no retries
+        # Only fetch extra data if not disabled
+        if status.lower() != "disabled":
+            result["movies_count"] = safe_len(session, f"{base_api}&action=get_vod_streams")
+            result["shows_count"] = safe_len(session, f"{base_api}&action=get_series")
+            result["channels_count"] = safe_len(session, f"{base_api}&action=get_live_streams")
+            result["has_adult"] = check_adult_content(session, base_api)
 
-        def safe_count(url):
-            try:
-                r = session.get(url, timeout=(1.5, 2))
-                return len(r.json())
-            except:
-                return "NA"
-
-        movies_count = safe_count(f"{base_api}&action=get_vod_streams")
-        shows_count = safe_count(f"{base_api}&action=get_series")
-        channels_count = safe_count(f"{base_api}&action=get_live_streams")
-
-        # ---------------- ADULT CHECK (FAST) ----------------
-        has_adult = False
-        try:
-            live_cat = session.get(f"{base_api}&action=get_live_categories", timeout=(1, 2)).json()
-            if has_adult_category(live_cat):
-                has_adult = True
-            else:
-                vod_cat = session.get(f"{base_api}&action=get_vod_categories", timeout=(1, 2)).json()
-                if has_adult_category(vod_cat):
-                    has_adult = True
-        except:
-            pass
-
-        row["status"] = status
-        row["created_at"] = created_at
-        row["exp_date"] = exp_date
-        row["active_cons"] = active_cons or "NA"
-        row["max_connections"] = max_connections or "NA"
-        row["movies_count"] = movies_count
-        row["shows_count"] = shows_count
-        row["channels_count"] = channels_count
-        row["has_adult"] = has_adult
-
-        return row
+        return result
 
     except:
-        return None
+        return result
 
 
 # ---------------- MAIN ----------------
 
-df = pd.read_csv(INPUT_FILE, dtype=str)
-df = df.drop_duplicates(subset=["host", "username", "password"])
+def main():
+    df = pd.read_csv(INPUT_FILE, dtype=str)
 
-rows = []
+    # Optional: keep duplicates if you want strict 1:1 row mapping
+    # df = df.drop_duplicates(subset=["host", "username", "password"])
 
-with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-    futures = [executor.submit(process_row, row.copy()) for _, row in df.iterrows()]
+    results = []
 
-    for future in as_completed(futures):
-        result = future.result()
-        if result is not None:
-            rows.append(result)
+    for _, row in df.iterrows():
+        processed = process_row(row)
+        results.append(processed)  # always append
+
+    out_df = pd.DataFrame(results)
+
+    # --- CLEAN TYPES ---
+    out_df["active_cons"] = pd.to_numeric(out_df["active_cons"], errors="coerce")
+    out_df["max_connections"] = pd.to_numeric(out_df["max_connections"], errors="coerce")
+    out_df["created_at"] = pd.to_datetime(out_df["created_at"], errors="coerce")
+    out_df["exp_date"] = pd.to_datetime(out_df["exp_date"], errors="coerce")
+
+    # --- SORT ---
+    out_df = out_df.sort_values(
+        by=["host", "active_cons", "max_connections", "created_at", "exp_date"],
+        ascending=[True, True, False, True, False]
+    )
+
+    # Convert back to string
+    out_df["created_at"] = out_df["created_at"].astype(str)
+    out_df["exp_date"] = out_df["exp_date"].astype(str)
+
+    # --- SAVE ---
+    out_df.to_csv(OUTPUT_FILE, index=False)
+
+    print("Done.")
 
 
-# ---------------- SAVE ----------------
-
-out_df = pd.DataFrame(rows)
-
-out_df["active_cons"] = pd.to_numeric(out_df["active_cons"], errors="coerce")
-out_df["max_connections"] = pd.to_numeric(out_df["max_connections"], errors="coerce")
-out_df["created_at"] = pd.to_datetime(out_df["created_at"], errors="coerce")
-out_df["exp_date"] = pd.to_datetime(out_df["exp_date"], errors="coerce")
-
-out_df = out_df.sort_values(
-    by=["host", "active_cons", "max_connections", "created_at", "exp_date"],
-    ascending=[True, True, False, True, False]
-)
-
-out_df["created_at"] = out_df["created_at"].astype(str)
-out_df["exp_date"] = out_df["exp_date"].astype(str)
-
-out_df.to_csv(OUTPUT_FILE, index=False)
-
-print("Done.")
+if __name__ == "__main__":
+    main()

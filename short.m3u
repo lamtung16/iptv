@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (k)
-http://kstv.us:8080/Freshcobar23/83261331891/22467
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/22467
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (k)
-http://kstv.us:8080/Freshcobar23/83261331891/48443
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (k)
-http://kstv.us:8080/Freshcobar23/83261331891/47868
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (k)
-http://kstv.us:8080/Freshcobar23/83261331891/47871
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (k)
-http://kstv.us:8080/Freshcobar23/83261331891/15905
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905
