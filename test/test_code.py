@@ -83,7 +83,7 @@ def process_row(row):
         "movies_count": "NA",
         "shows_count": "NA",
         "channels_count": "NA",
-        "has_adult": False,
+        "has_adult": "False",
     })
 
     try:
