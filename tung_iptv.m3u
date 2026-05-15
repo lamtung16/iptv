@@ -120,6 +120,36 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3142
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6517/index.m3u8
 
+#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/40629
+
+#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (x)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57325
+
+#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3232
+
+#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/59870
+
+#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/59887
+
+#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/40628
+
+#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (x)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57490
+
+#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/92668
+
+#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3233
+
+#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/92667
+
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
 
@@ -656,33 +686,3 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10224
 
 #EXTINF:-1 tvg-id="truTV.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/trutv.png", TruTV (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3766
-
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/40629
-
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (x)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57325
-
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3232
-
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/59870
-
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/59887
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/40628
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (x)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57490
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/92668
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3233
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/92667
