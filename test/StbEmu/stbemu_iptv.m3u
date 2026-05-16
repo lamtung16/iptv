@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
+http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=174979&extension=ts&play_token=1Zcr3ADent
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1
+http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=107495&extension=ts&play_token=ppi5Ej4UCk
+
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1
+http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=1032529&extension=ts&play_token=PATcxCUBSR
