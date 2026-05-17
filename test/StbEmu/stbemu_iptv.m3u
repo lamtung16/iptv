@@ -1,82 +1,16 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=174979&extension=ts&play_token=1Zcr3ADent
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=11202&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=1454232&extension=ts&play_token=1bMPoEcO51
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=20476&extension=ts&play_token=kyMfvJu0tT
-
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=20475&extension=ts&play_token=9wnV7mojrq
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=20474&extension=ts&play_token=KoghSvzAug
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=20472&extension=ts&play_token=aYYKOxQi4a
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=118459&extension=ts&play_token=aLlqBF8FLI
-
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=118458&extension=ts&play_token=2UXRqHESXJ
-
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=122484&extension=ts&play_token=80OCmC02Rh
-
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=107492&extension=ts&play_token=zj163OwqU8
-
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=1032529&extension=ts&play_token=PATcxCUBSR
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=605470&extension=m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=174998&extension=ts&play_token=CXcLIRojaz
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=13099&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=1458672&extension=ts&play_token=xLToWoZJV4
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=10514&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=83447&extension=ts&play_token=pzvSw9XVNV
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=79478&extension=ts&play_token=5uqJL2tFr7
-
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=30500&extension=ts&play_token=TcyKLY4uDY
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=174655&extension=ts&play_token=9bUCss832a
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=174644&extension=ts&play_token=gSbDwETTQl
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=118447&extension=ts&play_token=X77sAPP10E
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=107435&extension=ts&play_token=KhGVVGSIFK
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=118445&extension=ts&play_token=iQHO5lYaBy
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=107433&extension=ts&play_token=gpp5GlQkdC
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=1809290&extension=ts&play_token=DV5V6JcPkt
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=30567&extension=ts&play_token=LXLzQVltD8
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=30566&extension=ts&play_token=0sSArZnms1
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=30565&extension=ts&play_token=DS0vuaqoHc
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4
-http://klaratv.com:80/play/live.php?mac=00:1A:79:B6:61:07&stream=1002857&extension=ts&play_token=DA8JWfj4hs
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=10511&extension=m3u8
