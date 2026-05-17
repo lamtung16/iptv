@@ -7,7 +7,7 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=11202&extension=m
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=605470&extension=m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=13099&extension=m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=276305&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=10514&extension=m3u8

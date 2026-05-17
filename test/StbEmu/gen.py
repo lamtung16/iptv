@@ -1,5 +1,7 @@
 import csv
-import re
+
+host = "http://v3tv.live:80"
+mac = "00:1A:79:C2:01:8B"
 
 # Prepare output
 m3u_lines = ['#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n']
@@ -12,13 +14,12 @@ with open("channels.csv", newline="", encoding="utf-8") as f:
         group = row["group"]
         channel = row["channel"]
         tvg_id = row["tvg_id"]
-        url = row["url"]
-        if url != "":
-            logo = f'https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/{channel.lower().replace(" ", "-")}.png'
-            extinf = (f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}", {channel}')
-            m3u_lines.append(extinf)
-            m3u_lines.append(url)
-            m3u_lines.append("")
+        id = row["id"]
+        logo = f'https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/{channel.lower().replace(" ", "-")}.png'
+        extinf = (f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}", {channel}')
+        m3u_lines.append(extinf)
+        m3u_lines.append(f"{host}/play/live.php?mac={mac}&stream={id}&extension=m3u8")
+        m3u_lines.append("")
 
 # Write output file
 with open("stbemu_iptv.m3u", "w", encoding="utf-8") as f:

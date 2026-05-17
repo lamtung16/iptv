@@ -1,6 +1,6 @@
-group,channel,tvg_id,url
-Tennis,Tennis Channel,Tennis.Channel.HD.us2,http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=11202&extension=m3u8
-Tennis,Sky Sports Tennis,Sky.Sports.Tennis.HD.ie,http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=605470&extension=m3u8
-Football,USA Network,USA.Network.HD.us2,http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=13099&extension=m3u8
-Football,Sky Sports Main Event,Sky.Sports.Main.Event.ie,http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=10514&extension=m3u8
-Football,Sky Sports Premier League,Sky.Sports.Premier.League.ie,http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=10511&extension=m3u8
+group,channel,tvg_id,id
+Tennis,Tennis Channel,Tennis.Channel.HD.us2,11202
+Tennis,Sky Sports Tennis,Sky.Sports.Tennis.HD.ie,605470
+Football,USA Network,USA.Network.HD.us2,276305
+Football,Sky Sports Main Event,Sky.Sports.Main.Event.ie,10514
+Football,Sky Sports Premier League,Sky.Sports.Premier.League.ie,10511
