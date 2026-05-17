@@ -1,7 +1,9 @@
 import csv
 
-host = "http://v3tv.live:80"
-mac = "00:1A:79:C2:01:8B"
+# host = "http://v3tv.live:80"
+# mac = "00:1A:79:C2:01:8B"
+host = "http://line.smootvone.vip"
+mac = "00:1A:79:AB:E8:8C"
 
 # Prepare output
 m3u_lines = ['#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n']
