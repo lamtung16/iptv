@@ -2,7 +2,7 @@ import csv
 import re
 
 # source list
-source_list = ["kstv","xxip9","rocket","backup"]
+source_list = ["kstv","rocket","backup"]
 
 def parse_id_list(s):
     if not s or s.strip() == "[]":
