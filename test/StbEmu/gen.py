@@ -20,7 +20,7 @@ with open("channels.csv", newline="", encoding="utf-8") as f:
         logo = f'https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/{channel.lower().replace(" ", "-")}.png'
         extinf = (f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}", {channel}')
         m3u_lines.append(extinf)
-        m3u_lines.append(f"{host}/play/live.php?mac={mac}&stream={id}&extension=m3u8")
+        m3u_lines.append(f"{host}/play/live.php?mac={mac}&stream={id}&extension=ts")
         m3u_lines.append("")
 
 # Write output file

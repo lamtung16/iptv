@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
-http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=858523&extension=m3u8
+http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=858523&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis
-http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=1312026&extension=m3u8
+http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=1312026&extension=ts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
-http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=855449&extension=m3u8
+http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=855449&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
-http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=1312033&extension=m3u8
+http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=1312033&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League
-http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=394557&extension=m3u8
+http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=394557&extension=ts
