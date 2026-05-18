@@ -3,14 +3,44 @@
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
 http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=858523&extension=ts
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=811667&extension=ts
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel
+http://tkiptv.net:80/play/live.php?mac=00:1A:79:76:31:a1&stream=328794&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis
 http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=1312026&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=1454232&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis
+http://tkiptv.net:80/play/live.php?mac=00:1A:79:76:31:a1&stream=243871&extension=ts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
 http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=855449&extension=ts
 
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=45466&extension=ts
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
+http://tkiptv.net:80/play/live.php?mac=00:1A:79:76:31:a1&stream=328966&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
 http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=1312033&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=1905853&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event
+http://tkiptv.net:80/play/live.php?mac=00:1A:79:76:31:a1&stream=215920&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League
 http://line.smootvone.vip/play/live.php?mac=00:1A:79:AB:E8:8C&stream=394557&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=83447&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League
+http://tkiptv.net:80/play/live.php?mac=00:1A:79:76:31:a1&stream=215919&extension=ts
