@@ -6,18 +6,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/22467
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15940
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2386
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/21607
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3762
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3685
-
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6546/index.m3u8
 
@@ -26,9 +14,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/15929
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/40651
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3146
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6521/index.m3u8
@@ -39,9 +24,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/15928
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/40650
 
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3145
-
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6492/index.m3u8
 
@@ -50,9 +32,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/15927
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/40649
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3144
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6522/index.m3u8
@@ -63,9 +42,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/15926
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/40648
 
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3143
-
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6445/index.m3u8
 
@@ -75,53 +51,23 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/15925
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/40647
 
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3142
-
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6517/index.m3u8
 
 #EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/40629
 
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3232
-
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/59870
-
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/59887
-
 #EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/40628
 
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/92668
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3233
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/92667
-
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/925
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31954/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48444
-
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/924
-
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/923
 
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2532/index.m3u8
@@ -153,20 +99,11 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47100
 #EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-argentina.png", ESPN Argentina (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47111
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-argentina.png", ESPN Argentina (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2865
-
 #EXTINF:-1 tvg-id="ESPN.br" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-brazil.png", ESPN Brazil (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/46447
 
-#EXTINF:-1 tvg-id="ESPN.br" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-brazil.png", ESPN Brazil (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/803
-
 #EXTINF:-1 tvg-id="ESPN.br" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-brazil.png", ESPN Brazil (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19056/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.ESPN.2.(Bolivia).ar" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2-argentina.png", ESPN 2 Argentina (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/1636
 
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2-brazil.png", ESPN 2 Brazil (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/46446
@@ -177,32 +114,14 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19061/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554
 
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
-
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6123/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553
 
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
-
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
-
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9308/index.m3u8
@@ -213,12 +132,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7337/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
 
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
-
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9334/index.m3u8
 
@@ -227,12 +140,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7335/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2188
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/30822
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9289/index.m3u8
@@ -243,12 +150,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7336/index.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905
 
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3767
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3694
-
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1101/index.m3u8
 
@@ -258,38 +159,17 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31124/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15951
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3725
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/21589
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3636
-
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15950
 
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2581
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3726
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3637
-
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19155/index.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48496
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/848
 
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2525/index.m3u8
@@ -300,12 +180,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31942/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48497
 
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/847
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/846
-
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png", Sport TV 2 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2526/index.m3u8
 
@@ -314,12 +188,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31943/index.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48498
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/845
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/844
 
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png", Sport TV 3 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2527/index.m3u8
@@ -330,23 +198,11 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31944/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48499
 
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/843
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/842
-
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png", Sport TV 4 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31945/index.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48500
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/840
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/839
 
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png", Sport TV 5 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2529/index.m3u8
@@ -357,14 +213,8 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31946/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47863
 
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
-
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2337
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6566/index.m3u8
@@ -375,26 +225,17 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2505/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2336
-
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2506/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2335
-
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6564/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/675021
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19054/index.m3u8
@@ -405,15 +246,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/22526
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15948
 
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2501
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3732
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3645
-
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7322/index.m3u8
 
@@ -423,20 +255,11 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/22525
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png", Fox Sports 2 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15947
 
-#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png", Fox Sports 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2500
-
-#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png", Fox Sports 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3646
-
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png", Fox Sports 2 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7323/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47854
-
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
 
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19432/index.m3u8
@@ -450,17 +273,11 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5075/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 PT (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48449
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 PT (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/911
-
 #EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 PT (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31949/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47855
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
 
 #EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19431/index.m3u8
@@ -474,20 +291,11 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5076/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48450
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/910
-
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31950/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944
-
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3712
-
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3621
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7324/index.m3u8
@@ -495,29 +303,14 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7324/index.m3u8
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-360.png", Sportsnet 360 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/40618
 
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-360.png", Sportsnet 360 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3073
-
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-360.png", Sportsnet 360 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6462/index.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.One.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-one.png", Sportsnet One (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3071
 
 #EXTINF:-1 tvg-id="Sportsnet.World.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png", Sportsnet World (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15936
 
-#EXTINF:-1 tvg-id="Sportsnet.World.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png", Sportsnet World (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
-
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-deportes.png", ESPN Deportes (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47105
-
-#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-deportes.png", ESPN Deportes (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2578
-
-#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-deportes.png", ESPN Deportes (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3811
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-deportes.png", ESPN Deportes (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/30063/index.m3u8
@@ -531,17 +324,11 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1080/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/universo.png", Universo (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/23281
 
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/universo.png", Universo (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3696
-
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/universo.png", Universo (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31120/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png", TUDN (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/23235
-
-#EXTINF:-1 tvg-id="TUDN.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png", TUDN (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/4640
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png", TUDN (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31103/index.m3u8
@@ -549,20 +336,8 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31103/index.m3u8
 #EXTINF:-1 tvg-id="TNT.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15955
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3764
-
-#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/644434
-
-#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3683
-
 #EXTINF:-1 tvg-id="TNT.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1102/index.m3u8
 
 #EXTINF:-1 tvg-id="truTV.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/trutv.png", TruTV (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/23243
-
-#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/trutv.png", TruTV (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3766
