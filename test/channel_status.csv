@@ -1,31 +1,139 @@
 Channel Name,URL,Status,Response,Load (MB/s)
- Tennis Channel,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=811667&extension=ts,ONLINE,3895.82ms,0.64MB/s
- Sky Sports Tennis,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=1454232&extension=ts,ONLINE,3314.05ms,0.24MB/s
- USA Network,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=45466&extension=ts,ONLINE,1889.92ms,0.56MB/s
- Sky Sports Main Event,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=1905853&extension=ts,ONLINE,932.66ms,0.50MB/s
- Sky Sports Premier League,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:E5:DF:8A&stream=83447&extension=ts,ONLINE,2664.93ms,0.31MB/s
- Tennis Channel,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=811667&extension=ts,HTTP 405,N/A,N/A
- Sky Sports Tennis,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1454232&extension=ts,ONLINE,2477.13ms,0.61MB/s
- USA Network,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=45466&extension=ts,HTTP 405,N/A,N/A
- Sky Sports Main Event,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1905853&extension=ts,ONLINE,782.74ms,0.49MB/s
- Sky Sports Premier League,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=83447&extension=ts,OFFLINE,N/A,N/A
- Tennis Channel,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:D3&stream=811667&extension=ts,HTTP 456,N/A,N/A
- Sky Sports Tennis,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:D3&stream=1454232&extension=ts,HTTP 456,N/A,N/A
- USA Network,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:D3&stream=45466&extension=ts,HTTP 456,N/A,N/A
- Sky Sports Main Event,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:D3&stream=1905853&extension=ts,HTTP 456,N/A,N/A
- Sky Sports Premier League,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:D3&stream=83447&extension=ts,HTTP 456,N/A,N/A
- Tennis Channel,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:B3&stream=811667&extension=ts,HTTP 405,N/A,N/A
- Sky Sports Tennis,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:B3&stream=1454232&extension=ts,ONLINE,2445.93ms,0.38MB/s
- USA Network,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:B3&stream=45466&extension=ts,HTTP 405,N/A,N/A
- Sky Sports Main Event,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:B3&stream=1905853&extension=ts,ONLINE,986.72ms,0.55MB/s
- Sky Sports Premier League,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:B3&stream=83447&extension=ts,ONLINE,3892.83ms,0.18MB/s
- Tennis Channel,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:72&stream=811667&extension=ts,HTTP 456,N/A,N/A
- Sky Sports Tennis,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:72&stream=1454232&extension=ts,HTTP 456,N/A,N/A
- USA Network,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:72&stream=45466&extension=ts,HTTP 456,N/A,N/A
- Sky Sports Main Event,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:72&stream=1905853&extension=ts,HTTP 456,N/A,N/A
- Sky Sports Premier League,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:72&stream=83447&extension=ts,HTTP 456,N/A,N/A
- Tennis Channel,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:AB:E8:8C&stream=811667&extension=ts,HTTP 511,N/A,N/A
- Sky Sports Tennis,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:AB:E8:8C&stream=1454232&extension=ts,HTTP 511,N/A,N/A
- USA Network,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:AB:E8:8C&stream=45466&extension=ts,HTTP 511,N/A,N/A
- Sky Sports Main Event,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:AB:E8:8C&stream=1905853&extension=ts,HTTP 511,N/A,N/A
- Sky Sports Premier League,http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:AB:E8:8C&stream=83447&extension=ts,HTTP 511,N/A,N/A
+ Tennis Channel (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/22467,ONLINE,1142.31ms,0.24MB/s
+ Tennis Channel (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15940,ONLINE,818.89ms,0.19MB/s
+ Tennis Channel (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/841,ONLINE,2637.29ms,6.55MB/s
+ Tennis Channel (v),http://vuzemedia.xyz/live/Mark/123456/249142.m3u8,ONLINE,1286.58ms,2.09MB/s
+ Sky Sports Tennis (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6546/index.m3u8,ONLINE,2877.22ms,4.10MB/s
+ Sky Sports Tennis (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/318045,ONLINE,3690.03ms,0.24MB/s
+ Sky Sports Tennis (v),http://vuzemedia.xyz/live/Mark/123456/295285.m3u8,ONLINE,1013.54ms,71.27MB/s
+ TSN 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15929,ONLINE,591.04ms,2.54MB/s
+ TSN 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40651,ONLINE,478.73ms,6.36MB/s
+ TSN 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6521/index.m3u8,ONLINE,524.45ms,9.63MB/s
+ TSN 1 (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3996,ONLINE,3450.61ms,0.24MB/s
+ TSN 1 (v),http://vuzemedia.xyz/live/Mark/123456/53805.m3u8,ONLINE,1218.07ms,40.61MB/s
+ TSN 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15928,ONLINE,531.89ms,5.37MB/s
+ TSN 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40650,ONLINE,438.36ms,0.33MB/s
+ TSN 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6492/index.m3u8,ONLINE,476.55ms,7.80MB/s
+ TSN 2 (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3995,ONLINE,3589.35ms,0.17MB/s
+ TSN 2 (v),http://vuzemedia.xyz/live/Mark/123456/53806.m3u8,ONLINE,470.70ms,40.97MB/s
+ TSN 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15927,ONLINE,442.29ms,5.55MB/s
+ TSN 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40649,ONLINE,478.92ms,7.61MB/s
+ TSN 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6522/index.m3u8,ONLINE,548.16ms,8.63MB/s
+ TSN 3 (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3994,ONLINE,3175.27ms,0.24MB/s
+ TSN 3 (v),http://vuzemedia.xyz/live/Mark/123456/53807.m3u8,ONLINE,359.10ms,1.79MB/s
+ TSN 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15926,ONLINE,386.02ms,6.74MB/s
+ TSN 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40648,ONLINE,454.63ms,7.05MB/s
+ TSN 4 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6445/index.m3u8,ONLINE,495.32ms,9.57MB/s
+ TSN 4 (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3991,ONLINE,3227.80ms,0.18MB/s
+ TSN 4 (v),http://vuzemedia.xyz/live/Mark/123456/53808.m3u8,ONLINE,230.59ms,40.57MB/s
+ TSN 5 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15925,ONLINE,377.46ms,6.69MB/s
+ TSN 5 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40647,ONLINE,491.28ms,6.67MB/s
+ TSN 5 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6517/index.m3u8,ONLINE,498.90ms,18.62MB/s
+ TSN 5 (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3992,ONLINE,3744.77ms,0.06MB/s
+ TSN 5 (v),http://vuzemedia.xyz/live/Mark/123456/53809.m3u8,ONLINE,1229.42ms,39.49MB/s
+ RDS (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40629,ONLINE,2051.51ms,0.37MB/s
+ RDS 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40628,ONLINE,1026.00ms,3.99MB/s
+ DAZN 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443,ONLINE,646.88ms,4.24MB/s
+ DAZN 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31954/index.m3u8,ONLINE,495.10ms,9.74MB/s
+ DAZN 1 (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/273579,HTTP 405,N/A,N/A
+ DAZN 1 (v),http://vuzemedia.xyz/live/Mark/123456/58550.m3u8,ONLINE,297.83ms,1.68MB/s
+ DAZN 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48444,ONLINE,571.71ms,3.13MB/s
+ DAZN 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2532/index.m3u8,ONLINE,482.21ms,8.22MB/s
+ DAZN 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31955/index.m3u8,ONLINE,479.09ms,8.32MB/s
+ DAZN 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48445,ONLINE,597.27ms,4.34MB/s
+ DAZN 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7062/index.m3u8,ONLINE,474.17ms,9.63MB/s
+ DAZN 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31956/index.m3u8,ONLINE,472.65ms,9.54MB/s
+ DAZN 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48446,ONLINE,580.11ms,1.02MB/s
+ DAZN 4 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31957/index.m3u8,ONLINE,1476.02ms,9.43MB/s
+ Hub Premier 1 (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/288366,ONLINE,5181.18ms,0.06MB/s
+ ESPN Argentina (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47099,ONLINE,403.95ms,2.97MB/s
+ ESPN Argentina (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47100,ONLINE,412.93ms,2.58MB/s
+ ESPN Argentina (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47111,ONLINE,383.27ms,2.57MB/s
+ ESPN Brazil (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/46447,ONLINE,1149.73ms,0.36MB/s
+ ESPN Brazil (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19056/index.m3u8,ONLINE,477.44ms,7.36MB/s
+ ESPN 2 Brazil (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/46446,ONLINE,1099.53ms,0.32MB/s
+ ESPN 2 Brazil (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19061/index.m3u8,ONLINE,482.73ms,9.77MB/s
+ Bein Sports 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554,ONLINE,398.21ms,4.30MB/s
+ Bein Sports 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6123/index.m3u8,ONLINE,512.64ms,9.64MB/s
+ Bein Sports 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553,ONLINE,387.31ms,7.69MB/s
+ Sky Sports Main Event (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868,ONLINE,438.90ms,10.56MB/s
+ Sky Sports Main Event (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9308/index.m3u8,ONLINE,487.32ms,9.45MB/s
+ Sky Sports Main Event (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7337/index.m3u8,ONLINE,476.21ms,9.79MB/s
+ Sky Sports Main Event (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/276918,ONLINE,2813.00ms,0.11MB/s
+ Sky Sports Main Event (v),http://vuzemedia.xyz/live/Mark/123456/53982.m3u8,ONLINE,1351.56ms,40.87MB/s
+ Sky Sports Premier League (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871,ONLINE,404.42ms,9.32MB/s
+ Sky Sports Premier League (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9334/index.m3u8,ONLINE,483.72ms,9.58MB/s
+ Sky Sports Premier League (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7335/index.m3u8,ONLINE,702.27ms,8.27MB/s
+ Sky Sports Premier League (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/709382,ONLINE,4038.28ms,0.06MB/s
+ Sky Sports Premier League (v),http://vuzemedia.xyz/live/Mark/123456/53986.m3u8,ONLINE,3482.53ms,41.42MB/s
+ Sky Sports Football (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866,ONLINE,1023.44ms,0.06MB/s
+ Sky Sports Football (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9289/index.m3u8,ONLINE,480.63ms,8.32MB/s
+ Sky Sports Football (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7336/index.m3u8,ONLINE,874.99ms,9.51MB/s
+ USA Network (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905,ONLINE,2048.01ms,0.06MB/s
+ USA Network (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1101/index.m3u8,ONLINE,487.16ms,9.47MB/s
+ USA Network (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31124/index.m3u8,ONLINE,472.90ms,9.72MB/s
+ USA Network (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/353,ONLINE,3486.96ms,0.06MB/s
+ USA Network (v),http://vuzemedia.xyz/live/Mark/123456/53307.m3u8,ONLINE,846.86ms,1.69MB/s
+ ESPN (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15951,ONLINE,441.79ms,7.56MB/s
+ ESPN (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19156/index.m3u8,ONLINE,945.08ms,9.69MB/s
+ ESPN 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15950,ONLINE,428.06ms,5.86MB/s
+ ESPN 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19155/index.m3u8,ONLINE,486.33ms,9.88MB/s
+ Sport TV 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48496,ONLINE,2615.71ms,5.34MB/s
+ Sport TV 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2525/index.m3u8,ONLINE,619.54ms,9.80MB/s
+ Sport TV 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31942/index.m3u8,ONLINE,477.87ms,9.77MB/s
+ Sport TV 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48497,ONLINE,590.89ms,2.99MB/s
+ Sport TV 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2526/index.m3u8,ONLINE,484.78ms,9.63MB/s
+ Sport TV 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31943/index.m3u8,ONLINE,477.14ms,8.25MB/s
+ Sport TV 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48498,ONLINE,615.31ms,3.68MB/s
+ Sport TV 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2527/index.m3u8,ONLINE,486.20ms,7.43MB/s
+ Sport TV 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31944/index.m3u8,ONLINE,476.96ms,8.14MB/s
+ Sport TV 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48499,ONLINE,647.53ms,3.81MB/s
+ Sport TV 4 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31945/index.m3u8,ONLINE,486.62ms,9.56MB/s
+ Sport TV 5 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48500,ONLINE,593.85ms,4.54MB/s
+ Sport TV 5 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2529/index.m3u8,ONLINE,494.81ms,9.65MB/s
+ Sport TV 5 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31946/index.m3u8,ONLINE,474.35ms,9.74MB/s
+ Sky Sports Plus (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47863,ONLINE,390.65ms,8.17MB/s
+ Sky Sports Plus (p),http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/276830,ONLINE,3328.80ms,0.47MB/s
+ Sky Sports Plus (v),http://vuzemedia.xyz/live/Mark/123456/53977.m3u8,ONLINE,231.55ms,1.78MB/s
+ TNT Sports 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850,ONLINE,406.57ms,3.99MB/s
+ TNT Sports 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6566/index.m3u8,ONLINE,483.86ms,9.58MB/s
+ TNT Sports 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2505/index.m3u8,ONLINE,482.89ms,8.22MB/s
+ TNT Sports 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851,ONLINE,392.93ms,4.21MB/s
+ TNT Sports 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2506/index.m3u8,ONLINE,476.18ms,7.58MB/s
+ TNT Sports 3 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852,ONLINE,403.95ms,6.56MB/s
+ TNT Sports 3 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6564/index.m3u8,ONLINE,1470.84ms,9.62MB/s
+ TNT Sports 4 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853,ONLINE,420.99ms,6.80MB/s
+ TNT Sports 4 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19054/index.m3u8,ONLINE,475.68ms,9.50MB/s
+ Fox Sports 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/22526,OFFLINE,N/A,N/A
+ Fox Sports 1 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15948,ONLINE,473.63ms,2.25MB/s
+ Fox Sports 1 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7322/index.m3u8,ONLINE,510.23ms,9.47MB/s
+ Fox Sports 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/22525,ONLINE,388.67ms,6.23MB/s
+ Fox Sports 2 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15947,ONLINE,1132.53ms,5.68MB/s
+ Fox Sports 2 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7323/index.m3u8,ONLINE,529.57ms,9.45MB/s
+ Eurosport 1 UK (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47854,OFFLINE,N/A,N/A
+ Eurosport 1 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19432/index.m3u8,ONLINE,700.61ms,9.70MB/s
+ Eurosport 1 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/228/index.m3u8,ONLINE,643.26ms,5.93MB/s
+ Eurosport 1 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5075/index.m3u8,ONLINE,790.04ms,9.68MB/s
+ Eurosport 1 PT (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/48449,ONLINE,1228.39ms,0.49MB/s
+ Eurosport 1 PT (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31949/index.m3u8,ONLINE,480.31ms,9.53MB/s
+ Eurosport 2 UK (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47855,ONLINE,404.50ms,6.21MB/s
+ Eurosport 2 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19431/index.m3u8,ONLINE,863.87ms,9.46MB/s
+ Eurosport 2 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/234/index.m3u8,ONLINE,467.22ms,8.64MB/s
+ Eurosport 2 UK (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5076/index.m3u8,ONLINE,462.06ms,9.49MB/s
+ Eurosport 2 PT (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31950/index.m3u8,ONLINE,1840.79ms,9.90MB/s
+ CBS Sports Network (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944,ONLINE,2252.56ms,0.24MB/s
+ CBS Sports Network (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7324/index.m3u8,ONLINE,818.60ms,9.97MB/s
+ Sportsnet 360 (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/40618,ONLINE,798.30ms,4.61MB/s
+ Sportsnet 360 (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6462/index.m3u8,ONLINE,503.12ms,9.07MB/s
+ Sportsnet World (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15936,ONLINE,380.98ms,6.92MB/s
+ ESPN Deportes (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/47105,ONLINE,409.35ms,2.78MB/s
+ ESPN Deportes (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/30063/index.m3u8,ONLINE,486.69ms,9.80MB/s
+ Telemundo (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/23248,ONLINE,407.69ms,3.01MB/s
+ Telemundo (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1080/index.m3u8,ONLINE,495.96ms,14.20MB/s
+ Universo (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/23281,ONLINE,391.55ms,5.16MB/s
+ Universo (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31120/index.m3u8,ONLINE,488.05ms,14.32MB/s
+ TUDN (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/23235,ONLINE,377.57ms,5.92MB/s
+ TUDN (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31103/index.m3u8,ONLINE,492.72ms,8.28MB/s
+ TNT (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/15955,ONLINE,544.03ms,7.29MB/s
+ TNT (b),http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1102/index.m3u8,ONLINE,1475.35ms,11.10MB/s
+ TruTV (k),http://kstv.us:8080/jimmyrhale/JE1974aa$$/23243,ONLINE,399.88ms,4.77MB/s

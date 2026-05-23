@@ -76,7 +76,7 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/40648
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6445/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (p)
-http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3993
+http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3991
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (v)
 http://vuzemedia.xyz/live/Mark/123456/53808.m3u8
@@ -107,9 +107,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31954/index.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (p)
-http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/273579
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (v)
 http://vuzemedia.xyz/live/Mark/123456/58550.m3u8
@@ -196,7 +193,7 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9334/index.m3u8
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7335/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (p)
-http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/725274
+http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/709382
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (v)
 http://vuzemedia.xyz/live/Mark/123456/53986.m3u8
@@ -362,9 +359,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/234/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5076/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48450
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31950/index.m3u8
