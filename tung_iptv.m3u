@@ -96,12 +96,6 @@ http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3992
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (v)
 http://vuzemedia.xyz/live/Mark/123456/53809.m3u8
 
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/40629
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/40628
-
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
 
@@ -137,36 +131,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31957/index.m3u8
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (p)
 http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/288366
-
-#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-argentina.png", ESPN Argentina (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47099
-
-#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-argentina.png", ESPN Argentina (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47100
-
-#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-argentina.png", ESPN Argentina (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47111
-
-#EXTINF:-1 tvg-id="ESPN.br" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-brazil.png", ESPN Brazil (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/46447
-
-#EXTINF:-1 tvg-id="ESPN.br" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-brazil.png", ESPN Brazil (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19056/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.2.br" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2-brazil.png", ESPN 2 Brazil (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/46446
-
-#EXTINF:-1 tvg-id="ESPN.2.br" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2-brazil.png", ESPN 2 Brazil (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19061/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554
-
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6123/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
@@ -312,71 +276,11 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19054/index.m3u8
 
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/22526
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15948
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7322/index.m3u8
-
-#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png", Fox Sports 2 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/22525
-
-#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png", Fox Sports 2 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15947
-
-#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png", Fox Sports 2 (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7323/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47854
-
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19432/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/228/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5075/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 PT (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48449
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 PT (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31949/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47855
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19431/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/234/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/5076/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31950/index.m3u8
-
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7324/index.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-360.png", Sportsnet 360 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/40618
-
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-360.png", Sportsnet 360 (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6462/index.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.World.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sportsnet-world.png", Sportsnet World (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15936
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-deportes.png", ESPN Deportes (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47105
@@ -401,12 +305,3 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/23235
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tudn.png", TUDN (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31103/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15955
-
-#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1102/index.m3u8
-
-#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/trutv.png", TruTV (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/23243
