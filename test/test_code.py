@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, UTC
 from urllib.parse import quote
 
-INPUT_FILE = "crabbygrass.csv"
+INPUT_FILE = "output.csv"
 OUTPUT_FILE = "a.csv"
 
 HEADERS = {
