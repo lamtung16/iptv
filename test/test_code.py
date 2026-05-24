@@ -4,7 +4,7 @@ from datetime import datetime, UTC
 from urllib.parse import quote
 
 INPUT_FILE = "output.csv"
-OUTPUT_FILE = "a.csv"
+OUTPUT_FILE = "d.csv"
 
 HEADERS = {
     "User-Agent": "Tivimate 5.1.6"
