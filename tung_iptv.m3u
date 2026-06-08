@@ -96,24 +96,6 @@ http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3992
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (v)
 http://vuzemedia.xyz/live/Nestor1/Nestor1/53809.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15955
-
-#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (p)
-http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/365
-
-#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt.png", TNT (v)
-http://vuzemedia.xyz/live/Nestor1/Nestor1/53315.m3u8
-
-#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/trutv.png", TruTV (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/23243
-
-#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/trutv.png", TruTV (p)
-http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/361
-
-#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/trutv.png", TruTV (v)
-http://vuzemedia.xyz/live/Nestor1/Nestor1/53308.m3u8
-
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
 
