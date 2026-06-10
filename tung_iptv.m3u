@@ -198,6 +198,15 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/15950
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19155/index.m3u8
 
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/22526
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (p)
+http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/915
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (v)
+http://vuzemedia.xyz/live/Nestor1/Nestor1/53390.m3u8
+
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png", Sport TV 1 (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48496
 
