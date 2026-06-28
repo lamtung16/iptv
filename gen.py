@@ -1,9 +1,6 @@
 import csv
 import re
 
-# source list
-source_list = ["kstv","backup","proxpanel","vuzemedia"]
-
 def parse_id_list(s):
     if not s or s.strip() == "[]":
         return []
@@ -28,7 +25,7 @@ with open("channels.csv", newline="", encoding="utf-8") as f:
         channel = row["channel"]
         tvg_id = row["tvg_id"]
 
-        for source_name in source_list:
+        for source_name in reader.fieldnames[3:]:
             ids = parse_id_list(row[source_name])
             if not ids:
                 continue
