@@ -1,8 +1,4 @@
 server_id,host,username,password,url_format
 kstv,http://kstv.us:8080,jimmyrhale,JE1974aa$$,{host}/{username}/{password}/{channel_id}
-rocket,https://restream-live.realiptv.to,MotherOfPins3,8746645,{host}/{username}/{password}/{channel_id}
-xxip9,http://tvmate.icu:8080,kenvdh@comcast.net,bsxUzgG6uT,{host}/{username}/{password}/{channel_id}
-greenslime,http://greenslime.cx,Bklyn347,QY06ksq41x,{host}/live/{username}/{password}/{channel_id}.ts
 backup,http://11374b1a.edemist.com,,2SXSBE6GL5QXEU,{host}/iptv/{password}/{channel_id}/index.m3u8
-proxpanel,http://proxpanel.cc:8080,ConradWong,FAZvDyXbGe7E,{host}/{username}/{password}/{channel_id}
-vuzemedia,http://vuzemedia.xyz,Nestor1,Nestor1,{host}/live/{username}/{password}/{channel_id}.m3u8
+hostengine,http://hostengine.live,AAM467987,BA1125780,{host}/live/{username}/{password}/{channel_id}.m3u
