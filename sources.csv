@@ -1,4 +1,4 @@
 server_id,host,username,password,url_format
 kstv,http://kstv.us:8080,jimmyrhale,JE1974aa$$,{host}/{username}/{password}/{channel_id}
 backup,http://11374b1a.edemist.com,,2SXSBE6GL5QXEU,{host}/iptv/{password}/{channel_id}/index.m3u8
-hostengine,http://hostengine.live,AAM467987,BA1125780,{host}/live/{username}/{password}/{channel_id}.m3u
+hostengine,http://hostengine.live,GCC528197,TGB86673456,{host}/live/{username}/{password}/{channel_id}.m3u
