@@ -1,7 +1,76 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/22526
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15929
 
-#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/23321
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/40651
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6521/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53805.m3u
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/338754.m3u
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15928
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/40650
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6492/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53806.m3u
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/338755.m3u
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15927
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/40649
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6522/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53807.m3u
+
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/338756.m3u
+
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15926
+
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/40648
+
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6445/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53808.m3u
+
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/338757.m3u
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15925
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/40647
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6517/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/53809.m3u
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (h)
+http://hostengine.live/live/GCC528197/TGB86673456/339499.m3u
