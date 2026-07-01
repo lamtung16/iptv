@@ -84,12 +84,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/53809.m3u
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/339499.m3u
 
-#EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds.png", RDS (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/40629
-
-#EXTINF:-1 tvg-id="RDS2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/rds-2.png", RDS 2 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/40628
-
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
 
@@ -107,15 +101,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9334/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53986.m3u
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9289/index.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53980.m3u
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905
