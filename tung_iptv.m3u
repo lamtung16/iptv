@@ -179,33 +179,3 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19054/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53853.m3u
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/22526
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/7322/index.m3u8
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/54775.m3u
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (h)
-http://hostengine.live/live/GCC528197/TGB86673456/53390.m3u
-
-#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/23322
-
-#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/23321
-
-#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (k)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15932
-
-#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (b)
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1086/index.m3u8
-
-#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (h)
-http://hostengine.live/live/GCC528197/TGB86673456/54233.m3u
-
-#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (h)
-http://hostengine.live/live/GCC528197/TGB86673456/54260.m3u
