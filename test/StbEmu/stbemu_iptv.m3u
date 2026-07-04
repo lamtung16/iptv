@@ -55,3 +55,6 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:B3&stream=305
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:B3&stream=1905810&extension=ts
+
+#EXTINF:-1 group-title="Test", Test
+http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/3995
