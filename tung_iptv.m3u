@@ -3,17 +3,14 @@
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (h)
 http://hostengine.live/live/GCC528197/TGB86673456/249142.m3u
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2386
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3762
-
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (h)
 http://hostengine.live/live/GCC528197/TGB86673456/295285.m3u
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1454232&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (t)
+http://tectonbrand.com:80/548CA96/1239PWK/664452
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6521/index.m3u8
@@ -23,9 +20,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/53805.m3u
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/338754.m3u
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3146
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077049&extension=ts
@@ -39,9 +33,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/53806.m3u
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/338755.m3u
 
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3145
-
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077048&extension=ts
 
@@ -53,9 +44,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/53807.m3u
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/338756.m3u
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3144
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077047&extension=ts
@@ -69,9 +57,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/53808.m3u
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/338757.m3u
 
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3143
-
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077046&extension=ts
 
@@ -84,9 +69,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/53809.m3u
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/339499.m3u
 
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3142
-
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=2077045&extension=ts
 
@@ -96,23 +78,23 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31954/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/58550.m3u
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/925
-
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9308/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53982.m3u
 
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
-
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1905853&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (t)
+http://tectonbrand.com:80/548CA96/1239PWK/17286
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (t)
+http://tectonbrand.com:80/548CA96/1239PWK/365037
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (t)
+http://tectonbrand.com:80/548CA96/1239PWK/348316
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9334/index.m3u8
@@ -120,14 +102,14 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/9334/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53986.m3u
 
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
-
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=83447&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (t)
+http://tectonbrand.com:80/548CA96/1239PWK/980433
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (t)
+http://tectonbrand.com:80/548CA96/1239PWK/348318
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/1101/index.m3u8
@@ -137,12 +119,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/53307.m3u
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (h)
 http://hostengine.live/live/GCC528197/TGB86673456/285398.m3u
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/21612
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3767
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19156/index.m3u8
@@ -159,9 +135,6 @@ http://hostengine.live/live/GCC528197/TGB86673456/55061.m3u
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53977.m3u
 
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
-
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1458663&extension=ts
 
@@ -177,12 +150,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2505/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53850.m3u
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/737805
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2337
-
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=30567&extension=ts
 
@@ -191,9 +158,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2506/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53851.m3u
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2336
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=30566&extension=ts
@@ -204,9 +168,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6564/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53852.m3u
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2335
-
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=30565&extension=ts
 
@@ -215,9 +176,6 @@ http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19054/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (h)
 http://hostengine.live/live/GCC528197/TGB86673456/53853.m3u
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/675021
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (m)
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=1905810&extension=ts
