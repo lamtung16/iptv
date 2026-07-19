@@ -3,8 +3,8 @@ import requests
 from datetime import datetime, UTC
 from urllib.parse import quote
 
-INPUT_FILE = "output.csv"
-OUTPUT_FILE = "d.csv"
+INPUT_FILE = "source.csv"
+OUTPUT_FILE = "source_out.csv"
 
 HEADERS = {
     "User-Agent": "Tivimate 5.1.6"

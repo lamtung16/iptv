@@ -1,4 +1,5 @@
 server_id,host,username,password,url_format
-kstv,http://kstv.us:8080,jimmyrhale,JE1974aa$$,{host}/{username}/{password}/{channel_id}
 backup,http://11374b1a.edemist.com,,2SXSBE6GL5QXEU,{host}/iptv/{password}/{channel_id}/index.m3u8
 hostengine,http://hostengine.live,GCC528197,TGB86673456,{host}/live/{username}/{password}/{channel_id}.m3u
+rocket,https://restream-live.realiptv.to,MotherOfPins3,8746645,{host}/{username}/{password}/{channel_id}
+macportal,http://line.8kultradnscloud.ru:80,,00:1A:79:11:5F:F7,{host}/play/live.php?mac={password}&stream={channel_id}&extension=ts
