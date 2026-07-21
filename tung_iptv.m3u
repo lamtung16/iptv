@@ -15,6 +15,12 @@ http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/509141
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/418188
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (c)
+http://chasintv.vip/live/Axel/1234/841.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png", Tennis Channel (c)
+http://chasintv.vip/live/Axel/1234/268872.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/59174
 
@@ -23,6 +29,21 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=145
 
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/612562
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (a)
+http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/146485.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (a)
+http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/146486.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (c)
+http://chasintv.vip/live/Axel/1234/318045.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (c)
+http://chasintv.vip/live/Axel/1234/318044.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (c)
+http://chasintv.vip/live/Axel/1234/62933.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/57428
@@ -45,6 +66,9 @@ http://smartvnow.xyz:25461/flossyathome/poohhi1031/127960
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/418553
 
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png", TSN 1 (c)
+http://chasintv.vip/live/Axel/1234/3996.m3u8
+
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/57429
 
@@ -65,6 +89,9 @@ http://smartvnow.xyz:25461/flossyathome/poohhi1031/127961
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/418554
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png", TSN 2 (c)
+http://chasintv.vip/live/Axel/1234/3995.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/57430
@@ -87,6 +114,9 @@ http://smartvnow.xyz:25461/flossyathome/poohhi1031/127962
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/418555
 
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png", TSN 3 (c)
+http://chasintv.vip/live/Axel/1234/3994.m3u8
+
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/57431
 
@@ -108,6 +138,9 @@ http://smartvnow.xyz:25461/flossyathome/poohhi1031/127963
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/418534
 
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-4.png", TSN 4 (c)
+http://chasintv.vip/live/Axel/1234/3993.m3u8
+
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/57432
 
@@ -128,6 +161,9 @@ http://smartvnow.xyz:25461/flossyathome/poohhi1031/127964
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/418535
+
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-5.png", TSN 5 (c)
+http://chasintv.vip/live/Axel/1234/3992.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/60023
@@ -171,6 +207,21 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=190
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508252
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (a)
+http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201043.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (c)
+http://chasintv.vip/live/Axel/1234/276918.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (c)
+http://chasintv.vip/live/Axel/1234/276917.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (c)
+http://chasintv.vip/live/Axel/1234/709389.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (c)
+http://chasintv.vip/live/Axel/1234/709388.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/16559
 
@@ -185,6 +236,18 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=834
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508256
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (a)
+http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201047.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (c)
+http://chasintv.vip/live/Axel/1234/276906.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (c)
+http://chasintv.vip/live/Axel/1234/276905.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (c)
+http://chasintv.vip/live/Axel/1234/709382.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/43964
@@ -210,6 +273,12 @@ http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/419369
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/509149
 
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (c)
+http://chasintv.vip/live/Axel/1234/353.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network (c)
+http://chasintv.vip/live/Axel/1234/354.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/60190
 
@@ -224,6 +293,9 @@ http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/509097
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/418175
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn.png", ESPN (c)
+http://chasintv.vip/live/Axel/1234/919.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/60192
@@ -240,6 +312,9 @@ http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/509098
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/418173
 
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png", ESPN 2 (c)
+http://chasintv.vip/live/Axel/1234/932.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/58918
 
@@ -251,6 +326,15 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=145
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508240
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (a)
+http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201038.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (c)
+http://chasintv.vip/live/Axel/1234/709401.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (c)
+http://chasintv.vip/live/Axel/1234/709400.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/16552
@@ -273,6 +357,12 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=305
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508184
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (c)
+http://chasintv.vip/live/Axel/1234/709378.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (c)
+http://chasintv.vip/live/Axel/1234/709377.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/16551
 
@@ -288,6 +378,12 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=305
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508186
 
+#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (c)
+http://chasintv.vip/live/Axel/1234/709376.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 (c)
+http://chasintv.vip/live/Axel/1234/709375.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/16550
 
@@ -302,6 +398,12 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=305
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508187
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (c)
+http://chasintv.vip/live/Axel/1234/709374.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 (c)
+http://chasintv.vip/live/Axel/1234/709373.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 (e)
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/16549

@@ -4,3 +4,5 @@ macportal,http://line.8kultradnscloud.ru:80,,00:1A:79:11:5F:F7,{host}/play/live.
 etvhosts,http://etvhosts.site:55337,xLuLzNicKx,lager4life,{host}/{username}/{password}/{channel_id}
 smartvnow,http://smartvnow.xyz:25461,flossyathome,poohhi1031,{host}/{username}/{password}/{channel_id}
 websafety101,http://websafety101.net:5050,nel.son9@yahoo.com,bF5GqFUUKV,{host}/{username}/{password}/{channel_id}
+api,http://api.9kvgfqnluc.hitro879.xyz,giovanni.cugino.mattia,silvestro123,{host}/live/{username}/{password}/{channel_id}.m3u8
+chasintv,http://chasintv.vip,Axel,1234,{host}/live/{username}/{password}/{channel_id}.m3u8
