@@ -30,12 +30,6 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=145
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/612562
 
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (a)
-http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/146485.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (a)
-http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/146486.m3u8
-
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-tennis.png", Sky Sports Tennis (c)
 http://chasintv.vip/live/Axel/1234/318045.m3u8
 
@@ -207,9 +201,6 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=190
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508252
 
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (a)
-http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201043.m3u8
-
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (c)
 http://chasintv.vip/live/Axel/1234/276918.m3u8
 
@@ -236,9 +227,6 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=834
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508256
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (a)
-http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201047.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (c)
 http://chasintv.vip/live/Axel/1234/276906.m3u8
@@ -326,9 +314,6 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:11:5F:F7&stream=145
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (w)
 http://websafety101.net:5050/nel.son9@yahoo.com/bF5GqFUUKV/508240
-
-#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (a)
-http://api.9kvgfqnluc.hitro879.xyz/live/giovanni.cugino.mattia/silvestro123/201038.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png", Sky Sports Plus (c)
 http://chasintv.vip/live/Axel/1234/709401.m3u8
