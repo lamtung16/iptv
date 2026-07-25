@@ -1,0 +1,92 @@
+host,username,password,status,created_at,exp_date,active_cons,max_connections
+http://chasintv.vip:80,Guest123,Guest123,Expired,2025-01-02 19:32:48,2026-07-09 13:12:51,0.0,5.0
+http://chasintv.vip:80,Dave1234,Dave1234,Active,2025-10-20 17:21:31,2026-10-20 17:21:31,0.0,5.0
+http://chasintv.vip:80,heidi1111@comcast.net,qR9mXPNXb8,Active,,2026-08-29 02:54:35,0.0,4.0
+http://chasintv.vip:80,Gino,12345678,Active,2025-01-13 18:57:36,2026-08-15 11:12:21,0.0,3.0
+http://chasintv.vip:80,Axel,1234,Active,2025-05-14 20:52:49,2027-05-14 21:00:43,0.0,2.0
+http://chasintv.vip:80,tpachec71,g9gLtNe7ff,Expired,2025-09-06 14:58:56,2026-07-19 01:42:31,0.0,2.0
+http://chasintv.vip:80,paulbsenior@gmail.com,bY99RNLqrM,Active,,2026-10-12 03:39:18,0.0,2.0
+http://chasintv.vip:80,lamspacher@gmail.com,TfqY7ZTWRW,Active,,2026-09-18 21:50:37,0.0,2.0
+http://chasintv.vip:80,ConradWong,FAZvDyXbGe7E,Active,,2026-08-21 05:05:47,0.0,2.0
+http://chasintv.vip:80,dkrein3485@yahoo.com,TR28YgN95Q,Active,,2026-08-16 19:15:26,0.0,2.0
+http://chasintv.vip:80,burkealex993@gmail.com,PN9Ymh2da7,Active,,2026-08-16 10:00:47,0.0,2.0
+http://chasintv.vip:80,MelodyW,nbuLzvFgNsnC,Active,,2026-08-12 08:00:00,0.0,2.0
+http://chasintv.vip:80,Island11,8036490719,Active,,2026-07-22 20:11:35,0.0,2.0
+http://chasintv.vip:80,juan1,juan1,Expired,2024-01-17 19:47:06,2026-07-19 15:40:24,0.0,1.0
+http://chasintv.vip:80,dolph,dolph,Expired,2024-10-07 17:47:24,2026-07-17 17:54:07,0.0,1.0
+http://chasintv.vip:80,anderson1,anderson1,Active,2024-12-27 01:14:51,2026-08-21 22:26:11,0.0,1.0
+http://chasintv.vip:80,Charles,1234,Active,2025-05-12 17:44:15,2026-08-14 21:40:44,0.0,1.0
+http://chasintv.vip:80,miguel1,miguel1,Expired,2025-06-14 22:10:04,2026-06-14 22:10:04,0.0,1.0
+http://chasintv.vip:80,bigscooter1017@gmail.com,RRrt4PRmNT,Expired,2025-09-05 21:31:11,2026-07-09 00:04:38,0.0,1.0
+http://chasintv.vip:80,pinky,pinky,Active,2026-04-08 16:40:28,2026-10-08 16:40:28,0.0,1.0
+http://chasintv.vip:80,BerdieLopez,7064147767,Active,,2026-07-22 00:05:58,0.0,1.0
+http://chasintv.vip:80,Dammion75,Wilson75,Expired,,2026-07-12 00:58:57,0.0,1.0
+http://chasintv.vip:80,floridaregionacct@gmail.com,bWPXZQfR7d,Active,,2026-09-09 02:30:10,1.0,5.0
+http://chasintv.vip:80,Blaine2,Blaine2,Active,2025-09-13 22:06:24,2027-01-11 21:25:20,1.0,4.0
+http://chasintv.vip:80,Rolanda23,8615TH2510,Active,2026-01-19 18:53:52,2026-08-19 17:53:52,1.0,4.0
+http://chasintv.vip:80,Lana15,tjLUeQxVL4LE,Active,,2026-12-20 17:51:41,1.0,4.0
+http://chasintv.vip:80,tony123,tony123,Active,2025-06-10 15:21:40,2026-08-11 01:52:10,1.0,3.0
+http://chasintv.vip:80,infinitihumanservices@yahoo.com,9fh5e7Mr9e,Active,,2026-08-06 13:45:45,1.0,3.0
+http://chasintv.vip:80,Cedric1234,Cedric1234,Active,2024-08-01 01:20:59,2026-08-10 01:32:08,1.0,2.0
+http://chasintv.vip:80,mszala@comcast.net,0323910031,Active,2025-12-27 22:57:35,2026-12-27 22:57:35,1.0,2.0
+http://chasintv.vip:80,eldertch@yahoo.com,gr2RfNgahq,Active,,2027-07-07 03:14:22,1.0,2.0
+http://chasintv.vip:80,888877,888877,Active,2024-08-23 15:07:42,2026-08-30 15:07:42,1.0,1.0
+http://chasintv.vip:80,MikeD2,MikeD2,Active,2024-10-14 23:55:26,2026-07-21 23:55:26,1.0,1.0
+http://chasintv.vip:80,foster1,foster1,Active,2024-10-23 16:33:15,2027-06-05 16:34:02,1.0,1.0
+http://chasintv.vip:80,love1,love1,Active,2025-04-23 13:34:33,2026-07-23 13:34:33,1.0,1.0
+http://chasintv.vip:80,Karen,Karen,Active,2025-05-24 16:51:09,2026-08-01 21:20:10,1.0,1.0
+http://chasintv.vip:80,Fish7270,Fish7270,Active,2025-05-25 14:43:13,2027-05-26 00:49:01,1.0,1.0
+http://chasintv.vip:80,a12345,a12345,Active,2025-08-30 10:29:25,2026-08-30 10:29:25,1.0,1.0
+http://chasintv.vip:80,Julien5690,Julien5690,Active,2025-10-03 15:04:19,2026-10-03 15:04:19,1.0,1.0
+http://chasintv.vip:80,jeff12,jeff12,Active,2025-12-18 01:21:42,2026-12-18 01:21:42,1.0,1.0
+http://chasintv.vip:80,Carl,Lilshorty,Active,,2027-06-29 04:00:00,1.0,1.0
+http://chasintv.vip:80,Icecream-Jones,bAjpsSAskuWM,Active,,2026-12-23 05:00:00,1.0,1.0
+http://chasintv.vip:80,Tio,Tio,Active,2024-09-11 21:20:19,2026-09-20 02:23:35,2.0,5.0
+http://chasintv.vip:80,george,george1234,Active,2024-09-23 14:45:37,2026-09-30 14:45:37,2.0,5.0
+http://chasintv.vip:80,Bailey1,Bailey2,Active,2025-09-05 14:12:18,2026-09-05 14:12:18,2.0,5.0
+http://chasintv.vip:80,hkillinger1@yahoo.com,6hMf39rX59,Active,,2027-01-06 21:17:45,2.0,3.0
+http://chasintv.vip:80,87654321,87654321,Active,2024-03-27 20:51:40,2026-08-06 01:05:01,2.0,2.0
+http://chasintv.vip:80,Jessica123,Jessica123,Active,2025-01-25 20:43:19,2026-08-10 20:23:53,2.0,2.0
+http://chasintv.vip:80,demo1,demo1,Active,2025-05-13 23:51:17,2026-09-29 12:13:48,2.0,2.0
+http://chasintv.vip:80,faith,faith,Active,2025-08-16 20:28:31,2026-08-16 20:28:31,2.0,2.0
+http://chasintv.vip:80,sanders13,sanders13,Active,2025-08-23 14:29:31,2027-05-23 14:29:31,2.0,2.0
+http://chasintv.vip:80,Harry123,Alicea,Active,,2026-12-07 20:01:53,2.0,2.0
+http://chasintv.vip:80,CynthiaD,7064450731,Active,,2026-08-16 21:44:32,2.0,2.0
+http://chasintv.vip:80,6628090044,S809774355,Active,,2026-08-16 19:05:15,2.0,2.0
+http://chasintv.vip:80,dtwjet,UxeavnLE4jsJ,Active,,2026-07-27 08:00:00,3.0,4.0
+http://chasintv.vip:80,elizabeth1,elizabeth1,Active,2025-05-31 12:22:37,2027-05-31 12:22:37,3.0,3.0
+http://chasintv.vip:80,AndyDaniels,Qp7mZXuFcyGr,Active,,2027-06-08 08:00:00,3.0,3.0
+http://chasintv.vip:80,trhoads,BEzkHPZEXFns,Active,,2026-10-23 02:20:59,4.0,5.0
+http://chasintv.vip:80,twizzler,twizzler,Active,2026-06-15 21:26:53,2027-06-15 21:26:52,5.0,5.0
+http://chasintv.vip:80,11111111,11111111,,,,,
+http://chasintv.vip:80,12345,12345,,,,,
+http://chasintv.vip:80,12345678,12345678,,,,,
+http://chasintv.vip:80,123456789,123456789,,,,,
+http://chasintv.vip:80,1234567890,1234567890,,,,,
+http://chasintv.vip:80,13579,13579,,,,,
+http://chasintv.vip:80,55667788,55667788,,,,,
+http://chasintv.vip:80,6624737109,tr4398321,,,,,
+http://chasintv.vip:80,987654321,987654321,,,,,
+http://chasintv.vip:80,abc321,abc321,,,,,
+http://chasintv.vip:80,Anthony44,7068348190,,,,,
+http://chasintv.vip:80,biball55@yahoo.com,7023373399,,,,,
+http://chasintv.vip:80,cassie,cassie,,,,,
+http://chasintv.vip:80,chantelleabadie1970@gmail.com,dMrmX5aTdS,,,,,
+http://chasintv.vip:80,chula,chula,,,,,
+http://chasintv.vip:80,enrico12,enrico12,,,,,
+http://chasintv.vip:80,f_ditta@hotmail.com,dPYL5MSZea,,,,,
+http://chasintv.vip:80,Fatfatfat,Fatfatfat,,,,,
+http://chasintv.vip:80,Jen1,Jen1,,,,,
+http://chasintv.vip:80,jhart,jhart,,,,,
+http://chasintv.vip:80,John,John,,,,,
+http://chasintv.vip:80,KennyB,KennyB,,,,,
+http://chasintv.vip:80,mikeb123,mikeb123,,,,,
+http://chasintv.vip:80,Piner11,qP5wSZX3nH,,,,,
+http://chasintv.vip:80,quintonbogle@gmail.com,9034945760,,,,,
+http://chasintv.vip:80,Robertg,Robertg,,,,,
+http://chasintv.vip:80,Ronald,Ronald1,,,,,
+http://chasintv.vip:80,shay,shay,,,,,
+http://chasintv.vip:80,StreamersTv,f19e1d3d58,,,,,
+http://chasintv.vip:80,teresa123,teresa123,,,,,
+http://chasintv.vip:80,unicorn,unicorn,,,,,
+http://chasintv.vip:80,yesterday,yesterday,,,,,
