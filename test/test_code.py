@@ -2,9 +2,11 @@ import pandas as pd
 import requests
 from datetime import datetime, UTC
 from urllib.parse import quote
+import sys
 
-INPUT_FILE = "x.csv"
-OUTPUT_FILE = "x.csv"
+if len(sys.argv) > 1:
+    INPUT_FILE = f"{sys.argv[1]}.csv"
+    OUTPUT_FILE = f"{sys.argv[2]}.csv"
 
 HEADERS = {
     "User-Agent": "Tivimate 5.1.6"
