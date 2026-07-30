@@ -193,7 +193,13 @@ http://etvhosts.site:55337/xLuLzNicKx/lager4life/60025
 http://etvhosts.site:55337/xLuLzNicKx/lager4life/60026
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2531/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (b)
 http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/31954/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/19158/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (k)
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
