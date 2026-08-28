@@ -45,16 +45,22 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7263/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" group-title="Football", Arena Sport 1
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7329/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Football", Setanta Sports UA
+#EXTINF:-1 tvg-id="Setanta.LT.lt" group-title="Football", Setanta Sports UA
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/272/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Football", Setanta Sports UA
+#EXTINF:-1 tvg-id="Setanta.LT.lt" group-title="Football", Setanta Sports UA
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/15183/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Football", ESPN
+#EXTINF:-1 tvg-id="[VIASPOH].V.Sport.Premium.HD.se" group-title="Football", V Sport Premium
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/12079/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.Bar.es" group-title="Football", DAZN 1 ES
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31831/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="Football", ESPN
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19056/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Football", ESPN
+#EXTINF:-1 tvg-id="ESPN.br" group-title="Football", ESPN
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19060/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="General", ESPN
