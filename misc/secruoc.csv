@@ -1,0 +1,2 @@
+server_id,host,username,password,url_format
+backup,http://moilist.ottolok.net,,FX8YANKAXDBBEM,{host}/iptv/{password}/{channel_id}/index.m3u8
