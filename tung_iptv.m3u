@@ -29,6 +29,12 @@ http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/664451.m3u8
 http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/664452.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (3)
 http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/348291.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/498032.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/310967.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/1138920.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/43964
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
@@ -71,6 +77,12 @@ http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/17286.m3u8
 http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/348315.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (3)
 http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/365037.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/1138918.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/497990.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football", Sky Sports Main Event (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/310970.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/16559
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (e)
@@ -85,6 +97,16 @@ http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/17285.m3u8
 http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/980433.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (3)
 http://atlanticflixtv.online:80/live/abdanour141224/37C05A0DD431/365044.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/1138917.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/1030402.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/1140272.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/900674.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football", Sky Sports Premier League (4)
+http://goldenpass.xyz:80/live/Matinjan/C2A65F63F45B/310968.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
 http://etvhosts.site:55337/04bK8yNTr/ls3632YkeB/58918
 #EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="General", Sky Sports Plus (e)
