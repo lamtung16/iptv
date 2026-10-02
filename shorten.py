@@ -4,14 +4,8 @@ import os
 TARGET_CHANNELS = {
     "tennis channel",
     "sky sports tennis",
-    "sky sports main event",
-    "sky sports premier league",
     "usa network",
-    "sky sports plus",
-    "tnt sports 1",
-    "tnt sports 2",
-    "tnt sports 3",
-    "tnt sports 4"
+    "dazn 1"
 }
 
 def filter_m3u(file_path):
