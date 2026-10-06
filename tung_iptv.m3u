@@ -7,14 +7,18 @@ http://pulsetvpro.cc/live/hazel123/hazel123/841.m3u8
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71954.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/316492.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/841.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/268872.m3u8
+=======
+>>>>>>> 9077433954cddb923c2b8731b8674af8639b9199
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/328632.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/1182987.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/328632.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (e)
@@ -23,6 +27,10 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/59174
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/318045.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/856218.m3u8
+=======
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (e)
+http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/59174
+>>>>>>> 9077433954cddb923c2b8731b8674af8639b9199
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/43964
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (e)
@@ -37,12 +45,15 @@ http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71345.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
 http://pixtv.org/live/334CC37783AFAF0/lVun8e420u/71325.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/353.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/725247.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/268855.m3u8
+=======
+>>>>>>> 9077433954cddb923c2b8731b8674af8639b9199
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (e)
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/60023
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (e)
@@ -53,7 +64,10 @@ http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/60025
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/60026
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19158/index.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/728118.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (3)
 http://rockstartv.show:80/live/antmoore422@yahoo.com/7048555835/273580.m3u8
+=======
+>>>>>>> 9077433954cddb923c2b8731b8674af8639b9199
