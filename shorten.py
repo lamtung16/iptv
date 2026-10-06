@@ -35,7 +35,7 @@ def filter_m3u(file_path):
             channel_name = parts[1].strip() if len(parts) > 1 else ""
             
             # Check if channel name matches any of our targets
-            is_match = any(target in channel_name.lower() for target in TARGET_CHANNELS)
+            is_match = any(target in channel_name.lower() for target in TARGET_CHANNELS) and "(*)" not in channel_name
             
             # Collect the metadata line and the stream URL line that follows it
             if is_match:
