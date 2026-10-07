@@ -5,7 +5,9 @@ TARGET_CHANNELS = {
     "tennis channel",
     "sky sports tennis",
     "usa network",
-    "dazn 1"
+    "dazn 1",
+    "sky sport pl ",
+    "sky sports pl "
 }
 
 def filter_m3u(file_path):
