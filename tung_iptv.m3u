@@ -17,6 +17,12 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328794&extension
 http://iptvgo.cc:80/live/Vargas/723950175/841.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (4)
 http://iptvgo.cc:80/live/Vargas/723950175/268872.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71954.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/316492.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/316476.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (1)
 http://pulsetvpro.cc/live/hazel123/hazel123/328632.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (2)
@@ -25,6 +31,8 @@ http://kwick.cc:80/live/Michelle1/Michelle1/328632.m3u8
 http://phantomzoo.online:80/live/Carl/carl/328632.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (4)
 http://iptvgo.cc:80/live/Vargas/723950175/328632.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis", Tennis Channel 2 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1182987.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (2)
 http://kwick.cc:80/live/Michelle1/Michelle1/318045.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (3)
@@ -33,6 +41,10 @@ http://phantomzoo.online:80/live/Carl/carl/318045.m3u8
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243871&extension=ts
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243870&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/664451.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" group-title="Tennis", Sky Sports Tennis (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/664452.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15905.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
@@ -57,11 +69,23 @@ http://iptvgo.cc:80/live/Vargas/723950175/353.m3u8
 http://iptvgo.cc:80/live/Vargas/723950175/354.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (4)
 http://iptvgo.cc:80/live/Vargas/723950175/268855.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71345.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/71325.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48443.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=85727&extension=ts
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/763969.m3u8
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/942694.m3u8
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/1030807.m3u8
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (5)
+http://silkview.cc/live/MAGG3JJF17/MAG9YGPBA8/151547.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (b)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19158/index.m3u8
