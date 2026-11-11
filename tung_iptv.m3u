@@ -4,7 +4,7 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/22467.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15940.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (1)
-http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/595919.m3u8
+http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/595919.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (2)
 http://kwick.cc:80/live/andreawillis/0574218963/841.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis", Tennis Channel (s)
@@ -20,9 +20,9 @@ http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=243870&extension
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/15905.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
-http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/595712.m3u8
+http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/595712.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (1)
-http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/595713.m3u8
+http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/595713.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
 http://kwick.cc:80/live/andreawillis/0574218963/353.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Football", USA Network (2)
@@ -34,7 +34,7 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (k)
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/48443.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (1)
-http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/155620.m3u8
+http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/155620.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (s)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=85727&extension=ts
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football", DAZN 1 (b)
